@@ -19,26 +19,30 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d")
           LASTWEEK=$(date -u -d "7 days ago" +"%Y-%m-%d")
           
+          # Create trending.md for human-readable version
           echo "# Trending GitHub Repositories" > trending.md
           echo "Fetched on $DATE (UTC)" >> trending.md
           echo "" >> trending.md
           
+          # Create trending.json for structured data
           curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.gi            git commit -m "Describe your change here"thub.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
+            "https://api.github.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
             | jq '{date: "'$DATE'", repos: [.items[] | {name: .full_name, url: .html_url, stars: .stargazers_count}]}' \
             > trending.json
+
 
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add trending.md
+          git add trending.md trending.json
           git commit -m "Daily trending repos update: $(date -u)" || echo "No changes to commit"
 
           # Pull remote changes first to avoid rejection
-          git pull --rebase origin main
+          git pull --rebase origin main || echo "No remote changes to pull"
 
-          # Then push
+          # Push
           git push origin main
+
 
