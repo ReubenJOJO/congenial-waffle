@@ -24,19 +24,21 @@ jobs:
           echo "" >> trending.md
           
           curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
+            "https://api.gi            git commit -m "Describe your change here"thub.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
             | jq '{date: "'$DATE'", repos: [.items[] | {name: .full_name, url: .html_url, stars: .stargazers_count}]}' \
             > trending.json
 
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add trending.md
           git commit -m "Daily trending repos update: $(date -u)" || echo "No changes to commit"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Pull remote changes first to avoid rejection
+          git pull --rebase origin main
+
+          # Then push
+          git push origin main
+
