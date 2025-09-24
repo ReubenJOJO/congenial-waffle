@@ -1,0 +1,41 @@
+name: Daily Commit with Trending Repos
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # runs daily at 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch trending repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +"%Y-%m-%d")
+          LASTWEEK=$(date -u -d "7 days ago" +"%Y-%m-%d")
+          
+          echo "# Trending GitHub Repositories" > trending.md
+          echo "Fetched on $DATE (UTC)" >> trending.md
+          echo "" >> trending.md
+          
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
+            | jq -r '.items[] | "- [\(.full_name)](\(.html_url)) ⭐ \(.stargazers_count) stars"' \
+            >> trending.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trending.md
+          git commit -m "Daily trending repos update: $(date -u)" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
