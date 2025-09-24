@@ -1,0 +1,30 @@
+{
+  "date": "2025-09-24",
+  "repos": [
+    {
+      "name": "QwenLM/Qwen3-Omni",
+      "url": "https://github.com/QwenLM/Qwen3-Omni",
+      "stars": 1747
+    },
+    {
+      "name": "rxi/sj.h",
+      "url": "https://github.com/rxi/sj.h",
+      "stars": 1071
+    },
+    {
+      "name": "MoonTechLab/Selene",
+      "url": "https://github.com/MoonTechLab/Selene",
+      "stars": 760
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Audio",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Audio",
+      "stars": 658
+    },
+    {
+      "name": "TwoSevenOneT/EDR-Freeze",
+      "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
+      "stars": 419
+    }
+  ]
+}
