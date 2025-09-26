@@ -2,7 +2,10 @@ name: Daily Commit with Trending Repos, News & Tech Topics
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # Runs daily at 05:00 UTC
+    - cron: "30 23 * * *"   # 05:00 IST
+    - cron: "30 4 * * *"    # 10:00 IST
+    - cron: "30 9 * * *"    # 15:00 IST
+    - cron: "30 14 * * *"   # 20:00 IST
   workflow_dispatch:
 
 jobs:
@@ -66,7 +69,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add trending.md trending.json news.json tech.json
-          git commit -m "Daily update: $(date -u)" || echo "No changes to commit"
+          git commit -m "Update: $(date -u)" || echo "No changes to commit"
 
           git pull --rebase origin main || echo "No remote changes"
           git push origin main
