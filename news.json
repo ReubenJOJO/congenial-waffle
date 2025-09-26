@@ -2,24 +2,29 @@
   "date": "2025-09-26",
   "headlines": [
     {
-      "title": "‘Ghost of Yotei’ sharpens the samurai revenge formula with raw feeling - The Washington Post",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/",
+      "title": "Starbucks abruptly closes 2 Seattle stores - The Seattle Times",
+      "url": "https://www.seattletimes.com/business/starbucks/starbucks-closes-its-popular-reserve-roastery-store-on-capitol-hill/",
+      "source": "The Seattle Times"
+    },
+    {
+      "title": "New look at ancient skull challenges timeline of human evolution - The Washington Post",
+      "url": "https://www.washingtonpost.com/science/2025/09/25/human-evolution-timeline-million-years/",
       "source": "The Washington Post"
     },
     {
-      "title": "Existing home sales stall in August amid higher mortgage rates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/25/august-existing-home-sales-stall.html",
+      "title": "Cardinals vs. Seahawks live updates: Score, analysis, highlights for 'Thursday Night Football' - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-vs-seahawks-live-updates-score-highlights-thursday-night-football/live/",
+      "source": "CBS Sports"
+    },
+    {
+      "title": "Remains found in Washington confirmed to be fugitive dad wanted in killing of 3 daughters - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/travis-decker-daughters-murder-rcna233552",
+      "source": "NBC News"
+    },
+    {
+      "title": "U.S. to impose 100% tariff on branded, patented drugs unless firms build plants locally, Trump says - CNBC",
+      "url": "https://www.cnbc.com/2025/09/26/us-to-impose-100percent-tariff-on-branded-patented-drugs-unless-firms-build-plants-locally-trump-says.html",
       "source": "CNBC"
-    },
-    {
-      "title": "Starbucks $1 Billion Restructuring to Close Stores, Cut Jobs - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-25/starbucks-to-close-stores-cut-jobs-in-1-billion-restructuring",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Breeze Airways to launch international flights from New Orleans, doubling its local presence - NOLA.com",
-      "url": "https://www.nola.com/news/business/breeze-to-launch-cancun-flights-expand-at-new-orleans-msy/article_a4ffe491-7b1e-46e6-af87-48afd391334d.html",
-      "source": "NOLA.com"
     }
   ]
 }
