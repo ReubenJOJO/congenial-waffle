@@ -2,10 +2,10 @@
 Fetched on 2025-09-26 (UTC)
 
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) ⭐ 2099 stars
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 1496 stars
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 1499 stars
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene) ⭐ 965 stars
-- [yan5xu/ququ](https://github.com/yan5xu/ququ) ⭐ 525 stars
-- [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) ⭐ 491 stars
+- [yan5xu/ququ](https://github.com/yan5xu/ququ) ⭐ 528 stars
+- [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) ⭐ 493 stars
 
 # Top News Headlines
 Fetched on 2025-09-26 (UTC)
