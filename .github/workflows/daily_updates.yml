@@ -1,8 +1,8 @@
-name: Daily Commit with Trending Repos
+name: Daily Commit with Trending Repos, News & Tech Topics
 
 on:
   schedule:
-    - cron: "0 5 * * *" # runs daily at 05:00 UTC
+    - cron: "0 5 * * *"   # Runs daily at 05:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,37 +12,61 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch trending repos
+      - name: Fetch trending repos + news topics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
           DATE=$(date -u +"%Y-%m-%d")
           LASTWEEK=$(date -u -d "7 days ago" +"%Y-%m-%d")
-          
-          # Create trending.md for human-readable version
+
+          # --- GitHub trending repos ---
           echo "# Trending GitHub Repositories" > trending.md
           echo "Fetched on $DATE (UTC)" >> trending.md
           echo "" >> trending.md
-          
-          # Create trending.json for structured data
+
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
+            | jq -r '.items[] | "- [\(.full_name)](\(.html_url)) ⭐ \(.stargazers_count) stars"' \
+            >> trending.md
+
           curl -s -H "Authorization: token $GITHUB_TOKEN" \
             "https://api.github.com/search/repositories?q=created:>$LASTWEEK&sort=stars&order=desc&per_page=5" \
             | jq '{date: "'$DATE'", repos: [.items[] | {name: .full_name, url: .html_url, stars: .stargazers_count}]}' \
             > trending.json
 
+          # --- General News Headlines ---
+          echo "" >> trending.md
+          echo "# Top News Headlines" >> trending.md
+          echo "Fetched on $DATE (UTC)" >> trending.md
 
+          curl -s "https://newsapi.org/v2/top-headlines?language=en&pageSize=5&apiKey=$NEWS_API_KEY" \
+            | jq -r '.articles[] | "- \(.title) — [read more](\(.url))"' \
+            >> trending.md
+
+          curl -s "https://newsapi.org/v2/top-headlines?language=en&pageSize=5&apiKey=$NEWS_API_KEY" \
+            | jq '{date: "'$DATE'", headlines: [.articles[] | {title: .title, url: .url, source: .source.name}]}' \
+            > news.json
+
+          # --- Tech-specific News ---
+          echo "" >> trending.md
+          echo "# Top Tech News" >> trending.md
+          echo "Fetched on $DATE (UTC)" >> trending.md
+
+          curl -s "https://newsapi.org/v2/top-headlines?language=en&category=technology&pageSize=5&apiKey=$NEWS_API_KEY" \
+            | jq -r '.articles[] | "- \(.title) — [read more](\(.url))"' \
+            >> trending.md
+
+          curl -s "https://newsapi.org/v2/top-headlines?language=en&category=technology&pageSize=5&apiKey=$NEWS_API_KEY" \
+            | jq '{date: "'$DATE'", tech: [.articles[] | {title: .title, url: .url, source: .source.name}]}' \
+            > tech.json
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add trending.md trending.json
-          git commit -m "Daily trending repos update: $(date -u)" || echo "No changes to commit"
+          git add trending.md trending.json news.json tech.json
+          git commit -m "Daily update: $(date -u)" || echo "No changes to commit"
 
-          # Pull remote changes first to avoid rejection
-          git pull --rebase origin main || echo "No remote changes to pull"
-
-          # Push
+          git pull --rebase origin main || echo "No remote changes"
           git push origin main
-
-
