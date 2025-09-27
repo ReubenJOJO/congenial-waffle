@@ -4,27 +4,27 @@
     {
       "name": "QwenLM/Qwen3-Omni",
       "url": "https://github.com/QwenLM/Qwen3-Omni",
-      "stars": 2166
+      "stars": 2187
     },
     {
       "name": "JerryZLiu/Dayflow",
       "url": "https://github.com/JerryZLiu/Dayflow",
-      "stars": 1989
-    },
-    {
-      "name": "TwoSevenOneT/EDR-Freeze",
-      "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-      "stars": 528
+      "stars": 2048
     },
     {
       "name": "apple/ml-simplefold",
       "url": "https://github.com/apple/ml-simplefold",
-      "stars": 511
+      "stars": 544
     },
     {
-      "name": "vercel-labs/coding-agent-template",
-      "url": "https://github.com/vercel-labs/coding-agent-template",
-      "stars": 390
+      "name": "TwoSevenOneT/EDR-Freeze",
+      "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
+      "stars": 530
+    },
+    {
+      "name": "iChochy/NCE",
+      "url": "https://github.com/iChochy/NCE",
+      "stars": 418
     }
   ]
 }
