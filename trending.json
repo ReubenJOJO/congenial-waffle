@@ -1,30 +1,30 @@
 {
-  "date": "2025-09-26",
+  "date": "2025-09-27",
   "repos": [
     {
       "name": "QwenLM/Qwen3-Omni",
       "url": "https://github.com/QwenLM/Qwen3-Omni",
-      "stars": 2149
+      "stars": 2159
     },
     {
       "name": "JerryZLiu/Dayflow",
       "url": "https://github.com/JerryZLiu/Dayflow",
-      "stars": 1841
-    },
-    {
-      "name": "MoonTechLab/Selene",
-      "url": "https://github.com/MoonTechLab/Selene",
-      "stars": 990
-    },
-    {
-      "name": "yan5xu/ququ",
-      "url": "https://github.com/yan5xu/ququ",
-      "stars": 602
+      "stars": 1921
     },
     {
       "name": "TwoSevenOneT/EDR-Freeze",
       "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-      "stars": 518
+      "stars": 525
+    },
+    {
+      "name": "apple/ml-simplefold",
+      "url": "https://github.com/apple/ml-simplefold",
+      "stars": 457
+    },
+    {
+      "name": "vercel-labs/coding-agent-template",
+      "url": "https://github.com/vercel-labs/coding-agent-template",
+      "stars": 362
     }
   ]
 }

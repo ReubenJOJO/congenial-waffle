@@ -1,6 +1,11 @@
 {
-  "date": "2025-09-26",
+  "date": "2025-09-27",
   "tech": [
+    {
+      "title": "Microsoft and Asus open Xbox Ally preorders — the X costs $999 - The Verge",
+      "url": "https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder",
+      "source": "The Verge"
+    },
     {
       "title": "Nvidia is letting anyone use its AI voice animation tech - The Verge",
       "url": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source",
@@ -20,11 +25,6 @@
       "title": "iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/",
       "source": "9to5Mac"
-    },
-    {
-      "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
-      "url": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal",
-      "source": "The Verge"
     }
   ]
 }
