@@ -2,29 +2,24 @@
   "date": "2025-09-27",
   "headlines": [
     {
-      "title": "Alabama executes inmate who killed gas station clerk for $250 in 1997 robbery - AL.com",
-      "url": "https://www.al.com/news/2025/09/alabama-inmate-who-killed-gas-station-clerk-for-250-in-1997-set-to-be-executed-thursday.html",
-      "source": "AL.com"
-    },
-    {
-      "title": "Trump says he won’t allow Israel to annex the West Bank - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/25/trump-israel-west-bank/",
+      "title": "Trump announces new tariffs on trucks, furniture and pharmaceuticals - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/25/trump-tariffs-pharmaceuticals-trucks-furniture/",
       "source": "The Washington Post"
     },
     {
-      "title": "White House begins plan for mass firings if there’s a government shutdown - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/25/government-shutdown-omb-firings-trump/",
+      "title": "Human remains identified as Travis Decker, wanted for killing his daughters - NPR",
+      "url": "https://www.npr.org/2025/09/26/nx-s1-5554168/human-remains-travis-decker",
+      "source": "NPR"
+    },
+    {
+      "title": "As Gaza engulfs European politics, Italy sends navy ship on unlikely mission - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/25/gaza-flotilla-italy-spain-navy-israel/",
       "source": "The Washington Post"
     },
     {
-      "title": "'Let's have a trial': Comey proclaims innocence as Trump revels in grand jury indictment he demanded - Politico",
-      "url": "https://www.politico.com/news/2025/09/25/james-comey-charges-indictment-00581501",
-      "source": "Politico"
-    },
-    {
-      "title": "New look at ancient skull challenges timeline of human evolution - The Washington Post",
-      "url": "https://www.washingtonpost.com/science/2025/09/25/human-evolution-timeline-million-years/",
-      "source": "The Washington Post"
+      "title": "Trump says he won't let Netanyahu annex the West Bank - Axios",
+      "url": "https://www.axios.com/2025/09/25/trump-israel-annex-west-bank-netanyahu",
+      "source": "Axios"
     }
   ]
 }
