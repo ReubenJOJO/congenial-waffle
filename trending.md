@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-28 (UTC)
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2301 stars
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 865 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 717 stars
-- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) ⭐ 647 stars
-- [yasadEv/spyder-osint](https://github.com/yasadEv/spyder-osint) ⭐ 579 stars
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2359 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 973 stars
+- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 739 stars
+- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) ⭐ 680 stars
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 665 stars
 
 # Top News Headlines
 Fetched on 2025-09-28 (UTC)
-- "The first domino": Comey indictment sets MAGA retribution in motion - Axios — [read more](https://www.axios.com/2025/09/27/comey-indictment-trump-maga-enemies-list)
-- How to future-proof your knees - BBC — [read more](https://www.bbc.com/future/article/20250926-how-to-futureproof-your-knees)
-- 5 questions experts have about Trump's pharma tariffs - NBC News — [read more](https://www.nbcnews.com/health/health-news/5-questions-experts-trumps-pharma-tariffs-rcna233974)
-- The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN — [read more](https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards)
-- New drones sighted over Denmark's largest military base - France 24 — [read more](https://www.france24.com/en/europe/20250927-new-drones-sighted-over-denmark-s-largest-military-base)
+- Trump says he is authorizing military to use ‘Full Force’ in Portland - Politico — [read more](https://www.politico.com/news/2025/09/27/donald-trump-portland-troops-00583380)
+- Statue of rock n' roll queen Tina Turner unveiled in Tennessee community where she grew up - AP News — [read more](https://apnews.com/article/tina-turner-statue-tennessee-af7c9763df361992136a5150ddaf20fd)
+- 'World Cup win will change these girls' lives' - BBC — [read more](https://www.bbc.com/sport/rugby-union/articles/cpq5w24899ro)
+- Dominion Voting Systems reaches settlement in its $1.3 billion defamation lawsuit against Guiliani - CBS News — [read more](https://www.cbsnews.com/news/dominion-voting-systems-rudy-guiliani-reach-settlement-defamation-lawsuit/)
+- Trump accuses Wray of lying about agency actions on January 6, days after Comey indicted - CNN — [read more](https://www.cnn.com/2025/09/27/politics/trump-accuses-wray-lying)
 
 # Top Tech News
 Fetched on 2025-09-28 (UTC)
-- Your TV's USB port has hidden superpowers: 5 clever ways I use mine - ZDNET — [read more](https://www.zdnet.com/home-and-office/home-entertainment/your-tvs-usb-port-has-hidden-superpowers-5-clever-ways-i-use-mine/)
-- The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN — [read more](https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards)
-- Video: Square Enix Showcases 17 Minutes Of Dragon Quest VII: Reimagined Gameplay - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/09/video-square-enix-showcases-17-minutes-of-dragon-quest-vii-reimagined-gameplay)
-- ChatGPT will let your team collaborate via 'shared projects' - and other work-friendly updates - ZDNET — [read more](https://www.zdnet.com/article/chatgpt-will-let-your-team-collaborate-via-shared-projects-and-other-work-friendly-updates/)
-- Code Vein II Reveals Key Characters and Profiles Ahead of January 2026 Release - Noisy Pixel — [read more](https://noisypixel.net/code-vein-2-key-character-reveals-2026/)
+- PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More to Magic: The Gathering in October - IGN — [read more](https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october)
+- Silent Hill f Looks Incredible With Its Hidden “True Epic” Settings - DSOGaming — [read more](https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/)
+- Destiny 2 Desert Perpetual Epic Raid Loot Table: All Weapons and Armor - The Game Post — [read more](https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-loot-table/)
+- Leak Reveals New Details on Halo Combat Evolved Remake: Hybrid Unreal Engine 5 and Blam Engine, Sprint Mechanic, Co-Dev Studio, and More - The Game Post — [read more](https://thegamepost.com/leak-reveals-new-details-on-halo-combat-evolved-remake/)
+- Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week - The Verge — [read more](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)
