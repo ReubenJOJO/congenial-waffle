@@ -1,30 +1,30 @@
 {
-  "date": "2025-09-27",
+  "date": "2025-09-28",
   "repos": [
-    {
-      "name": "QwenLM/Qwen3-Omni",
-      "url": "https://github.com/QwenLM/Qwen3-Omni",
-      "stars": 2202
-    },
     {
       "name": "JerryZLiu/Dayflow",
       "url": "https://github.com/JerryZLiu/Dayflow",
-      "stars": 2148
-    },
-    {
-      "name": "apple/ml-simplefold",
-      "url": "https://github.com/apple/ml-simplefold",
-      "stars": 589
+      "stars": 2188
     },
     {
       "name": "subhashchy/The-Accidental-CTO",
       "url": "https://github.com/subhashchy/The-Accidental-CTO",
-      "stars": 576
+      "stars": 639
     },
     {
-      "name": "TwoSevenOneT/EDR-Freeze",
-      "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-      "stars": 530
+      "name": "iChochy/NCE",
+      "url": "https://github.com/iChochy/NCE",
+      "stars": 613
+    },
+    {
+      "name": "apple/ml-simplefold",
+      "url": "https://github.com/apple/ml-simplefold",
+      "stars": 608
+    },
+    {
+      "name": "yasadEv/spyder-osint",
+      "url": "https://github.com/yasadEv/spyder-osint",
+      "stars": 577
     }
   ]
 }

@@ -1,30 +1,25 @@
 {
-  "date": "2025-09-27",
+  "date": "2025-09-28",
   "tech": [
     {
-      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
-      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "title": "Woman hospitalized with pain and vomiting—diet soda cured her - Ars Technica",
+      "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
       "source": "Ars Technica"
     },
     {
-      "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
-      "url": "https://www.wired.com/review/apple-airpods-pro-3/",
-      "source": "Wired"
-    },
-    {
-      "title": "JPLers Get Layoff Update Letter - NASA Watch",
-      "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
-      "source": "Nasawatch.com"
-    },
-    {
-      "title": "Costco is already selling piles of Lego Game Boys cheaper than the Lego company - The Verge",
-      "url": "https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early",
-      "source": "The Verge"
-    },
-    {
-      "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
-      "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
+      "title": "Secret Lair: The PlayStation® Superdrop - Magic: The Gathering",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
       "source": "Wizards.com"
+    },
+    {
+      "title": "Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus. - Marcus on AI",
+      "url": "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing",
+      "source": "Substack.com"
+    },
+    {
+      "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
+      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+      "source": "The Verge"
     }
   ]
 }

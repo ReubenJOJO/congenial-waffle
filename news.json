@@ -1,30 +1,20 @@
 {
-  "date": "2025-09-27",
+  "date": "2025-09-28",
   "headlines": [
     {
-      "title": "What Trump’s new tariffs mean for pharmaceuticals and patented drugs - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/26/trump-pharmaceutical-tariffs-drugs-impacts/",
-      "source": "The Washington Post"
+      "title": "DOJ agents will be deployed to ICE facilities to protect federal agents, Bondi says - CNN",
+      "url": "https://www.cnn.com/2025/09/26/politics/bondi-doj-protect-ice-facilities-agents",
+      "source": "CNN"
     },
     {
-      "title": "2025 Ryder Cup results, scores: Europe commands standings, mounts first Day 1 lead on U.S. soil in two decades - CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/ryder-cup-2025-live-updates-results-scores-standings-day-1/live/",
-      "source": "CBS Sports"
-    },
-    {
-      "title": "Nexstar and Sinclair bring Jimmy Kimmel’s show back to local TV stations - AP News",
-      "url": "https://apnews.com/article/jimmy-kimmel-sinclair-affiliates-40489e9058a609029ebcb2ef894221e9",
-      "source": "Associated Press"
-    },
-    {
-      "title": "Purdy good to start for Niners after sitting out 2 - ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/46390646/qb-brock-purdy-toe-start-49ers-jaguars",
+      "title": "UVa prevails in 2OT after FSU's end-zone bobble - ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/46392654/virginia-prevails-2ot-florida-state-end-zone-bobble",
       "source": "ESPN"
     },
     {
-      "title": "Supreme Court allows Trump to withhold $4 billion in foreign aid funding - NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-withhold-4-billion-foreign-aid-funding-rcna230348",
-      "source": "NBC News"
+      "title": "Judge who reviewed James Comey's indictment was confused by prosecutor's handling of case, transcript shows - CBS News",
+      "url": "https://www.cbsnews.com/news/judge-james-comey-indictment-confusion-trump/",
+      "source": "CBS News"
     }
   ]
 }
