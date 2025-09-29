@@ -66,8 +66,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Configure Git to use YOUR GitHub identity
+          git config --global user.name "ReubenJOJO"
+          git config --global user.email "josephreuben2002@gmail.com"
+
           git add trending.md trending.json news.json tech.json
           git commit -m "Update: $(date -u)" || echo "No changes to commit"
 
