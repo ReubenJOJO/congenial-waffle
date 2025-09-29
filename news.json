@@ -2,6 +2,11 @@
   "date": "2025-09-29",
   "headlines": [
     {
+      "title": "'Insidious tactics' — Mass Russian missile and drone strike kills at least 4, injures 68 in Kyiv, its surrounding region, Zaporizhzhia - The Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-launches-heavy-bombers-at-ukraine-targets-kyiv-other-cities-with-drones-and-missiles/",
+      "source": "Kyivindependent.com"
+    },
+    {
       "title": "Interstellar Object 3I/ATLAS Appeared To Turn From Red To Green. Why? - IFLScience",
       "url": "https://www.iflscience.com/interstellar-object-3iatlas-appeared-to-turn-from-red-to-green-why-80962",
       "source": "IFLScience"
@@ -12,9 +17,14 @@
       "source": "ESPN"
     },
     {
-      "title": "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40 - AP News",
-      "url": "https://apnews.com/article/india-rally-stampede-a52f7c744b57cbdfa70a8d6fbf1563b0",
-      "source": "Associated Press"
+      "title": "'Meet the Putmans' family says 3 members killed in Michigan car crash, 5 injured - New York Post",
+      "url": "https://nypost.com/2025/09/28/us-news/meet-the-putmans-family-says-3-members-killed-in-michigan-car-crash-5-injured/",
+      "source": "New York Post"
+    },
+    {
+      "title": "Autism may be the price of human intelligence - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031224.htm",
+      "source": "Science Daily"
     }
   ]
 }
