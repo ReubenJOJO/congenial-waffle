@@ -1,22 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-29 (UTC)
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2484 stars
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1110 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 797 stars
-- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 795 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 753 stars
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2547 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1238 stars
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 816 stars
+- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 810 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 806 stars
 
 # Top News Headlines
 Fetched on 2025-09-29 (UTC)
-- Here’s what I learned about parenting with major depression - The Washington Post — [read more](https://www.washingtonpost.com/wellness/2025/09/28/parenting-with-major-depression/)
-- Impending tropical storm to approach Southeast US coast this week: What to know about the forecast - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/US/forecast-tropical-storm-bring-flooding-wind-southeast-week/story?id\\u003d125992075)
-- I spent three months with Telly, the free TV that’s always showing ads - The Verge — [read more](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)
-- Trump’s shutdown blame game: Why he says Democrats are at fault - AP News — [read more](https://apnews.com/article/government-shutdown-trump-democrats-health-care-blame-ee852953197b7b59f3447aa3a2167ac0)
+- Trump administration authorizes 200 National Guard members for Portland deployment - Oregon Public Broadcasting - OPB — [read more](https://www.opb.org/article/2025/09/28/oregon-portland-sue-trump-deployment/)
+- Cowboys vs. Packers live updates: Score, analysis, highlights as Micah Parsons returns to Dallas in prime time - CBS Sports — [read more](https://www.cbssports.com/nfl/news/cowboys-vs-packers-live-updates-score-analysis-highlights-as-micah-parsons-returns-to-dallas-in-prime-time/live/)
+- Moldova election: Pro-EU party ahead as vote count underway - dw.com — [read more](https://www.dw.com/en/moldova-election-pro-eu-party-takes-decisive-lead/live-74163154)
+- Ravens fall to 1-3 with blowout loss to Chiefs, and Lamar Jackson leaves game with injury - Yahoo Sports — [read more](https://sports.yahoo.com/nfl/article/ravens-fall-to-1-3-with-blowout-loss-to-chiefs-and-lamar-jackson-leaves-game-with-injury-232151307.html)
 
 # Top Tech News
 Fetched on 2025-09-29 (UTC)
-- Rockstar co-founder Dan Houser opens up on Bully 2: "You just can't do all the projects you want" - Eurogamer — [read more](https://www.eurogamer.net/rockstar-co-founder-dan-houser-opens-up-on-bully-2-you-just-cant-do-all-the-projects-you-want)
-- I spent three months with Telly, the free TV that’s always showing ads - The Verge — [read more](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)
-- Apple’s ChatGPT-Style Chatbot App Deserves a Public Release - Bloomberg.com — [read more](https://www.bloomberg.com/news/newsletters/2025-09-28/apple-s-chatgpt-rival-m5-macbook-air-new-monitor-timing-ads-coming-to-maps-mg3ne6rw)
-- A Burner Phone Is Your Best Defense Against Border Searches. Here's What to Know - CNET — [read more](https://www.cnet.com/tech/mobile/a-burner-phone-is-your-best-defense-against-border-searches-heres-what-to-know/)
+- Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades - The Verge — [read more](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)
+- Apple Continues to Prepare iOS 26.0.1 With Multiple Bug Fixes Expected - MacRumors — [read more](https://www.macrumors.com/2025/09/28/ios-26-0-1-what-to-expect/)
+- These Are The Rarest Ford Vehicles You've Probably Never Heard Of - Jalopnik — [read more](https://www.jalopnik.com/1976913/rarest-ford-vehicles-never-heard-of/)
+- Google Pixel 10 vs. Pixel 10 Pro - GSMArena.com — [read more](https://www.gsmarena.com/google_pixel_10_vs_pixel_10_pro_review_battery_camera_price_compared-news-69594.php)
+- Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac — [read more](https://9to5mac.com/2025/09/28/heres-how-apple-stores-are-combating-iphone-17-scratches/)
