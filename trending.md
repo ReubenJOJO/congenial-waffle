@@ -1,11 +1,11 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-29 (UTC)
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2463 stars
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2465 stars
 - [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1074 stars
 - [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 788 stars
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 785 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 727 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 728 stars
 
 # Top News Headlines
 Fetched on 2025-09-29 (UTC)
