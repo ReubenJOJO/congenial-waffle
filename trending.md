@@ -1,22 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-29 (UTC)
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2402 stars
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1008 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 765 stars
-- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 719 stars
-- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) ⭐ 690 stars
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) ⭐ 2438 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1059 stars
+- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 784 stars
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) ⭐ 762 stars
+- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) ⭐ 710 stars
 
 # Top News Headlines
 Fetched on 2025-09-29 (UTC)
-- A storm is set to near the Southeast soon. These are the possible scenarios. - The Washington Post — [read more](https://www.washingtonpost.com/weather/2025/09/27/carolinas-southeast-storm-hurricane-imelda-forecast/)
-- Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable — [read more](https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner)
-- 4 dead after flooding in Arizona, including in historic mining town - AP News — [read more](https://apnews.com/article/arizona-flooding-globe-dead-missing-2e0508396b844426e79ca9acce18690c)
-- Top congressional leaders will meet Trump at the White House on Monday as shutdown looms - CNN — [read more](https://www.cnn.com/2025/09/27/politics/government-shutdown-congressional-leaders-trump)
+- Interstellar Object 3I/ATLAS Appeared To Turn From Red To Green. Why? - IFLScience — [read more](https://www.iflscience.com/interstellar-object-3iatlas-appeared-to-turn-from-red-to-green-why-80962)
+- Ducks' Moore breaks through in 2OT upset of PSU - ESPN — [read more](https://www.espn.com/college-football/story/_/id/46406122/oregon-lanning-touts-moore-best-qb-beating-penn-state)
+- Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40 - AP News — [read more](https://apnews.com/article/india-rally-stampede-a52f7c744b57cbdfa70a8d6fbf1563b0)
 
 # Top Tech News
 Fetched on 2025-09-29 (UTC)
+- Big Google Home app redesign with ‘Ask Home’ starts rolling out on iPhone - 9to5Google — [read more](http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/)
+- Round Up: Minecraft Live (September 2025) - New Drops, Mobs, Weapons, DLC And More - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/09/round-up-minecraft-live-september-2025-new-drops-mobs-weapons-dlc-and-more)
 - Little Nightmares Enhanced Edition upgrade for Nintendo Switch players unavailable because of "technical constraints" - Nintendo Everything — [read more](https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/)
-- Mets vs. Marlins: Lineups, broadcast info, and open thread, 9/27/25 - Amazin' Avenue — [read more](https://www.amazinavenue.com/new-york-mets-chat-gamethread/86202/mets-vs-marlins-lineups-broadcast-info-how-open-thread-miami-new-york-baseball-mlb)
-- PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More to Magic: The Gathering in October - IGN — [read more](https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october)
-- Minecraft's next game drop has already been revealed, and I love this new mob that's on the way - Windows Central — [read more](https://www.windowscentral.com/gaming/xbox/minecraft-live-mounts-of-mayhem-revealed)
+- iOS 26.0.1 coming soon for iPhone users [Updated] - 9to5Mac — [read more](https://9to5mac.com/2025/09/27/ios-26-0-1-coming-soon-for-iphone-users/)
+- Samsung One UI 8 Update: Third wave of Global rollout - Sammy Fans — [read more](https://www.sammyfans.com/2025/09/27/samsung-one-ui-8-update-third-wave-of-global-rollout/)
