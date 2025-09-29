@@ -1,29 +1,24 @@
 {
-  "date": "2025-09-28",
+  "date": "2025-09-29",
   "headlines": [
     {
-      "title": "Trump says he is authorizing military to use ‘Full Force’ in Portland - Politico",
-      "url": "https://www.politico.com/news/2025/09/27/donald-trump-portland-troops-00583380",
-      "source": "Politico"
+      "title": "A storm is set to near the Southeast soon. These are the possible scenarios. - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2025/09/27/carolinas-southeast-storm-hurricane-imelda-forecast/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Statue of rock n' roll queen Tina Turner unveiled in Tennessee community where she grew up - AP News",
-      "url": "https://apnews.com/article/tina-turner-statue-tennessee-af7c9763df361992136a5150ddaf20fd",
+      "title": "Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable",
+      "url": "https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner",
+      "source": "Mashable"
+    },
+    {
+      "title": "4 dead after flooding in Arizona, including in historic mining town - AP News",
+      "url": "https://apnews.com/article/arizona-flooding-globe-dead-missing-2e0508396b844426e79ca9acce18690c",
       "source": "Associated Press"
     },
     {
-      "title": "'World Cup win will change these girls' lives' - BBC",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cpq5w24899ro",
-      "source": "BBC News"
-    },
-    {
-      "title": "Dominion Voting Systems reaches settlement in its $1.3 billion defamation lawsuit against Guiliani - CBS News",
-      "url": "https://www.cbsnews.com/news/dominion-voting-systems-rudy-guiliani-reach-settlement-defamation-lawsuit/",
-      "source": "CBS News"
-    },
-    {
-      "title": "Trump accuses Wray of lying about agency actions on January 6, days after Comey indicted - CNN",
-      "url": "https://www.cnn.com/2025/09/27/politics/trump-accuses-wray-lying",
+      "title": "Top congressional leaders will meet Trump at the White House on Monday as shutdown looms - CNN",
+      "url": "https://www.cnn.com/2025/09/27/politics/government-shutdown-congressional-leaders-trump",
       "source": "CNN"
     }
   ]
