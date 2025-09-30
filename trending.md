@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-30 (UTC)
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1356 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1000 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 861 stars
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 627 stars
-- [Tencent-Hunyuan/Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) ⭐ 333 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1428 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1285 stars
+- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 870 stars
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 651 stars
+- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 367 stars
 
 # Top News Headlines
 Fetched on 2025-09-30 (UTC)
-- "Alien Comet Just Got Nuked By Sun": Interstellar Object 3I/ATLAS Hit By Solar Explosion While Racing 137,000 MPH Past Mars - Rude Baguette — [read more](https://www.rudebaguette.com/en/2025/09/alien-comet-just-got-nuked-by-sun-interstellar-object-3i-atlas-hit-by-solar-explosion-while-racing-137000-mph-past-mars/)
-- Investigators probe for motive in Michigan LDS church shooting, fire - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/US/investigators-probe-motive-michigan-church-shooting-fire/story?id\\u003d126030281)
-- Lufthansa Group To Slash 4,000 Jobs By 2030, In Bid to Improve Efficiency - One Mile at a Time — [read more](https://onemileatatime.com/news/lufthansa-group-slash-thousands-jobs-improve-efficiency/)
-- Swift to add blockchain-based ledger to its infrastructure stack in groundbreaking move to accelerate and scale benefits of digital finance across more than 200 countries and territories worldwide - Homepage | Swift — [read more](https://www.swift.com/news-events/press-releases/swift-add-blockchain-based-ledger-its-infrastructure-stack-groundbreaking-move-accelerate-and-scale-benefits-digital-finance)
+- More than 99% of heart disease cases have a risk factor you can address before you get sick, study shows - CNN — [read more](https://www.cnn.com/2025/09/29/health/heart-disease-risk-factors-wellness)
+- "People Have No Clue What Kills The Planet": Stanford Study Shows Flying And Dog Food Cause More Damage Than Recycling While Climate Scientists Hide Truth - Energy Reporters — [read more](https://www.energy-reporters.com/environment/people-have-no-clue-what-kills-the-planet-stanford-study-shows-flying-and-dog-food-cause-more-damage-than-recycling-while-climate-scientists-hide-truth/)
+- Pundits Size Up Ravens' Playoff Chances After Loss in Kansas City | Late for Work - Baltimore Ravens — [read more](https://www.baltimoreravens.com/news/ravens-chiefs-week-4-loss-reaction-lamar-jackson-injury-kyle-hamilton-leadership)
+- Trump announces 100% tariff on foreign-made movies - CNN — [read more](https://www.cnn.com/2025/09/29/economy/trump-movie-tariff)
+- Get a look at the OnePlus 15 from every angle - The Verge — [read more](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
 
 # Top Tech News
 Fetched on 2025-09-30 (UTC)
-- Stable One UI 8 update starts rolling out for Galaxy S23 series - SamMobile — [read more](https://www.sammobile.com/news/galaxy-s23-stable-one-ui-8-update-released/)
-- ROG Xbox Ally X Buying Guide - Preorders Available At Best Buy (September 29) - GameSpot — [read more](https://www.gamespot.com/articles/rog-xbox-ally-preorder-guide/1100-6535007/)
-- I put the iPhone 17 Pro vs Google Pixel 10 Pro through a 7-round face-off — here’s the winner - Tom's Guide — [read more](https://www.tomsguide.com/phones/iphones/i-put-the-iphone-17-pro-vs-google-pixel-10-pro-through-a-7-round-face-off-heres-the-winner)
-- Google's new rules could wipe out sideloading and alternative app stores, F-Droid warns - Android Authority — [read more](https://www.androidauthority.com/f-droid-google-developer-verification-rules-warning-3601860/)
-- One of Destiny 2's Biggest Streamers Is Stepping Away Amid Ongoing Player Frustration With the State of the Game, Saying He's "Tired" of Relentless Community Toxicity: "Community Will Push Me Out Well Before the Game Does" - The Game Post — [read more](https://thegamepost.com/destiny-2-biggest-streamers-stepping-away-game-tired-community-toxicity/)
+- Ford’s CEO isn’t impressed with Apple CarPlay Ultra - The Verge — [read more](https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder)
+- Google’s gradient ‘G’ logo is rolling out everywhere - The Verge — [read more](https://www.theverge.com/news/787176/google-new-logo-gradient-launch)
+- LG UltraFine 6K (32U990A) TB5 Display: Pre-Orders Open September 30 - MacRumors — [read more](https://www.macrumors.com/2025/09/29/lg-ultrafine-6k-32u990a-preorders-sept-30/)
+- Talking Point: So, Did You End Up Pre-Ordering The ROG Xbox Ally? - Pure Xbox — [read more](https://www.purexbox.com/features/talking-point-so-did-you-end-up-pre-ordering-the-rog-xbox-ally)
+- Get a look at the OnePlus 15 from every angle - The Verge — [read more](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
