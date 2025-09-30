@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-09-30 (UTC)
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1428 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1285 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 870 stars
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 651 stars
-- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 367 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1494 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1425 stars
+- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 876 stars
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 679 stars
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 577 stars
 
 # Top News Headlines
 Fetched on 2025-09-30 (UTC)
-- More than 99% of heart disease cases have a risk factor you can address before you get sick, study shows - CNN — [read more](https://www.cnn.com/2025/09/29/health/heart-disease-risk-factors-wellness)
-- "People Have No Clue What Kills The Planet": Stanford Study Shows Flying And Dog Food Cause More Damage Than Recycling While Climate Scientists Hide Truth - Energy Reporters — [read more](https://www.energy-reporters.com/environment/people-have-no-clue-what-kills-the-planet-stanford-study-shows-flying-and-dog-food-cause-more-damage-than-recycling-while-climate-scientists-hide-truth/)
-- Pundits Size Up Ravens' Playoff Chances After Loss in Kansas City | Late for Work - Baltimore Ravens — [read more](https://www.baltimoreravens.com/news/ravens-chiefs-week-4-loss-reaction-lamar-jackson-injury-kyle-hamilton-leadership)
-- Trump announces 100% tariff on foreign-made movies - CNN — [read more](https://www.cnn.com/2025/09/29/economy/trump-movie-tariff)
-- Get a look at the OnePlus 15 from every angle - The Verge — [read more](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
+- Stock Market Today: Nasdaq Closes Higher; Dollar Falls as Possible Government Shutdown Looms — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2025)
+- Nicole Kidman and Keith Urban Are Separating After 19 Years of Marriage - Variety — [read more](https://variety.com/2025/film/news/nicole-kidman-keith-urban-separated-1236534501/)
+- Portland councilor, Army veteran, calls on service members to reject Portland military deployment - Oregon Public Broadcasting - OPB — [read more](https://www.opb.org/article/2025/09/29/portland-councilor-army-veteran-mitch-green-calls-service-member-reject-deployment/)
+- YouTube to pay $24.5 million to settle Trump lawsuit - CNN — [read more](https://www.cnn.com/2025/09/29/business/youtube-settle-trump-lawsuit)
+- JPMorgan’s $20 Billion EA Check Marks Win Over Private Credit - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-09-29/jpmorgan-s-20-billion-ea-check-marks-win-over-private-credit)
 
 # Top Tech News
 Fetched on 2025-09-30 (UTC)
-- Ford’s CEO isn’t impressed with Apple CarPlay Ultra - The Verge — [read more](https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder)
-- Google’s gradient ‘G’ logo is rolling out everywhere - The Verge — [read more](https://www.theverge.com/news/787176/google-new-logo-gradient-launch)
-- LG UltraFine 6K (32U990A) TB5 Display: Pre-Orders Open September 30 - MacRumors — [read more](https://www.macrumors.com/2025/09/29/lg-ultrafine-6k-32u990a-preorders-sept-30/)
-- Talking Point: So, Did You End Up Pre-Ordering The ROG Xbox Ally? - Pure Xbox — [read more](https://www.purexbox.com/features/talking-point-so-did-you-end-up-pre-ordering-the-rog-xbox-ally)
-- Get a look at the OnePlus 15 from every angle - The Verge — [read more](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
+- PlayStation is getting a big, fancy art book full of unused designs - The Verge — [read more](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)
+- 5 under-the-radar games to check out in Steam's big autumn sale - Polygon — [read more](https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/)
+- New Terminator Game Delayed Again Due To Trump's Tariffs - GameSpot — [read more](https://www.gamespot.com/articles/new-terminator-game-delayed-again-due-to-trumps-tariffs/1100-6535095/)
+- F-Droid says Google’s new sideloading restrictions will kill the project - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
