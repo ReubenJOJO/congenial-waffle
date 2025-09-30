@@ -1,25 +1,30 @@
 {
-  "date": "2025-09-29",
+  "date": "2025-09-30",
   "headlines": [
     {
-      "title": "Trump administration authorizes 200 National Guard members for Portland deployment - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/09/28/oregon-portland-sue-trump-deployment/",
-      "source": "OPB News"
+      "title": "Gunman in Michigan LDS church shooting was a veteran of the Iraq War - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/gunman-michigan-lds-church-shooting-veteran-iraq-war/story?id\\\\u003d126025402",
+      "source": "ABC News"
     },
     {
-      "title": "Cowboys vs. Packers live updates: Score, analysis, highlights as Micah Parsons returns to Dallas in prime time - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-vs-packers-live-updates-score-analysis-highlights-as-micah-parsons-returns-to-dallas-in-prime-time/live/",
-      "source": "CBS Sports"
-    },
-    {
-      "title": "Moldova election: Pro-EU party ahead as vote count underway - dw.com",
-      "url": "https://www.dw.com/en/moldova-election-pro-eu-party-takes-decisive-lead/live-74163154",
-      "source": "DW (English)"
-    },
-    {
-      "title": "Ravens fall to 1-3 with blowout loss to Chiefs, and Lamar Jackson leaves game with injury - Yahoo Sports",
-      "url": "https://sports.yahoo.com/nfl/article/ravens-fall-to-1-3-with-blowout-loss-to-chiefs-and-lamar-jackson-leaves-game-with-injury-232151307.html",
+      "title": "Packers vs. Cowboys on Sunday Night Football: In Micah Parsons' return to Dallas, game ends in a tie 40-40 - Yahoo Sports",
+      "url": "https://sports.yahoo.com/nfl/live/packers-vs-cowboys-on-sunday-night-football-in-micah-parsons-return-to-dallas-game-ends-in-a-tie-40-40-225043772.html",
       "source": "Yahoo Entertainment"
+    },
+    {
+      "title": "Albertsons recalls several deli items due to potential listeria contamination - KOB.com",
+      "url": "https://www.kob.com/ap-top-news/ap-top-news-business/albertsons-recalls-several-deli-items-due-to-potential-listeria-contamination/",
+      "source": "KOB"
+    },
+    {
+      "title": "Bad Bunny to Headline 2026 Super Bowl Halftime Show - Billboard",
+      "url": "http://www.billboard.com/music/latin/bad-bunny-super-bowl-halftime-show-2026-headliner-1236077527/",
+      "source": "Billboard"
+    },
+    {
+      "title": "SpaceX launches Starlink satellites from Vandenberg in California - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-20-b1063-vsfb-ocisly",
+      "source": "Space.com"
     }
   ]
 }
