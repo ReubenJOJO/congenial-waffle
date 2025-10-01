@@ -2,29 +2,24 @@
   "date": "2025-10-01",
   "headlines": [
     {
-      "title": "Spotify founder Daniel Ek is stepping down as CEO - The Verge",
-      "url": "https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman",
-      "source": "The Verge"
-    },
-    {
-      "title": "SAG-AFTRA Condemns Tilly Norwood: AI Actress Is Not an Actor - Variety",
-      "url": "https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/",
-      "source": "Variety"
-    },
-    {
-      "title": "TV interview leads to arrest after livestreamed murders of 2 women, teen girl in Argentina - CBS News",
-      "url": "https://www.cbsnews.com/news/livestreamed-murders-women-teen-girl-argentina-arrests/",
-      "source": "CBS News"
-    },
-    {
-      "title": "Hamas leaning toward accepting Trump's Gaza ceasefire plan quickly, source tells CBS News - CBS News",
-      "url": "https://www.cbsnews.com/news/trump-gaza-plan-israel-hamas-ceasefire-proposal-reaction-expected/",
-      "source": "CBS News"
-    },
-    {
-      "title": "Stock futures fall as U.S. government shutdown looms, but Wall Street heads for monthly gains: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/29/stock-market-today-live-updates.html",
+      "title": "Stock futures are lower as government shutdown looms: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/30/stock-market-today-live-updates.html",
       "source": "CNBC"
+    },
+    {
+      "title": "As 2 spending bills fail in Senate, chances to avoid a government shutdown fade - NPR",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+      "source": "NPR"
+    },
+    {
+      "title": "Yankees sit Ben Rice, Jazz Chisholm Jr. in Game 1 gambit against Red Sox’s Garrett Crochet - New York Post",
+      "url": "https://nypost.com/2025/09/30/sports/yankees-sit-ben-rice-jazz-chisholm-jr-in-game-1-gambit/",
+      "source": "New York Post"
+    },
+    {
+      "title": "Trump’s CDC brings back “monkeypox” disease name despite racist connotation - Ars Technica",
+      "url": "https://arstechnica.com/health/2025/09/trumps-cdc-brings-back-monkeypox-disease-name-despite-racist-connotation/",
+      "source": "Ars Technica"
     }
   ]
 }

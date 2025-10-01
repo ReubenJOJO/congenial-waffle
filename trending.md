@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-01 (UTC)
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1590 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1542 stars
-- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 840 stars
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 722 stars
-- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 485 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1619 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1562 stars
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 940 stars
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 737 stars
+- [midudev/jscamp](https://github.com/midudev/jscamp) ⭐ 719 stars
 
 # Top News Headlines
 Fetched on 2025-10-01 (UTC)
-- Spotify founder Daniel Ek is stepping down as CEO - The Verge — [read more](https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman)
-- SAG-AFTRA Condemns Tilly Norwood: AI Actress Is Not an Actor - Variety — [read more](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
-- TV interview leads to arrest after livestreamed murders of 2 women, teen girl in Argentina - CBS News — [read more](https://www.cbsnews.com/news/livestreamed-murders-women-teen-girl-argentina-arrests/)
-- Hamas leaning toward accepting Trump's Gaza ceasefire plan quickly, source tells CBS News - CBS News — [read more](https://www.cbsnews.com/news/trump-gaza-plan-israel-hamas-ceasefire-proposal-reaction-expected/)
-- Stock futures fall as U.S. government shutdown looms, but Wall Street heads for monthly gains: Live updates - CNBC — [read more](https://www.cnbc.com/2025/09/29/stock-market-today-live-updates.html)
+- Stock futures are lower as government shutdown looms: Live updates - CNBC — [read more](https://www.cnbc.com/2025/09/30/stock-market-today-live-updates.html)
+- As 2 spending bills fail in Senate, chances to avoid a government shutdown fade - NPR — [read more](https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight)
+- Yankees sit Ben Rice, Jazz Chisholm Jr. in Game 1 gambit against Red Sox’s Garrett Crochet - New York Post — [read more](https://nypost.com/2025/09/30/sports/yankees-sit-ben-rice-jazz-chisholm-jr-in-game-1-gambit/)
+- Trump’s CDC brings back “monkeypox” disease name despite racist connotation - Ars Technica — [read more](https://arstechnica.com/health/2025/09/trumps-cdc-brings-back-monkeypox-disease-name-despite-racist-connotation/)
 
 # Top Tech News
 Fetched on 2025-10-01 (UTC)
-- We Asked Audio Pros to Blind Test Headphones. The Results Were Surprising - WIRED — [read more](https://www.wired.com/story/we-asked-audio-pros-to-blind-test-headphones-the-results-were-surprising/)
-- Sony Details Ghost of Yotei Day-One Patch Notes — Includes an Extensive List of Improvements - IGN — [read more](https://www.ign.com/articles/sony-details-ghost-of-yotei-day-one-patch-notes-includes-an-extensive-list-of-improvements)
-- FINAL FANTASY VII REMAKE INTERGRADE interview with Director Naoki Hamaguchi - Square Enix — [read more](https://www.square-enix-games.com/news/final-fantasy-vii-remake-intergrade-interview)
-- ‘Dumbphones’ are getting smarter, more costly and offering options for disillusioned consumers - CNN — [read more](https://www.cnn.com/world/dumphones-feature-phones-spc)
-- Opera launches its AI-centric Neon browser - TechCrunch — [read more](https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/)
+- Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR — [read more](https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/)
+- FCC Leaks Upcoming MacBook Pro and More - MacRumors — [read more](https://www.macrumors.com/2025/09/30/fcc-leaks-macbook-pro-and-more/)
+- Amazon France shipped someone their ROG Xbox Ally X almost 3 weeks early… and they’ve already reviewed it - Windows Central — [read more](https://www.windowscentral.com/gaming/xbox/amazon-france-ships-the-rog-xbox-ally-x-three-weeks-early-one-lucky-gamer-posts-first-review)
+- YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/)
+- iOS 26.1 release date: Here’s when to expect the next iPhone update - 9to5Mac — [read more](https://9to5mac.com/2025/09/30/ios-26-1-release-date-heres-when-to-expect-the-next-iphone-update/)
