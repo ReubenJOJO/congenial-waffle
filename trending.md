@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-09-30 (UTC)
+Fetched on 2025-10-01 (UTC)
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1494 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1425 stars
-- [iChochy/NCE](https://github.com/iChochy/NCE) ⭐ 876 stars
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 679 stars
-- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 577 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1523 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1464 stars
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 699 stars
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 673 stars
+- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 441 stars
 
 # Top News Headlines
-Fetched on 2025-09-30 (UTC)
-- Stock Market Today: Nasdaq Closes Higher; Dollar Falls as Possible Government Shutdown Looms — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2025)
-- Nicole Kidman and Keith Urban Are Separating After 19 Years of Marriage - Variety — [read more](https://variety.com/2025/film/news/nicole-kidman-keith-urban-separated-1236534501/)
-- Portland councilor, Army veteran, calls on service members to reject Portland military deployment - Oregon Public Broadcasting - OPB — [read more](https://www.opb.org/article/2025/09/29/portland-councilor-army-veteran-mitch-green-calls-service-member-reject-deployment/)
-- YouTube to pay $24.5 million to settle Trump lawsuit - CNN — [read more](https://www.cnn.com/2025/09/29/business/youtube-settle-trump-lawsuit)
-- JPMorgan’s $20 Billion EA Check Marks Win Over Private Credit - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-09-29/jpmorgan-s-20-billion-ea-check-marks-win-over-private-credit)
+Fetched on 2025-10-01 (UTC)
+- Detective's shirt brings closure to families of yogurt shop murder victims - Austin American-Statesman — [read more](https://www.statesman.com/news/crime/article/yogurt-shop-murders-detective-john-jones-shirt-21072919.php)
+- Dolphins WR Tyreek Hill suffers a graphic knee injury and is carted off, taken to hospital - Yahoo Sports — [read more](https://sports.yahoo.com/nfl/article/dolphins-wr-tyreek-hill-suffers-a-graphic-knee-injury-and-is-carted-off-taken-to-hospital-005821049.html)
+- How Jared Kushner brokered the $55bn takeover of Electronic Arts - Financial Times — [read more](https://www.ft.com/content/61cef75e-ceba-43ee-80e3-040756c6154f)
+- Judge suspends Trump administration’s plan to eliminate hundreds of Voice of America jobs - AP News — [read more](https://apnews.com/article/voice-of-america-trump-kari-lake-253c1c08e767ab4a2340b58e896f88a8)
+- Jets vs. Dolphins live updates: Score, highlights as Darren Waller scores TD in first game since unretiring - CBS Sports — [read more](https://www.cbssports.com/nfl/news/jets-vs-dolphins-live-updates-score-analysis-highlights-for-battle-of-winless-teams-on-monday-night/live/)
 
 # Top Tech News
-Fetched on 2025-09-30 (UTC)
+Fetched on 2025-10-01 (UTC)
+- Xbox sale round-up September 30, 2025 - TrueAchievements — [read more](https://www.trueachievements.com/n60363/xbox-sale-roundup-september-30-2025)
+- Reddit Mods Sued by YouTuber Ethan Klein Fight Efforts to Unmask Them - 404 Media — [read more](https://www.404media.co/reddit-mods-sued-by-youtuber-ethan-klein-fight-efforts-to-unmask-them/)
+- Microsoft is bringing its Windows engineering teams back together again - The Verge — [read more](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
+- "Scientists Built Water-Walking Robots": University Team Creates Insect-Inspired Machines While Polymer Technology Revolution Changes Disaster Response Forever - Energy Reporters — [read more](https://www.energy-reporters.com/news/scientists-built-water-walking-robots-university-team-creates-insect-inspired-machines-while-polymer-technology-revolution-changes-disaster-response-forever/)
 - PlayStation is getting a big, fancy art book full of unused designs - The Verge — [read more](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)
-- 5 under-the-radar games to check out in Steam's big autumn sale - Polygon — [read more](https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/)
-- New Terminator Game Delayed Again Due To Trump's Tariffs - GameSpot — [read more](https://www.gamespot.com/articles/new-terminator-game-delayed-again-due-to-trumps-tariffs/1100-6535095/)
-- F-Droid says Google’s new sideloading restrictions will kill the project - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
