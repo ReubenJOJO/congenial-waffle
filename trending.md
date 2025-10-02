@@ -1,22 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-02 (UTC)
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1660 stars
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1596 stars
-- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) ⭐ 1185 stars
-- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 1050 stars
-- [midudev/jscamp](https://github.com/midudev/jscamp) ⭐ 894 stars
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) ⭐ 1681 stars
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) ⭐ 1605 stars
+- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) ⭐ 1335 stars
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ⭐ 1092 stars
+- [midudev/jscamp](https://github.com/midudev/jscamp) ⭐ 993 stars
 
 # Top News Headlines
 Fetched on 2025-10-02 (UTC)
-- Government shutdown begins as lawmakers fail to reach deal to extend funding - CBS News — [read more](https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-congress-senate-vote/)
-- Peloton ushers in a new era with revamped hardware and AI - The Verge — [read more](https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness)
-- Democrats embrace a shutdown fight in a rare moment of unity against Trump - AP News — [read more](https://apnews.com/article/government-shutdown-democrats-republicans-trump-fight-c4949dace66c18d6099b5e23fd98b049)
+- Government shutdown live updates as White House moves to cut billions in funding - CBS News — [read more](https://www.cbsnews.com/live-updates/government-shutdown-latest-shutdown-begins-trump/)
+- Trump Advisor: ICE Agents Will Be at Bad Bunny Super Bowl Halftime Show - Variety — [read more](https://variety.com/2025/music/news/trump-advisor-ice-agents-bad-bunny-super-bowl-halftime-show-1236536667/)
+- Brock Purdy, Jauan Jennings, Ricky Pearsall all ruled out for 49ers-Rams - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-jauan-jennings-ricky-pearsall-all-ruled-out-for-49ers-rams)
+- Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla - NPR — [read more](https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel)
 
 # Top Tech News
 Fetched on 2025-10-02 (UTC)
-- Snapchat to start charging users for Memories storage - BBC — [read more](https://www.bbc.com/news/articles/cz69238p5p8o)
-- The Pixel Buds Pro 2 gain a surprise feature by borrowing from Apple's playbook - Android Police — [read more](https://www.androidpolice.com/the-pixel-buds-pro-2-charging-indicator-change/)
-- Motorola’s “impossibly thin” Edge 70 leaks in new renders that show two of its stunning colors - PhoneArena — [read more](https://www.phonearena.com/news/Motorolas-impossibly-thin-Edge-70-leaks-in-new-renders-that-show-two-of-its-stunning-colors_id174539)
-- Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET — [read more](https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/)
-- Apple Vision Pro 2 rumors: Release date, upgrades, and more - Mashable — [read more](https://mashable.com/article/apple-vision-pro-2-latest-release-upgrade-info-sept-2025)
+- AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile — [read more](https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/)
+- Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag — [read more](https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire)
+- Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus - The Verge — [read more](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
+- Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals - TechCrunch — [read more](https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/)
