@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-02",
+  "date": "2025-10-03",
   "repos": [
-    {
-      "name": "subhashchy/The-Accidental-CTO",
-      "url": "https://github.com/subhashchy/The-Accidental-CTO",
-      "stars": 1681
-    },
     {
       "name": "Tencent-Hunyuan/HunyuanImage-3.0",
       "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
-      "stars": 1605
+      "stars": 1609
     },
     {
       "name": "pathwaycom/bdh",
       "url": "https://github.com/pathwaycom/bdh",
-      "stars": 1335
-    },
-    {
-      "name": "folke/sidekick.nvim",
-      "url": "https://github.com/folke/sidekick.nvim",
-      "stars": 1092
+      "stars": 1367
     },
     {
       "name": "midudev/jscamp",
       "url": "https://github.com/midudev/jscamp",
-      "stars": 993
+      "stars": 1030
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3.2-Exp",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
+      "stars": 765
+    },
+    {
+      "name": "gumot0/spyder-osint",
+      "url": "https://github.com/gumot0/spyder-osint",
+      "stars": 592
     }
   ]
 }

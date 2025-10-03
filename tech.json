@@ -1,25 +1,25 @@
 {
-  "date": "2025-10-02",
+  "date": "2025-10-03",
   "tech": [
     {
-      "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
-      "source": "SamMobile"
+      "title": "Black Ops 7 Multiplayer Avoids The CoD Fatigue, But Warzone Falls A Step Back - GameSpot",
+      "url": "https://www.gamespot.com/articles/black-ops-7-multiplayer-avoids-cod-fatigue-but-warzone-falters/1100-6535156/",
+      "source": "GameSpot"
     },
     {
-      "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
-      "url": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
-      "source": "PCMag.com"
-    },
-    {
-      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus - The Verge",
-      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
       "source": "The Verge"
     },
     {
-      "title": "Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/",
-      "source": "TechCrunch"
+      "title": "Super Mario Bros.: The Lost Levels Minus World levels found four decades later - Nintendo Everything",
+      "url": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/",
+      "source": "Nintendoeverything.com"
+    },
+    {
+      "title": "Microsoft's ultra compact Windows 11 25H2 update is here - get it in a single restart - ZDNET",
+      "url": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-get-it-in-a-single-restart/",
+      "source": "ZDNet"
     }
   ]
 }
