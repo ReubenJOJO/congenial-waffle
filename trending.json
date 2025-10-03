@@ -2,29 +2,29 @@
   "date": "2025-10-03",
   "repos": [
     {
-      "name": "Tencent-Hunyuan/HunyuanImage-3.0",
-      "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
-      "stars": 1627
-    },
-    {
       "name": "pathwaycom/bdh",
       "url": "https://github.com/pathwaycom/bdh",
-      "stars": 1580
+      "stars": 1750
+    },
+    {
+      "name": "Tencent-Hunyuan/HunyuanImage-3.0",
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
+      "stars": 1638
     },
     {
       "name": "midudev/jscamp",
       "url": "https://github.com/midudev/jscamp",
-      "stars": 1118
+      "stars": 1356
     },
     {
       "name": "deepseek-ai/DeepSeek-V3.2-Exp",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-      "stars": 769
+      "stars": 775
     },
     {
       "name": "yottjane/crypto-arbitrage-bot",
       "url": "https://github.com/yottjane/crypto-arbitrage-bot",
-      "stars": 625
+      "stars": 626
     }
   ]
 }
