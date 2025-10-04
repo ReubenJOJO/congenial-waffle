@@ -1,22 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-04 (UTC)
 
-- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) ⭐ 1892 stars
-- [midudev/jscamp](https://github.com/midudev/jscamp) ⭐ 1492 stars
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 778 stars
+- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) ⭐ 1950 stars
+- [midudev/jscamp](https://github.com/midudev/jscamp) ⭐ 1526 stars
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 784 stars
 - [yottjane/crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot) ⭐ 627 stars
-- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 578 stars
+- [agentic-commerce-protocol/agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 583 stars
 
 # Top News Headlines
 Fetched on 2025-10-04 (UTC)
-- Asia stocks: Nikkei boosted by tech before PM vote, Hong Kong dips on EV losses - Investing.com — [read more](https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-boosted-by-tech-before-pm-vote-hong-kong-dips-on-ev-losses-4269652)
-- Thursday Night Football: Mac Jones, 49ers outlast Rams in OT, winning 26-23 - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-mac-jones-49ers-outlast-rams-in-ot-winning-26-23)
-- Mac Jones Is Proof the Shanahan Scheme Is Most QB-Friendly in NFL History - Sports Illustrated — [read more](https://www.si.com/nfl/mac-jones-proof-shanahan-scheme-most-qb-friendly-in-nfl-history)
+- Afghanistan: A two-day internet blackout shows even the Taliban can’t turn back time - CNN — [read more](https://www.cnn.com/2025/10/03/asia/afghanistan-internet-shutdown-intl-hnk-dst)
+- Shutdown delays jobs report, obscuring potential economic problems - The Washington Post — [read more](https://www.washingtonpost.com/business/2025/10/03/shutdown-economy-jobs-data-labor-department/)
+- How Germany plans to fix its drone problem - DW — [read more](https://www.dw.com/en/german-army-bundeswehr-lacks-combat-drones-heron-tp-enemy-drone-defense-remains-big-challenge/a-74212788)
+- Woman appointed Archbishop of Canterbury in a historic first for the Church of England - CNN — [read more](https://www.cnn.com/2025/10/03/uk/sarah-mullally-female-archbishop-of-canterbury-intl)
+- As shutdown ripples through Georgia, voters consider who to blame - NPR — [read more](https://www.npr.org/2025/10/03/g-s1-91862/shutdown-georgia-voters)
 
 # Top Tech News
 Fetched on 2025-10-04 (UTC)
-- Pokémon Legends: Z-A Celebration Event - Pokémon GO Hub — [read more](https://pokemongohub.net/post/event/pokemon-legends-z-a-celebration-event/)
+- Microsoft says its "trying to reinforce" Xbox Game Pass price increases "by adding more value" - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value)
+- It looks like Windows 11 is about to get a new dedicated OneDrive app — here's your first look - Windows Central — [read more](https://www.windowscentral.com/microsoft/windows-11/new-onedrive-dedicated-app-windows-11-2025-leak)
 - Every October 2025 Game Release From Battlefield 6 To Pokémon Legends - Kotaku — [read more](https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373)
-- Report: Development Screenshots From Cancelled Star Wars: KOTOR Remake by Aspyr Surfaces - MP1st — [read more](https://mp1st.com/news/report-development-screenshots-from-cancelled-star-wars-kotor-remake-by-aspyr-surfaces)
 - New Borderlands 4 Update Buffs Vault Hunters - GameSpot — [read more](https://www.gamespot.com/articles/new-borderlands-4-update-buffs-vault-hunters/1100-6535180/)
-- Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net — [read more](https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes)
