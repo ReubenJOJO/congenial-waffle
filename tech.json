@@ -1,6 +1,21 @@
 {
-  "date": "2025-10-03",
+  "date": "2025-10-04",
   "tech": [
+    {
+      "title": "Voyager 1 is expected to achieve something in 2026 never before accomplished in human history - supercarblondie.com",
+      "url": "https://supercarblondie.com/voyager-1-will-make-human-history/",
+      "source": "Supercarblondie.com"
+    },
+    {
+      "title": "The Toasty Guy From Mortal Kombat Has Left The Studio After 30+ Years - Kotaku",
+      "url": "https://kotaku.com/the-toasty-guy-from-mortal-kombat-has-left-the-studio-after-30-years-2000631151",
+      "source": "Kotaku"
+    },
+    {
+      "title": "Report: Development Screenshots From Cancelled Star Wars: KOTOR Remake by Aspyr Surfaces - MP1st",
+      "url": "https://mp1st.com/news/report-development-screenshots-from-cancelled-star-wars-kotor-remake-by-aspyr-surfaces",
+      "source": "http://mp1st.com/category/news"
+    },
     {
       "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
       "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
@@ -10,21 +25,6 @@
       "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up - TechCrunch",
       "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon now lets Prime members add items to completed orders - The Verge",
-      "url": "https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store",
-      "source": "The Verge"
-    },
-    {
-      "title": "How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta - Xbox Wire",
-      "url": "https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/",
-      "source": "Xbox.com"
-    },
-    {
-      "title": "Apple addresses iOS 26 bug affecting iMessage - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/02/apple-addresses-ios-26-bug-affecting-imessage/",
-      "source": "9to5Mac"
     }
   ]
 }
