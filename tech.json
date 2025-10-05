@@ -2,6 +2,16 @@
   "date": "2025-10-05",
   "tech": [
     {
+      "title": "Scientists race to make 'living' computers powered by human cells - BBC",
+      "url": "https://www.bbc.com/news/articles/cy7p1lzvxjro",
+      "source": "BBC News"
+    },
+    {
+      "title": "Google does Gemini for Home Q&A: Early Access vs. Public Preview, 3rd-party speakers, launch schedule - 9to5Google",
+      "url": "http://9to5google.com/2025/10/03/gemini-for-home-questions-answers/",
+      "source": "9to5google.com"
+    },
+    {
       "title": "‘Smiling Friends’ Team Launches New L.A.-Based Animation Studio - Deadline",
       "url": "http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-studio-1236570049/",
       "source": "Deadline"
@@ -15,16 +25,6 @@
       "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z - TechCrunch",
       "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Xbox’s Hike on Game Pass Shows Cost of Lost ‘Call of Duty’ Sales - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-03/xbox-s-game-pass-hike-shows-cost-of-lost-call-of-duty-sales",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot, and More - Consumer Reports",
-      "url": "https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/",
-      "source": "ConsumerReports.org"
     }
   ]
 }
