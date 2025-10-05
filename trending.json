@@ -1,20 +1,15 @@
 {
-  "date": "2025-10-04",
+  "date": "2025-10-05",
   "repos": [
     {
       "name": "pathwaycom/bdh",
       "url": "https://github.com/pathwaycom/bdh",
-      "stars": 2064
-    },
-    {
-      "name": "midudev/jscamp",
-      "url": "https://github.com/midudev/jscamp",
-      "stars": 1615
+      "stars": 2075
     },
     {
       "name": "deepseek-ai/DeepSeek-V3.2-Exp",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-      "stars": 786
+      "stars": 790
     },
     {
       "name": "yottjane/crypto-arbitrage-bot",
@@ -24,7 +19,12 @@
     {
       "name": "agentic-commerce-protocol/agentic-commerce-protocol",
       "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
-      "stars": 590
+      "stars": 592
+    },
+    {
+      "name": "juxtopposed/Mystical-Blue-Theme",
+      "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
+      "stars": 592
     }
   ]
 }
