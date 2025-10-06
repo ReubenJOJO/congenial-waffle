@@ -4,7 +4,12 @@
     {
       "name": "pathwaycom/bdh",
       "url": "https://github.com/pathwaycom/bdh",
-      "stars": 2358
+      "stars": 2457
+    },
+    {
+      "name": "neuphonic/neutts-air",
+      "url": "https://github.com/neuphonic/neutts-air",
+      "stars": 671
     },
     {
       "name": "yottjane/crypto-arbitrage-bot",
@@ -12,19 +17,14 @@
       "stars": 630
     },
     {
-      "name": "neuphonic/neutts-air",
-      "url": "https://github.com/neuphonic/neutts-air",
-      "stars": 621
-    },
-    {
       "name": "LuoGen-AI/LuoGen-agent",
       "url": "https://github.com/LuoGen-AI/LuoGen-agent",
-      "stars": 530
+      "stars": 534
     },
     {
       "name": "Esubaalew/run",
       "url": "https://github.com/Esubaalew/run",
-      "stars": 471
+      "stars": 497
     }
   ]
 }
