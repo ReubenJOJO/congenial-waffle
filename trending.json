@@ -1,15 +1,10 @@
 {
-  "date": "2025-10-05",
+  "date": "2025-10-06",
   "repos": [
     {
       "name": "pathwaycom/bdh",
       "url": "https://github.com/pathwaycom/bdh",
-      "stars": 2327
-    },
-    {
-      "name": "deepseek-ai/DeepSeek-V3.2-Exp",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-      "stars": 806
+      "stars": 2358
     },
     {
       "name": "yottjane/crypto-arbitrage-bot",
@@ -17,14 +12,19 @@
       "stars": 630
     },
     {
-      "name": "juxtopposed/Mystical-Blue-Theme",
-      "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
-      "stars": 614
+      "name": "neuphonic/neutts-air",
+      "url": "https://github.com/neuphonic/neutts-air",
+      "stars": 621
     },
     {
-      "name": "agentic-commerce-protocol/agentic-commerce-protocol",
-      "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
-      "stars": 600
+      "name": "LuoGen-AI/LuoGen-agent",
+      "url": "https://github.com/LuoGen-AI/LuoGen-agent",
+      "stars": 530
+    },
+    {
+      "name": "Esubaalew/run",
+      "url": "https://github.com/Esubaalew/run",
+      "stars": 471
     }
   ]
 }
