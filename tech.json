@@ -1,6 +1,16 @@
 {
-  "date": "2025-10-06",
+  "date": "2025-10-07",
   "tech": [
+    {
+      "title": "GameStop issues statement on Shiny Koraidon and Miraidon codes for Pokemon Scarlet and Violet - Nintendo Everything",
+      "url": "https://nintendoeverything.com/gamestop-statement-shiny-koraidon-miraidon-pokemon-scarlet-violet/",
+      "source": "Nintendoeverything.com"
+    },
+    {
+      "title": "What could Ben Kindel look like this year? A history of 18-year old NHL forwards - PensBurgh",
+      "url": "https://www.pensburgh.com/general/67622/what-could-ben-kindel-look-like-this-year-a-history-of-18-year-old-nhl-forwards",
+      "source": "PensBurgh"
+    },
     {
       "title": "A Smarter Way to Disagree - Harvard Business Review",
       "url": "https://hbr.org/2025/11/a-smarter-way-to-disagree",
@@ -15,16 +25,6 @@
       "title": "Waffles eat Bluesky - TechCrunch",
       "url": "https://techcrunch.com/2025/10/05/waffles-eat-bluesky/",
       "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI is gearing up to release Agent Builder during DevDay - TestingCatalog",
-      "url": "https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/",
-      "source": "Testingcatalog.com"
-    },
-    {
-      "title": "Valorant reveals new Sengalese Agent Veto at VCT 2025 - Dexerto",
-      "url": "https://www.dexerto.com/valorant/valorant-agent-29-veto-abilities-and-everything-we-know-3262371/",
-      "source": "Dexerto"
     }
   ]
 }
