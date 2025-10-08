@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-07 (UTC)
+Fetched on 2025-10-08 (UTC)
 
-- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) ⭐ 1525 stars
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 887 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 651 stars
-- [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) ⭐ 565 stars
-- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) ⭐ 370 stars
+- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) ⭐ 1656 stars
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 935 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 716 stars
+- [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) ⭐ 577 stars
+- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) ⭐ 375 stars
 
 # Top News Headlines
-Fetched on 2025-10-07 (UTC)
-- Rush announce reunion tour five years after the death of drummer Neil Peart - AP News — [read more](https://apnews.com/article/rush-reunion-tour-neil-peart-new-drummer-anika-nilles-9527015b58124236e8f9413dd074db77)
-- Government shutdown updates: 'There's nothing for us to negotiate,' Johnson says amid shutdown - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id\\u003d126242587)
-- Monday Night Football prediction, odds, line, spread: Jaguars vs. Chiefs picks from expert on 33-17 run - CBS Sports — [read more](https://www.cbssports.com/nfl/news/monday-night-football-prediction-odds-line-spread-jaguars-chiefs-picks/)
-- Gaza ceasefire talks to begin in Egypt, as Israel strikes enclave - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/06/gaza-ceasefire-talks-israel-hamas/)
+Fetched on 2025-10-08 (UTC)
+- Monday Night Football: Trevor Lawrence leads Jaguars to 31-28 win over Chiefs - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-trevor-lawrence-leads-jaguars-to-31-28-win-over-chiefs)
+- Jaguars rookie WR Travis Hunter mades ridiculous catch, also has an injury scare at CB - Yahoo Sports — [read more](https://sports.yahoo.com/nfl/article/jaguars-rookie-wr-travis-hunter-makes-ridiculous-catch-also-has-an-injury-scare-at-cb-023448542.html)
+- Instagram Is Launching Its Own Awards for Creators: “Rings” (Exclusive) - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/business/digital/instagram-rings-awards-program-creators-1236392836/)
+- A divided Israel marks 2 years since Oct. 7 attack as war in Gaza grinds on and hostages languish - AP News — [read more](https://apnews.com/article/israel-palestinians-hamas-war-news-hostages-2-years-10-07-2025-6f19cb2eee5e05091c74f0e6f1bc356a)
 
 # Top Tech News
-Fetched on 2025-10-07 (UTC)
-- Mina the Hollower delayed to unannounced date - Gematsu — [read more](https://www.gematsu.com/2025/10/mina-the-hollower-delayed-to-unannounced-date)
-- Everything new in iOS 26.1 beta 2 - 9to5Mac — [read more](https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/)
-- This is What Future Lamborghinis Could Look Like - Motor1.com — [read more](https://www.motor1.com/news/774818/lamborghini-manifesto-future-design-concept/)
-- Panther Lake Lineup Allegedly Leaks: Intel Stock (NASDAQ:INTC) Slips - TipRanks — [read more](https://www.tipranks.com/news/panther-lake-lineup-allegedly-leaks-intel-stock-nasdaqintc-slips)
-- Apple Fixes Alarms in iOS 26.1 - MacRumors — [read more](https://www.macrumors.com/2025/10/06/apple-fixes-alarms-in-ios-26-1/)
+Fetched on 2025-10-08 (UTC)
+- Retro Zelda-Inspired Adventure 'Mina The Hollower' Has Been Delayed For Switch 2 And Switch - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/retro-zelda-inspired-adventure-mina-the-hollower-has-been-delayed-for-switch-2-and-switch)
+- Xbox sale round-up October 7, 2025 - TrueAchievements — [read more](https://www.trueachievements.com/n60433/xbox-sale-roundup-october-7-2025)
+- Nintendo Is Suing A Reddit Moderator For $4.5 Million - GameSpot — [read more](https://www.gamespot.com/articles/nintendo-is-suing-a-reddit-moderator-for-4-5-million/1100-6535259/)
+- Microsoft is plugging more holes that let you use Windows 11 without an online account - The Verge — [read more](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+- M5 MacBook Pro Could Launch in October as M4 Model Faces Supply Constraints - MacRumors — [read more](https://www.macrumors.com/2025/10/06/m5-macbook-pro-launch-possibilities/)
