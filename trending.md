@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-08 (UTC)
 
-- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) ⭐ 1930 stars
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1036 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 877 stars
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 732 stars
-- [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) ⭐ 597 stars
+- [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) ⭐ 1963 stars
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1083 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 993 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 981 stars
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 758 stars
 
 # Top News Headlines
 Fetched on 2025-10-08 (UTC)
-- PFT’s Week 6 2025 NFL power rankings - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-6-2025-nfl-power-rankings)
-- At the center of shutdown fight, health care is one of the most intractable issues in Congress - AP News — [read more](https://apnews.com/article/shutdown-health-care-subsidies-obamacare-congress-10b2ae9648bc5252fc2bd485ddc83493)
-- The price of gold reached $4,000 an ounce for the first time ever - CNBC — [read more](https://www.cnbc.com/2025/10/07/gold-4000-record.html)
-- Watch Live: Attorney General Pam Bondi testifies at Senate hearing on oversight of DOJ - CBS News — [read more](https://www.cbsnews.com/live-updates/pam-bondi-hearing-senate-judiciary-committee-attorney-general/)
+- We found the 106 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN — [read more](https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-07)
+- Yankees vs. Blue Jays live updates: Vladimir Guerrero Jr. strikes again - New York Post — [read more](https://nypost.com/2025/10/07/sports/yankees-vs-blue-jays-live-updates-game-3-score-news-and-highlights/)
+- Supreme Court seems highly doubtful of limits on conversion therapy for minors - NPR — [read more](https://www.npr.org/2025/10/07/nx-s1-5563987/supreme-court-conversion-therapy-colorado)
+- Google’s latest AI model uses a web browser like you do - The Verge — [read more](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
+- Government shutdown drags on as health care compromise remains elusive - AP News — [read more](https://apnews.com/article/shutdown-health-care-subsidies-obamacare-congress-10b2ae9648bc5252fc2bd485ddc83493)
 
 # Top Tech News
 Fetched on 2025-10-08 (UTC)
-- One of Borderlands' most hated characters seems to have been cut from Borderlands 4 - Eurogamer — [read more](https://www.eurogamer.net/one-of-borderlands-most-hated-characters-seems-to-have-been-cut-from-borderlands-4)
-- Amazon Big Deal Days hi-fi deals live: all the top headphone, vinyl and speaker savings picked by our experts - What Hi-Fi? — [read more](https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts)
-- Google’s extreme smart home makeover - The Verge — [read more](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)
-- Nintendo has just released a "Close to You" animated video - Nintendo Everything — [read more](https://nintendoeverything.com/nintendo-has-just-released-a-close-to-you-animated-video/)
-- A Sex Writer's Guide to the Best, Hard-to-Find Amazon Prime Day 2025 Sex Deals - Popsugar — [read more](https://www.popsugar.com/sex/amazon-prime-day-sex-deals-october-2025-49462019)
+- Google’s latest AI model uses a web browser like you do - The Verge — [read more](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
+- World of Warcraft: Midnight Developer Q&A: Raids, Housing, Add-ons, Delves, and More - IGN — [read more](https://www.ign.com/articles/world-of-warcraft-midnight-developer-qa-raids-housing-add-ons-delves-and-more)
+- Amazon’s latest Kindle Paperwhite just got its first price drop of the year - The Verge — [read more](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
+- Microsoft removes even more Microsoft account workarounds from Windows 11 build - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/)

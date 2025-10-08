@@ -4,27 +4,27 @@
     {
       "name": "neuphonic/neutts-air",
       "url": "https://github.com/neuphonic/neutts-air",
-      "stars": 1930
+      "stars": 1963
     },
     {
       "name": "openai/chatkit-js",
       "url": "https://github.com/openai/chatkit-js",
-      "stars": 1036
+      "stars": 1083
     },
     {
       "name": "fathulfahmy/aio-usb-drive",
       "url": "https://github.com/fathulfahmy/aio-usb-drive",
-      "stars": 877
+      "stars": 993
     },
     {
       "name": "SamsungSAILMontreal/TinyRecursiveModels",
       "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-      "stars": 732
+      "stars": 981
     },
     {
-      "name": "LuoGen-AI/LuoGen-agent",
-      "url": "https://github.com/LuoGen-AI/LuoGen-agent",
-      "stars": 597
+      "name": "openai/openai-apps-sdk-examples",
+      "url": "https://github.com/openai/openai-apps-sdk-examples",
+      "stars": 758
     }
   ]
 }
