@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-09 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 1120 stars
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1103 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1007 stars
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 886 stars
-- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) ⭐ 394 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 1267 stars
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1122 stars
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1052 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1014 stars
+- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) ⭐ 396 stars
 
 # Top News Headlines
 Fetched on 2025-10-09 (UTC)
-- Dolly Parton's sister asks fans to pray for country singer - BBC — [read more](https://www.bbc.com/news/articles/cjd1m3y00dxo)
-- Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC — [read more](https://www.bbc.com/news/articles/c8ex3wgjlexo)
-- Noem threatens 'four times' more federal officers to Portland after meeting with mayor - KATU — [read more](https://katu.com/news/local/us-department-of-homeland-security-secretary-kristi-noem-threatens-four-times-more-federal-officers-to-portland-after-meeting-mayor-keith-wilson)
-- Yankees' Aaron Judge smashes three-run home run, knots Game 3 against Blue Jays - ESPN — [read more](https://www.espn.com/mlb/story/_/id/46525990/new-york-yankees-aaron-judge-three-homer-home-run-blue-jays-alds-game-3)
-- National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News — [read more](https://apnews.com/article/national-guard-chicago-portland-trump-5c8666818de9f18e9e26860aab814d17)
+- Amazon Big Deal Days hi-fi deals live: all the top headphone, vinyl and speaker savings picked by our experts - What Hi-Fi? — [read more](https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts)
+- 30+ October Prime Day Apple deals 2025: AirPods, iPads, MacBooks on sale - Mashable — [read more](https://mashable.com/article/best-october-prime-day-apple-deals-2025-day-2)
+- Aaron Judge helps bring Yankees’ season back from dead in amazing Game 3 comeback - New York Post — [read more](https://nypost.com/2025/10/07/sports/aaron-judge-leads-yankees-to-game-3-alds-win-over-blue-jays/)
+- ‘You cannot be what you cannot see’: Japan hails first female leader as turning point for society - Financial Times — [read more](https://www.ft.com/content/c95cedd5-0264-451a-8f4f-97d1b9242136)
 
 # Top Tech News
 Fetched on 2025-10-09 (UTC)
-- The electric screwdriver I use for DIY projects is 40 percent off right now - The Verge — [read more](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025)
+- Amazon Big Deal Days hi-fi deals live: all the top headphone, vinyl and speaker savings picked by our experts - What Hi-Fi? — [read more](https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts)
+- Intel’s Next-Gen Panther Lake Lineup Features 30% Higher Power Efficiency Compared to Lunar Lake, Driven By 18A Adoption - Wccftech — [read more](https://wccftech.com/intel-panther-lake-lineup-features-30-higher-power-efficiency-compared-to-lunar-lake/)
+- Nintendo Calls On 'Stranger Things' Star To Promote Its New Pokémon Adventure For Switch 2 - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/nintendo-calls-on-stranger-things-star-to-promote-its-new-pokemon-adventure-for-switch-2)
 - Google Pixel 10 Phones Get Their First Ever Discounts at Amazon for Prime Big Deal Days - IGN — [read more](https://www.ign.com/articles/google-pixel-10-phone-deals-october-prime-day-2025)
-- Sennheiser's new high-res audiophile wireless headphones want to give you the best of both worlds - What Hi-Fi? — [read more](https://www.whathifi.com/headphones/wireless-headphones/sennheisers-new-high-res-audiophile-wireless-headphones-want-to-give-you-the-best-of-both-worlds)
 - Google’s latest AI model uses a web browser like you do - The Verge — [read more](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
