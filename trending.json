@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-08",
+  "date": "2025-10-09",
   "repos": [
     {
-      "name": "neuphonic/neutts-air",
-      "url": "https://github.com/neuphonic/neutts-air",
-      "stars": 1963
+      "name": "SamsungSAILMontreal/TinyRecursiveModels",
+      "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+      "stars": 1120
     },
     {
       "name": "openai/chatkit-js",
       "url": "https://github.com/openai/chatkit-js",
-      "stars": 1083
+      "stars": 1103
     },
     {
       "name": "fathulfahmy/aio-usb-drive",
       "url": "https://github.com/fathulfahmy/aio-usb-drive",
-      "stars": 993
-    },
-    {
-      "name": "SamsungSAILMontreal/TinyRecursiveModels",
-      "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-      "stars": 981
+      "stars": 1007
     },
     {
       "name": "openai/openai-apps-sdk-examples",
       "url": "https://github.com/openai/openai-apps-sdk-examples",
-      "stars": 758
+      "stars": 886
+    },
+    {
+      "name": "ck-zhang/reddix",
+      "url": "https://github.com/ck-zhang/reddix",
+      "stars": 394
     }
   ]
 }
