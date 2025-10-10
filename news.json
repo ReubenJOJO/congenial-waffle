@@ -1,30 +1,20 @@
 {
-  "date": "2025-10-09",
+  "date": "2025-10-10",
   "headlines": [
     {
-      "title": "President Trump posts on Truth Social that Chicago Mayor Johnson, Gov. Pritzker \"should be in jail\" - CBS News",
-      "url": "https://www.cbsnews.com/chicago/news/president-trump-posts-johnson-pritzker-jail/",
-      "source": "CBS News"
+      "title": "Gaza peace deal reached, hostages to be freed - Axios",
+      "url": "https://www.axios.com/2025/10/08/gaza-deal-trump-announce-war-over",
+      "source": "Axios"
     },
     {
-      "title": "Tensions flare on Capitol Hill over government shutdown: 'Keep your mouth shut' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/tensions-flare-capitol-hill-government-shutdown-mouth-shut/story?id\\\\u003d126341090",
-      "source": "ABC News"
+      "title": "Katie Porter’s viral videos plunge campaign into ‘disaster’ - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/katie-porter-viral-videos-campaign-disaster-00599452",
+      "source": "Politico"
     },
     {
-      "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak - Ars Technica",
-      "url": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "UNC exploring potential Bill Belichick ‘exit strategy’ as ‘weird’ rumors surface - New York Post",
-      "url": "https://nypost.com/2025/10/08/sports/unc-exploring-potential-bill-belichick-exit-strategy-as-weird-rumors-surface/",
-      "source": "New York Post"
-    },
-    {
-      "title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News",
-      "url": "https://www.cbsnews.com/news/pope-leo-trump-immigration-crackdown-migrant-letters/",
-      "source": "CBS News"
+      "title": "Intel: Latest on Bill Belichick job security, potential recruiting violations - 247Sports",
+      "url": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-football-coach-bill-belichick-update-violations-intel-information-news-255928097/",
+      "source": "247Sports"
     }
   ]
 }
