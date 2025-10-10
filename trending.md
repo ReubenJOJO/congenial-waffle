@@ -1,23 +1,21 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-10 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 2759 stars
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1239 stars
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1226 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1084 stars
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 544 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3017 stars
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) ⭐ 1264 stars
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1252 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1126 stars
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 750 stars
 
 # Top News Headlines
 Fetched on 2025-10-10 (UTC)
-- The Aaron Boone Yankees Playoff Script Never Changes - The Ringer — [read more](https://www.theringer.com/2025/10/09/mlb/aaron-boone-new-york-yankees-playoff-loss-brian-cashman-aaron-judge)
-- Wyoming library director fired amid uproar over books with LGBTQ+ themes wins $700,000 settlement - CBS News — [read more](https://www.cbsnews.com/news/wyoming-library-director-fired-lgbtq-books-700000-settlement/)
-- Giants vs. Eagles: Preview, prediction, what to watch for in Week 6 - New York Post — [read more](https://nypost.com/2025/10/09/sports/giants-vs-eagles-preview-prediction-what-to-watch-for-in-week-6/)
-- Nobel Peace Prize 2025: What are Trump’s credentials, and can he win? - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/10/9/nobel-peace-prize-2025-what-are-trumps-credentials-and-can-he-win)
+- Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/Politics/trumps-national-guard-faces-critical-legal-tests/story?id\\u003d126354650)
+- Bill Belichick buyout options: What UNC football coach’s contract says - WRAL.com — [read more](https://www.wral.com/sports/bill-belichick-unc-football-buyout-options-october-2025/)
+- Charlie Kirk’s Turning Point USA Sets ‘All American Halftime Show’ in Protest of Bad Bunny’s Super Bowl Performance - Variety — [read more](https://variety.com/2025/tv/news/turning-point-usa-super-bowl-halftime-show-bad-bunny-1236544746/)
 
 # Top Tech News
 Fetched on 2025-10-10 (UTC)
-- LA indie studio Heart Machine is making layoffs - Game Developer — [read more](https://www.gamedeveloper.com/business/heart-machine-making-layoffs-and-ending-development-on-hyper-light-breaker)
-- Fortnite's Halloween Plans Get Off to Messy Start Following Social Media Snafu Involving Doja Cat and a Sex Toy - IGN — [read more](https://www.ign.com/articles/fortnites-halloween-plans-get-off-to-messy-start-following-social-media-snafu-involving-doja-cat-and-a-sex-toy)
-- This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery and charging speeds - Android Authority — [read more](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
-- PSA: Pokémon Legends: Z-A eShop Preloads Go Live Ahead Of Launch - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/psa-pokemon-legends-z-a-eshop-preloads-go-live-ahead-of-launch)
-- All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto — [read more](https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/)
+- The Vision Pro is getting its first live ‘immersive’ sports - The Verge — [read more](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
+- Apple and Google reluctantly comply with Texas age verification law - Ars Technica — [read more](https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/)
+- Apple Releases New Beta Firmware for AirPods Pro 2, AirPods Pro 3 and AirPods 4 - MacRumors — [read more](https://www.macrumors.com/2025/10/09/apple-airpods-beta-firmware-8b5014c/)
+- 512GB microSD Express cards for Switch 2 are cheaper than ever right now - The Verge — [read more](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
