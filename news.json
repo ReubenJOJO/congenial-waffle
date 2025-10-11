@@ -1,20 +1,30 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-11",
   "headlines": [
     {
-      "title": "Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/trumps-national-guard-faces-critical-legal-tests/story?id\\\\u003d126354650",
-      "source": "ABC News"
+      "title": "Judge blocks Trump from deploying troops in Illinois for now - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Bill Belichick buyout options: What UNC football coach’s contract says - WRAL.com",
-      "url": "https://www.wral.com/sports/bill-belichick-unc-football-buyout-options-october-2025/",
-      "source": "WRAL.com"
+      "title": "Eagles at Giants Live Updates | Thursday Night Football | NFL Regular Season Week 6 - Philadelphia Eagles",
+      "url": "https://www.philadelphiaeagles.com/news/eagles-at-giants-game-recap-thursday-night-football-week-6",
+      "source": "PhiladelphiaEagles.com"
     },
     {
-      "title": "Charlie Kirk’s Turning Point USA Sets ‘All American Halftime Show’ in Protest of Bad Bunny’s Super Bowl Performance - Variety",
-      "url": "https://variety.com/2025/tv/news/turning-point-usa-super-bowl-halftime-show-bad-bunny-1236544746/",
-      "source": "Variety"
+      "title": "Fossil found on UK coast is unique 'sword dragon' species - BBC",
+      "url": "https://www.bbc.com/news/articles/cdjzvzzy0mxo",
+      "source": "BBC News"
+    },
+    {
+      "title": "US kicks off controversial financial rescue plan for Argentina - BBC",
+      "url": "https://www.bbc.com/news/articles/c203vx56lqyo",
+      "source": "BBC News"
+    },
+    {
+      "title": "Spanberger and Earle-Sears tussle over violent political rhetoric in only debate - Politico",
+      "url": "https://www.politico.com/news/2025/10/09/spanberger-earle-sears-violent-political-rhetoric-debate-00601171",
+      "source": "Politico"
     }
   ]
 }

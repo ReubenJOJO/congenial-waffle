@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-11",
   "repos": [
     {
       "name": "SamsungSAILMontreal/TinyRecursiveModels",
       "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-      "stars": 3017
-    },
-    {
-      "name": "openai/chatkit-js",
-      "url": "https://github.com/openai/chatkit-js",
-      "stars": 1264
+      "stars": 3150
     },
     {
       "name": "openai/openai-apps-sdk-examples",
       "url": "https://github.com/openai/openai-apps-sdk-examples",
-      "stars": 1252
+      "stars": 1263
     },
     {
       "name": "fathulfahmy/aio-usb-drive",
       "url": "https://github.com/fathulfahmy/aio-usb-drive",
-      "stars": 1126
+      "stars": 1136
     },
     {
       "name": "Mordoria/unnamed_game_1_v2",
       "url": "https://github.com/Mordoria/unnamed_game_1_v2",
-      "stars": 750
+      "stars": 811
+    },
+    {
+      "name": "Uak0/crypto-tax-calculator",
+      "url": "https://github.com/Uak0/crypto-tax-calculator",
+      "stars": 593
     }
   ]
 }
