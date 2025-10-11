@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-11 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3308 stars
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1273 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1150 stars
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 920 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3414 stars
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1277 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1182 stars
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 965 stars
 - [Uak0/crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) ⭐ 593 stars
 
 # Top News Headlines
 Fetched on 2025-10-11 (UTC)
-- Nobel Peace Prize goes to Venezuelan dissident Maria Machado: 'Democracy is in retreat' - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/International/nobel-peace-prize-awarded-maria-corina-machado/story?id\\u003d126355178)
-- Giants rookies Jaxson Dart and Cam Skattebo combine for five touchdowns in historic New York win over Eagles - CNN — [read more](https://www.cnn.com/2025/10/10/sport/football-nfl-week-6-giants-eagles-intl)
-- Trump promised not to let Israel break Gaza ceasefire to get deal - Axios — [read more](https://www.axios.com/2025/10/10/trump-gaza-israel-hamas-ceasefire-enforce)
-- Indiana executes killer, rapist of 15-year-old girl, its third execution since resuming them last year - CBS News — [read more](https://www.cbsnews.com/news/indiana-execution-roy-lee-ward-killer-rapist-stacy-payne/)
-- Takaichi’s bid for Japan’s premiership jolted as Komeito quits ruling coalition, NHK reports - CNBC — [read more](https://www.cnbc.com/2025/10/10/takaichis-bid-for-japans-premiership-jolted-as-komeito-quits-ruling-coalition-nhk-reports.html)
+- Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-10-2025)
+- Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN — [read more](https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-10-25)
+- Timely troop pay is now in Trump’s hands - Politico — [read more](https://www.politico.com/live-updates/2025/10/10/congress/timely-troop-pay-is-now-in-trumps-hands-00601881)
+- Nick Sirianni: Loss to Giants was not up to our standard in all phases, and in coaching - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-loss-to-giants-was-not-up-to-our-standard-in-all-phases-and-in-coaching)
+- Powerful 7.4-magnitude earthquake rocks southern Philippines - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/10/powerful-quake-hits-philippines-davao/)
 
 # Top Tech News
 Fetched on 2025-10-11 (UTC)
+- A digital dark age? The people rescuing forgotten knowledge trapped on old floppy disks - BBC — [read more](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
+- Snapdragon 8 Elite Gen 5 Sample Made On Samsung’s 2nm GAA Process Was Recently Sent To Qualcomm, Signaling Some Positive News - Wccftech — [read more](https://wccftech.com/snapdragon-8-elite-gen-5-sample-on-samsung-2nm-gaa-process-sent-to-qualcomm/)
 - The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses - Hackaday — [read more](https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/)
 - Battlefield 6: Can EA's big-budget gamble pay off? - BBC — [read more](https://www.bbc.com/news/articles/c8xrkxdkkrno)
-- First Look at Tesla's New 3D Buildings and Maps in Update 2025.38 [VIDEO] - Not a Tesla App — [read more](https://www.notateslaapp.com/news/3222/first-look-at-teslas-new-3d-buildings-and-maps-in-update-202538-video)
-- The Vision Pro is getting its first live ‘immersive’ sports - The Verge — [read more](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
+- Apple to Move Health, Fitness Divisions to Services in Reorganization - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-10/apple-to-move-health-fitness-divisions-to-services-in-reorganization)
