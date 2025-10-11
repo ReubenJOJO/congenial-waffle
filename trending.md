@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-11 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3414 stars
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1277 stars
-- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1182 stars
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 965 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3541 stars
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) ⭐ 1295 stars
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) ⭐ 1208 stars
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 979 stars
 - [Uak0/crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) ⭐ 593 stars
 
 # Top News Headlines
 Fetched on 2025-10-11 (UTC)
-- Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-10-2025)
-- Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN — [read more](https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-10-25)
-- Timely troop pay is now in Trump’s hands - Politico — [read more](https://www.politico.com/live-updates/2025/10/10/congress/timely-troop-pay-is-now-in-trumps-hands-00601881)
-- Nick Sirianni: Loss to Giants was not up to our standard in all phases, and in coaching - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-loss-to-giants-was-not-up-to-our-standard-in-all-phases-and-in-coaching)
-- Powerful 7.4-magnitude earthquake rocks southern Philippines - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/10/powerful-quake-hits-philippines-davao/)
+- Government shutdown live updates as federal workers start receiving layoff notices - CBS News — [read more](https://www.cbsnews.com/live-updates/government-shutdown-live-updates-as-military-poised-to-miss-first-paychecks-next-week/)
+- Hundreds of U.S. students quarantined amid measles outbreaks - NBC News — [read more](https://www.nbcnews.com/health/health-news/measles-students-quarantined-south-carolina-minnesota-rcna236844)
+- MIT rejects Trump administration deal for priority federal funding - The Washington Post — [read more](https://www.washingtonpost.com/education/2025/10/10/mit-rejects-trump-compact-education-funding/)
+- Letitia James’ indictment puts Andrew Cuomo in a bind - Politico — [read more](https://www.politico.com/news/2025/10/10/letitia-james-indictment-is-becoming-a-major-subplot-in-the-nyc-mayoral-race-00602946)
+- People regret buying Amazon smart displays after being bombarded with ads - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
 
 # Top Tech News
 Fetched on 2025-10-11 (UTC)
-- A digital dark age? The people rescuing forgotten knowledge trapped on old floppy disks - BBC — [read more](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
-- Snapdragon 8 Elite Gen 5 Sample Made On Samsung’s 2nm GAA Process Was Recently Sent To Qualcomm, Signaling Some Positive News - Wccftech — [read more](https://wccftech.com/snapdragon-8-elite-gen-5-sample-on-samsung-2nm-gaa-process-sent-to-qualcomm/)
-- The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses - Hackaday — [read more](https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/)
-- Battlefield 6: Can EA's big-budget gamble pay off? - BBC — [read more](https://www.bbc.com/news/articles/c8xrkxdkkrno)
-- Apple to Move Health, Fitness Divisions to Services in Reorganization - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-10/apple-to-move-health-fitness-divisions-to-services-in-reorganization)
+- People regret buying Amazon smart displays after being bombarded with ads - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
+- M5 MacBook Pro launch imminent, but some models coming later: report - 9to5Mac — [read more](https://9to5mac.com/2025/10/10/m5-macbook-pro-launch-imminent-but-some-models-coming-later-report/)
+- MoistCr1TiKaL turns off all monetization so viewers can’t “waste” their money - Dexerto — [read more](https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/)
+- All Battlefield 6 bugs and known issues — here's every problem at launch, and all known fixes and workarounds - Windows Central — [read more](https://www.windowscentral.com/gaming/all-battlefield-6-bugs-and-known-issues-heres-every-problem-at-launch-and-all-known-fixes-and-workarounds)
+- Snapdragon 8 Elite Gen 5 Price Per Unit Estimate Will Definitely Make You Question Your Upcoming Android Flagship Purchase - Wccftech — [read more](https://wccftech.com/snapdragon-8-elite-gen-5-price-per-unit-significantly-higher-than-snapdragon-8-elite/)
