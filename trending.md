@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-13 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3845 stars
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 997 stars
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 735 stars
-- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 638 stars
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) ⭐ 606 stars
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 3905 stars
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 1001 stars
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 773 stars
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 670 stars
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) ⭐ 632 stars
 
 # Top News Headlines
 Fetched on 2025-10-13 (UTC)
-- 5 thoughts from Texas-Oklahoma: Arch Manning outduels John Mateer in Red River upset - Dallas News — [read more](https://www.dallasnews.com/sports/texas-longhorns/2025/10/11/5-thoughts-from-texas-oklahoma-arch-manning-outduels-john-mateer-in-red-river-upset/)
-- UFC Rio results: Charles Oliveira smashes Mateusz Gamrot, calls for Max Holloway BMF title bout - Yahoo Sports — [read more](https://sports.yahoo.com/mma/breaking-news/live/ufc-rio-live-updates-charles-oliveira-vs-mateusz-gamrot-results-round-by-round-analysis-highlights-060052487.html)
-- Diane Keaton, Oscar-winning star of 'Annie Hall' and 'The Godfather,' dies at 79 - NPR — [read more](https://www.npr.org/2025/10/11/nx-s1-5571971/diane-keaton-annie-hall-dies)
-- HHS rehiring some people fired through reduction-in-force efforts - Politico — [read more](https://www.politico.com/news/2025/10/11/what-we-know-about-the-cdc-reduction-in-force-00604549)
-- What Dan Lanning said after Oregon lost to Indiana - OregonLive.com — [read more](https://www.oregonlive.com/ducks/2025/10/live-updates-dan-lanning-postgame-press-conference-after-oregon-loses-to-indiana.html)
+- Diane Keaton, ‘Annie Hall’ star and rom-com legend, dies at 79 - The Washington Post — [read more](https://www.washingtonpost.com/style/2025/10/11/diane-keaton-obit/)
+- 16 people died in a blast at a Tennessee explosives factory early Friday, sheriff says - NPR — [read more](https://www.npr.org/2025/10/12/nx-s1-5572366/16-people-died-blast-tennessee-explosives-factory)
+- 'SNL' Cold Open: Tina Fey, Amy Poehler Team Up as Drama Queens Kristi Noem, Pam Bondi - Rolling Stone — [read more](http://www.rollingstone.com/tv-movies/tv-movie-news/snl-trump-tina-fey-amy-poehler-team-up-kristi-noem-pam-bondi-1235445402/)
+- Appeals court bars Trump from deploying National Guard in Illinois - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/11/trump-national-guard-illinois/)
 
 # Top Tech News
 Fetched on 2025-10-13 (UTC)
-- Windows 10: When you should update and what it means for you - BBC — [read more](https://www.bbc.com/news/articles/cy0vzegkqweo)
-- Are You Mean When You're Overstimulated? There's Actually A Reason For That. - buzzfeed.com — [read more](https://www.buzzfeed.com/jillianwilson/experts-say-this-why-youre-mean-when-overstimulated-sc)
-- Super Mario Galaxy 2 on Nintendo Switch removes an NPC from the Wii original - Nintendo Everything — [read more](https://nintendoeverything.com/super-mario-galaxy-2-on-nintendo-switch-removes-an-npc/)
-- Nano Banana image editing comes to AI Mode and Google Lens - 9to5Google — [read more](http://9to5google.com/2025/10/11/google-lens-ai-mode-nano-banana/)
-- Apple ends support for Clips video-editing app - The Verge — [read more](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
+- New Dissidia Final Fantasy title for iOS, Android to be announced on October 14 - Gematsu — [read more](https://www.gematsu.com/2025/10/new-dissidia-final-fantasy-title-for-ios-android-to-be-announced-on-october-14)
+- iOS 26.0.2 coming soon for iPhone users - 9to5Mac — [read more](https://9to5mac.com/2025/10/11/ios-26-0-2-coming-soon-for-iphone-users/)
+- AT&T Website References Next-Generation iPad Pro With M5 Chip - MacRumors — [read more](https://www.macrumors.com/2025/10/11/att-website-references-next-generation-ipad-pro-with-m5-chip/)
+- Journalist Hacks Card Shuffling Machine to Prove How to Cheat in Poker - PokerNews — [read more](https://www.pokernews.com/news/2025/10/journalist-hacks-card-shuffler-to-prove-cheating-49845.htm)
+- Xbox Controllers Are Now Selling for Pennies, Microsoft Is Offloading Prime Day Leftovers - Kotaku — [read more](https://kotaku.com/xbox-controllers-are-now-selling-for-pennies-microsoft-is-offloading-prime-day-leftovers-2000634423)
