@@ -4,27 +4,27 @@
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 6842
+      "stars": 9639
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 1568
+      "stars": 1751
     },
     {
       "name": "KsanaDock/Microverse",
       "url": "https://github.com/KsanaDock/Microverse",
-      "stars": 710
-    },
-    {
-      "name": "simonw/claude-skills",
-      "url": "https://github.com/simonw/claude-skills",
-      "stars": 691
+      "stars": 728
     },
     {
       "name": "steveyegge/beads",
       "url": "https://github.com/steveyegge/beads",
-      "stars": 627
+      "stars": 712
+    },
+    {
+      "name": "simonw/claude-skills",
+      "url": "https://github.com/simonw/claude-skills",
+      "stars": 697
     }
   ]
 }
