@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-13 (UTC)
+Fetched on 2025-10-14 (UTC)
 
-- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) ⭐ 4028 stars
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 3921 stars
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 1396 stars
-- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) ⭐ 1006 stars
-- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 689 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 6842 stars
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 1568 stars
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 710 stars
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) ⭐ 691 stars
+- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 627 stars
 
 # Top News Headlines
-Fetched on 2025-10-13 (UTC)
-- Buccaneers vs. 49ers live updates: Score, analysis, highlights as Baker Mayfield, Mac Jones lighting it up - CBS Sports — [read more](https://www.cbssports.com/nfl/news/buccaneers-vs-49ers-live-updates-score-highlights/live/)
-- Stock futures rebound from Friday’s rout after Trump says China situation ‘will all be fine’: Live updates - CNBC — [read more](https://www.cnbc.com/2025/10/12/stock-market-today-live-updates.html)
-- Trump says he may tell Putin to settle war or he'll give Ukraine Tomahawks - Axios — [read more](https://www.axios.com/2025/10/11/zelensky-trump-tomahawk-missiles-ukraine)
-- US trade envoy Jamieson Greer calls China’s new rare earths curb a ‘power grab’ - South China Morning Post — [read more](https://www.scmp.com/news/china/diplomacy/article/3328725/us-trade-envoy-says-china-deferred-when-us-tried-discuss-export-controls-expansion)
+Fetched on 2025-10-14 (UTC)
+- China’s Export Growth Hits Six-Month High as Trade War Escalates - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-13/china-s-exports-rise-faster-than-expected-as-trade-war-escalates)
+- Postgame fight mars Chiefs' win against Lions - ESPN — [read more](https://www.espn.com/nfl/story/_/id/46578247/lions-branch-punches-chiefs-smith-schuster-setting-scrum)
+- Trump says Ukraine may get Tomahawk missiles to use against Russia - BBC — [read more](https://www.bbc.com/news/articles/c93xpqgzkv0o)
+- Lecornu names new French government after reappointment - politico.eu — [read more](https://www.politico.eu/article/sebastien-lecornu-names-new-government-after-reappointment/)
+- No, Target and Walmart are not removing Xbox products from their stores — as Xbox misinformation reaches new levels - Windows Central — [read more](https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels)
 
 # Top Tech News
-Fetched on 2025-10-13 (UTC)
-- Everything we know about Final Sentence - Dexerto — [read more](https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265822/)
-- Battlefield 6 issues "fix" for jump momentum bug and is "monitoring" Breakthrough player counts - Eurogamer — [read more](https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts)
-- Stephanie Vaquer just gave Becky Lynch a reason to come after her title - Cageside Seats — [read more](https://www.cagesideseats.com/wwe/389375/stephanie-vaquer-just-gave-becky-lynch-a-reason-to-come-after-her-title)
-- Report: Screenshots for Rare’s Everwild Unveiled, Featuring UI and More - MP1st — [read more](https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details)
-- Seattle man discovers the world’s rarest Xbox at a yard sale for $50, a similar one once drew bids 400 times higher - supercarblondie.com — [read more](https://supercarblondie.com/seattle-man-discovered-rare-xbox-yard-sale-for-50/)
+Fetched on 2025-10-14 (UTC)
+- Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android Authority — [read more](https://www.androidauthority.com/samsung-w26-3606529/)
+- No, Target and Walmart are not removing Xbox products from their stores — as Xbox misinformation reaches new levels - Windows Central — [read more](https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels)
+- Tweets of the Week: Rhea Ripley & Iyo Sky shoey, Harley Cameron ventriloquism, more! - Cageside Seats — [read more](https://www.cagesideseats.com/cageside-seats-features/389512/tweets-of-the-week-rhea-ripley-iyo-sky-shoey-harley-cameron-ventriloquism-more)
+- Pokémon GO Events This Week (13 October – 19 October 2025) - Pokémon GO Hub — [read more](https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-19-october-2025/)
+- ‘Real American’ debuts, but that’s not Hulk Hogan walking out, brother - Cageside Seats — [read more](https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe)

@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-13",
+  "date": "2025-10-14",
   "repos": [
-    {
-      "name": "SamsungSAILMontreal/TinyRecursiveModels",
-      "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-      "stars": 4028
-    },
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 3921
+      "stars": 6842
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 1396
-    },
-    {
-      "name": "Mordoria/unnamed_game_1_v2",
-      "url": "https://github.com/Mordoria/unnamed_game_1_v2",
-      "stars": 1006
+      "stars": 1568
     },
     {
       "name": "KsanaDock/Microverse",
       "url": "https://github.com/KsanaDock/Microverse",
-      "stars": 689
+      "stars": 710
+    },
+    {
+      "name": "simonw/claude-skills",
+      "url": "https://github.com/simonw/claude-skills",
+      "stars": 691
+    },
+    {
+      "name": "steveyegge/beads",
+      "url": "https://github.com/steveyegge/beads",
+      "stars": 627
     }
   ]
 }
