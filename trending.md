@@ -1,21 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-14 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 11832 stars
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 1962 stars
-- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 851 stars
-- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 742 stars
-- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ⭐ 715 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 14112 stars
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 2303 stars
+- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1059 stars
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 751 stars
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ⭐ 739 stars
 
 # Top News Headlines
 Fetched on 2025-10-14 (UTC)
-- Live updates: Trump speaks in Israel as last living hostages released by Hamas come back home - CBS News — [read more](https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-hostages-trump-knesset-egypt/)
-- Taylor Swift Bringing Six-Episode ‘Eras Tour’ Documentary and ‘Final Show’ Concert Film to Disney+ in December - Variety — [read more](https://variety.com/2025/music/news/taylor-swift-eras-tour-docuseries-last-show-disney-1236547665/)
-- Watch SpaceX launch its Starship Flight 11 megarocket test flight today - Space — [read more](https://www.space.com/space-exploration/launches-spacecraft/space-starship-flight-11-launch-webcast)
+- Authorities identify 16 killed in Tennessee explosives factory blast - BBC — [read more](https://www.bbc.com/news/articles/c98n4g3p1x8o)
+- SpaceX launches the 11th test flight of its mega Starship rocket - AP News — [read more](https://apnews.com/article/spacex-starship-elon-musk-b4ac6a3ff6ecb04100fab1ac7cf832e6)
+- Stock futures are little changed after big rebound on Wall Street, S&P 500 posts best day since May: Live updates - CNBC — [read more](https://www.cnbc.com/2025/10/13/stock-market-today-live-updates.html)
+- Bills vs Falcons Prediction, Odds, Picks, Inactives, How to Watch Monday Night Football - Action Network — [read more](https://www.actionnetwork.com/nfl/buffalo-bills-vs-atlanta-falcons-prediction-pick-odds-nfl-monday-night-football-october-13-qs)
+- Scientists identify key reason people may use or get addicted to cannabis - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/13/cannabis-marijuana-addiction-genes-study/)
 
 # Top Tech News
 Fetched on 2025-10-14 (UTC)
-- Massive Black Myth Wukong Update Is Going Live Today, Introducing Performance Optimizations - Wccftech — [read more](https://wccftech.com/massive-black-myth-wukong-update-is-going-live-today-introducing-performance-optimizations/)
-- Why some Atlantans are saying ‘Hello’ again, or for first time, to landlines - AJC.com — [read more](https://www.ajc.com/things-to-do/2025/10/why-some-atlantans-are-saying-hello-again-or-for-first-time-to-landlines/)
-- Takashi Iizuka Explains Why Sonic Racing: CrossWorlds Was Delayed On Switch 2 - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/takashi-iizuka-explains-why-sonic-racing-crossworlds-was-delayed-on-switch-2)
-- New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds - WIRED — [read more](https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/)
+- American Airlines adding Google Wallet support for boarding passes - 9to5Google — [read more](http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/)
+- Microsoft AI announces first image generator created in-house - The Verge — [read more](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
+- Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor - 9to5Mac — [read more](https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/)
+- Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica — [read more](https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/)
