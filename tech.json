@@ -1,25 +1,30 @@
 {
-  "date": "2025-10-14",
+  "date": "2025-10-15",
   "tech": [
+    {
+      "title": "Pokémon TCG Pocket Announces \"New And Updated\" Features For First Anniversary - Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary",
+      "source": "Nintendo Life"
+    },
+    {
+      "title": "Tekken 8 Version 2.06 patch notes released - EventHubs",
+      "url": "https://www.eventhubs.com/news/2025/oct/13/tekken-patch-notes-armor-king/",
+      "source": "EventHubs"
+    },
+    {
+      "title": "Netflix makes a major move to win over subscribers - TheStreet",
+      "url": "https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones - Ars Technica",
+      "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+      "source": "Ars Technica"
+    },
     {
       "title": "American Airlines adding Google Wallet support for boarding passes - 9to5Google",
       "url": "http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/",
       "source": "9to5google.com"
-    },
-    {
-      "title": "Microsoft AI announces first image generator created in-house - The Verge",
-      "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica",
-      "url": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
-      "source": "Ars Technica"
     }
   ]
 }

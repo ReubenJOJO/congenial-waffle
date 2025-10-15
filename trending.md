@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-14 (UTC)
+Fetched on 2025-10-15 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 14112 stars
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 2303 stars
-- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1059 stars
-- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 751 stars
-- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ⭐ 739 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 15219 stars
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 2465 stars
+- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1113 stars
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) ⭐ 803 stars
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) ⭐ 774 stars
 
 # Top News Headlines
-Fetched on 2025-10-14 (UTC)
-- Authorities identify 16 killed in Tennessee explosives factory blast - BBC — [read more](https://www.bbc.com/news/articles/c98n4g3p1x8o)
-- SpaceX launches the 11th test flight of its mega Starship rocket - AP News — [read more](https://apnews.com/article/spacex-starship-elon-musk-b4ac6a3ff6ecb04100fab1ac7cf832e6)
-- Stock futures are little changed after big rebound on Wall Street, S&P 500 posts best day since May: Live updates - CNBC — [read more](https://www.cnbc.com/2025/10/13/stock-market-today-live-updates.html)
-- Bills vs Falcons Prediction, Odds, Picks, Inactives, How to Watch Monday Night Football - Action Network — [read more](https://www.actionnetwork.com/nfl/buffalo-bills-vs-atlanta-falcons-prediction-pick-odds-nfl-monday-night-football-october-13-qs)
-- Scientists identify key reason people may use or get addicted to cannabis - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/13/cannabis-marijuana-addiction-genes-study/)
+Fetched on 2025-10-15 (UTC)
+- Biden, Clinton praise Trump for Gaza peace deal - Axios — [read more](https://www.axios.com/2025/10/14/trump-israel-gaza-peace-deal-biden-clinton-praise)
+- Bears vs. Commanders live updates: Score, analysis, highlights for 'Monday Night Football' - CBS Sports — [read more](https://www.cbssports.com/nfl/news/bears-vs-commanders-live-updates-score-highlights-monday-night-football/live/)
+- Silver Hits All-Time High as London Squeeze Sparks Market Havoc - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-13/silver-surges-to-all-time-high-above-52-50-an-ounce)
+- Hundreds of CDC layoffs reversed, but biodefense preparedness staff hit - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/13/cdc-layoffs-reversed-aspr-samhsa/)
 
 # Top Tech News
-Fetched on 2025-10-14 (UTC)
+Fetched on 2025-10-15 (UTC)
+- Pokémon TCG Pocket Announces "New And Updated" Features For First Anniversary - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary)
+- Tekken 8 Version 2.06 patch notes released - EventHubs — [read more](https://www.eventhubs.com/news/2025/oct/13/tekken-patch-notes-armor-king/)
+- Netflix makes a major move to win over subscribers - TheStreet — [read more](https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers)
+- Hackers can steal 2FA codes and private messages from Android phones - Ars Technica — [read more](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/)
 - American Airlines adding Google Wallet support for boarding passes - 9to5Google — [read more](http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/)
-- Microsoft AI announces first image generator created in-house - The Verge — [read more](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
-- Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor - 9to5Mac — [read more](https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/)
-- Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica — [read more](https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/)
