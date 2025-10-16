@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-16 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 19822 stars
-- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1308 stars
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) ⭐ 737 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 666 stars
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) ⭐ 589 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 20795 stars
+- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1329 stars
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 792 stars
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) ⭐ 740 stars
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) ⭐ 600 stars
 
 # Top News Headlines
 Fetched on 2025-10-16 (UTC)
-- Brewers vs. Dodgers live updates and score for NLCS Game 2 - CBS Sports — [read more](https://www.cbssports.com/mlb/news/brewers-dodgers-live-updates-score-results-nlcs-game-2/live/)
-- Young Republicans call for immediate resignations after report on GOP group chat - The Hill — [read more](https://thehill.com/homenews/campaign/5556040-young-republicans-call-immediate-resignations-report-gop-group-chat/)
-- Trump awards Charlie Kirk the Medal of Freedom on what would have been his 32nd birthday - Fox News — [read more](https://www.foxnews.com/live-news/trump-awards-charlie-kirk-medal-freedom-32nd-birthday-oct-14-2025)
-- Trump administration revokes 6 visas over comments about Charlie Kirk - CBS News — [read more](https://www.cbsnews.com/news/trump-administration-revokes-visas-charlie-kirk/)
-- With new cuts at CDC, some fear there's 'nobody to answer the phone' - NPR — [read more](https://www.npr.org/2025/10/14/nx-s1-5574469/cdc-shutdown-federal-layoffs)
+- Trump proclaims Oct. 14 national day of remembrance for Charlie Kirk - Axios — [read more](https://www.axios.com/2025/10/14/trump-charlie-kirk-national-day-remembrance-oct-14)
+- Social Security cost-of-living increase announcement delayed by government shutdown - AP News — [read more](https://apnews.com/article/social-security-cpi-bureau-of-labor-statistics-cc44750abb0c3a5c2de45626891daa17)
+- Most U.S. consumers expect higher holiday prices and a weaker economy, survey finds - CNBC — [read more](https://www.cnbc.com/2025/10/15/us-consumers-expect-high-prices-weak-economy-deloitte-survey-says.html)
+- Titans HC Rumors: Nagy, Smith, Brady - ProFootballRumors.com — [read more](https://www.profootballrumors.com/2025/10/titans-hc-rumors-nagy-smith-brady)
+- Pennsylvania man pleads guilty in arson attack at governor’s mansion - NPR — [read more](https://www.npr.org/2025/10/14/nx-s1-5574497/pennsylvania-guilty-plea-arson-attack-at-governor-mansion)
 
 # Top Tech News
 Fetched on 2025-10-16 (UTC)
+- Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pokémon GO Hub — [read more](https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/)
+- Pokémon Teraleak Reveals Unannounced Games, Seemingly Laying Out Franchise's Major Releases Through 2030 - IGN — [read more](https://www.ign.com/articles/pokmon-teraleak-reveals-unannounced-games-seemingly-laying-out-franchises-major-releases-through-2030)
+- Free-to-play ‘Horrorverse’ tactical RPG shooter Rules of Engagement: The Grey State announced for PC - Gematsu — [read more](https://www.gematsu.com/2025/10/free-to-play-horrorverse-tactical-rpg-shooter-rules-of-engagement-the-grey-state-announced-for-pc)
 - Apple SVP On Why They Dropped The "Plus" From Apple TV & Hints At Subscriber Numbers - Deadline — [read more](http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/)
-- Samsung officially teases Moohan headset launch for next week - The Verge — [read more](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open)
-- Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google — [read more](http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/)
-- Exclusive: Inaudible sound might be the next frontier in wildfire defense - TechCrunch — [read more](https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/)
-- New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider — [read more](https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak)

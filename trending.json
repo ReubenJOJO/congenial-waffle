@@ -4,27 +4,27 @@
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 19822
+      "stars": 20795
     },
     {
       "name": "steveyegge/beads",
       "url": "https://github.com/steveyegge/beads",
-      "stars": 1308
-    },
-    {
-      "name": "simonw/claude-skills",
-      "url": "https://github.com/simonw/claude-skills",
-      "stars": 737
+      "stars": 1329
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
-      "stars": 666
+      "stars": 792
+    },
+    {
+      "name": "simonw/claude-skills",
+      "url": "https://github.com/simonw/claude-skills",
+      "stars": 740
     },
     {
       "name": "alam00000/bentopdf",
       "url": "https://github.com/alam00000/bentopdf",
-      "stars": 589
+      "stars": 600
     }
   ]
 }
