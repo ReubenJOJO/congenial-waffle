@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-15",
+  "date": "2025-10-16",
   "repos": [
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 18971
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars": 3244
+      "stars": 19822
     },
     {
       "name": "steveyegge/beads",
       "url": "https://github.com/steveyegge/beads",
-      "stars": 1286
+      "stars": 1308
     },
     {
-      "name": "ginobefun/agentic-design-patterns-cn",
-      "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
-      "stars": 919
+      "name": "simonw/claude-skills",
+      "url": "https://github.com/simonw/claude-skills",
+      "stars": 737
     },
     {
-      "name": "KsanaDock/Microverse",
-      "url": "https://github.com/KsanaDock/Microverse",
-      "stars": 814
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "stars": 666
+    },
+    {
+      "name": "alam00000/bentopdf",
+      "url": "https://github.com/alam00000/bentopdf",
+      "stars": 589
     }
   ]
 }

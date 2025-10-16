@@ -1,15 +1,15 @@
 {
-  "date": "2025-10-15",
+  "date": "2025-10-16",
   "tech": [
+    {
+      "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
+      "url": "http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/",
+      "source": "Deadline"
+    },
     {
       "title": "Samsung officially teases Moohan headset launch for next week - The Verge",
       "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
       "source": "The Verge"
-    },
-    {
-      "title": "Eddy Cue explains why Apple TV dropped the Plus, and how it’s not confusing - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/14/eddy-cue-explains-why-apple-tv-dropped-the-plus-and-why-its-not-confusing/",
-      "source": "9to5Mac"
     },
     {
       "title": "Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google",
@@ -17,14 +17,14 @@
       "source": "9to5google.com"
     },
     {
-      "title": "YouTube has a new video player - The Verge",
-      "url": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
-      "source": "The Verge"
+      "title": "Exclusive: Inaudible sound might be the next frontier in wildfire defense - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
+      "source": "TechCrunch"
     },
     {
-      "title": "Apple teases new MacBook Pro: ‘Something powerful is coming’ - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/14/apple-teases-new-macbook-pro-something-powerful-is-coming/",
-      "source": "9to5Mac"
+      "title": "New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider",
+      "url": "https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak",
+      "source": "AppleInsider"
     }
   ]
 }
