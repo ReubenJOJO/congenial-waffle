@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-17 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 24460 stars
-- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1574 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1348 stars
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) ⭐ 777 stars
-- [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 593 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 24883 stars
+- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1622 stars
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1385 stars
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) ⭐ 815 stars
+- [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 640 stars
 
 # Top News Headlines
 Fetched on 2025-10-17 (UTC)
-- All the must-see Victoria’s Secret Fashion Show 2025 after party outfits, from Nina Dobrev to Irina Shayk - Page Six — [read more](https://pagesix.com/2025/10/16/photos/all-the-must-see-victorias-secret-fashion-show-2025-after-party-outfits-from-nina-dobrev-to-irina-shayk/)
-- Few heirs keep their parents' wealth advisors — most wealthy benefactors don't mind - CNBC — [read more](https://www.cnbc.com/2025/10/16/heirs-parents-wealth-advisor-cerulli-study.html)
-- Diane Keaton's cause of death revealed by family, report says - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/GMA/Culture/diane-keatons-cause-death-revealed-family-report/story?id\\u003d126567287)
-- First real-life Galaxy S26 Ultra photo leaks, and something looks different - SamMobile — [read more](https://www.sammobile.com/news/samsung-galaxy-s26-ultra-case-photo-leak/)
+- Ace Frehley, Kiss Lead Guitarist and Solo Artist, Dies at 74 - Variety — [read more](https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/)
+- Former Trump adviser John Bolton indicted on classified documents charges - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id\\u003d126472878)
+- Stock Market Today: Dow, Nasdaq Edge Higher; TSMC, Salesforce in Focus — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2025)
+- Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
+- Penn State Coaching Search Hot Board 4.0 - 247Sports — [read more](https://247sports.com/college/penn-state/longformarticle/penn-state-football-coaching-search-hot-board-curt-cignetti-pat-kraft-terry-smith-matt-rhole-urban-meyer-eli-drinkwitz-256620241/)
 
 # Top Tech News
 Fetched on 2025-10-17 (UTC)
-- First real-life Galaxy S26 Ultra photo leaks, and something looks different - SamMobile — [read more](https://www.sammobile.com/news/samsung-galaxy-s26-ultra-case-photo-leak/)
-- Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here's why - Android Authority — [read more](https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/)
-- Roku might've just solved the biggest problem with home TV streaming - here's how - ZDNET — [read more](https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/)
-- Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta)
-- Apple Intelligence has 20+ brand new features in iOS 26, here’s the full list - 9to5Mac — [read more](https://9to5mac.com/2025/10/15/apple-intelligence-new-features-in-ios-26-full-list/)
+- Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
+- Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen)
+- Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News — [read more](https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes)
+- Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica — [read more](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/)
+- A new wave of social media apps provide hope in a doomscrolling world - TechCrunch — [read more](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/)
