@@ -1,30 +1,25 @@
 {
-  "date": "2025-10-17",
+  "date": "2025-10-18",
   "tech": [
+    {
+      "title": "MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge",
+      "url": "https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen",
+      "source": "The Verge"
+    },
     {
       "title": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
       "source": "Ars Technica"
     },
     {
-      "title": "Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen",
-      "source": "Bloomberg"
+      "title": "I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’ - Gizmodo",
+      "url": "https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198",
+      "source": "Gizmodo.com"
     },
     {
-      "title": "Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News",
-      "url": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes",
-      "source": "Blizzard.com"
-    },
-    {
-      "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
-      "url": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "A new wave of social media apps provide hope in a doomscrolling world - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/",
-      "source": "TechCrunch"
+      "title": "Apple's New 14-Inch MacBook Pro With M5 Chip Is Up for Preorder at Amazon - IGN",
+      "url": "https://www.ign.com/articles/apple-14-inch-macbook-pro-with-m5-chip-where-to-buy",
+      "source": "IGN"
     }
   ]
 }

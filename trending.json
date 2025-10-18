@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-17",
+  "date": "2025-10-18",
   "repos": [
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 24883
+      "stars": 25094
     },
     {
       "name": "steveyegge/beads",
       "url": "https://github.com/steveyegge/beads",
-      "stars": 1622
+      "stars": 1633
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
-      "stars": 1385
+      "stars": 1411
     },
     {
       "name": "alam00000/bentopdf",
       "url": "https://github.com/alam00000/bentopdf",
-      "stars": 815
+      "stars": 828
     },
     {
       "name": "UZDoom/UZDoom",
       "url": "https://github.com/UZDoom/UZDoom",
-      "stars": 640
+      "stars": 658
     }
   ]
 }
