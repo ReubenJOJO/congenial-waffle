@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-18 (UTC)
+Fetched on 2025-10-19 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 26045 stars
-- [steveyegge/beads](https://github.com/steveyegge/beads) ⭐ 1675 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1560 stars
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) ⭐ 890 stars
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 823 stars
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 26242 stars
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1588 stars
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 877 stars
+- [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 718 stars
+- [Acn6S/crypto-tax-calculator](https://github.com/Acn6S/crypto-tax-calculator) ⭐ 581 stars
 
 # Top News Headlines
-Fetched on 2025-10-18 (UTC)
-- More measles cases reported in the Upstate amid outbreak - WYFF News 4 — [read more](https://www.wyff4.com/article/more-measles-cases-reported-upstate/69074676)
-- Trump asks Supreme Court to allow deployment of National Guard in Illinois - CBS News — [read more](https://www.cbsnews.com/news/trump-supreme-court-national-guard-illinois-chicago/)
-- Benioff apologizes for National Guard comments - Politico — [read more](https://www.politico.com/news/2025/10/17/benioff-apologizes-for-national-guard-comments-00614262)
-- FAA lets Boeing increase 737 Max production almost two years after near-catastrophic accident - CNBC — [read more](https://www.cnbc.com/2025/10/17/boeing-737-max-production.html)
-- Stock Market Today: Indexes Up In Strong Week On Trump News; Oracle Dives (Live Coverage) - Investor's Business Daily — [read more](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-bank-fears-eli-lilly-novo-trump/)
+Fetched on 2025-10-19 (UTC)
+- Dramatic homers send Mariners to within a win of reaching World Series - The Seattle Times — [read more](https://www.seattletimes.com/sports/mariners/alcs-mariners-one-win-from-world-series-after-late-game-heroics-shake-seattle/)
+- Alaska storm damage so bad many evacuees won’t go home for at least 18 months, governor says - CNN — [read more](https://www.cnn.com/2025/10/17/us/alaska-storm-damage-evacuees-hnk)
+- Duke Roufus, famed coach and former kickboxer, dies at 55 years old - MMA Fighting — [read more](https://www.mmafighting.com/ufc/450514/duke-roufus-famed-coach-and-former-kickboxer-dies-at-55-years-old)
+- Daytime Emmys 2025: The Complete Winners List - TV Insider — [read more](https://www.tvinsider.com/1222509/daytime-emmys-2025-winners/)
+- Koreans linked to alleged online scams in Cambodia arrive home to face inquiries - AP News — [read more](https://apnews.com/article/cambodia-south-korea-online-scam-3f6903dd8a22be8e2242d3502c2d2d10)
 
 # Top Tech News
-Fetched on 2025-10-18 (UTC)
+Fetched on 2025-10-19 (UTC)
+- Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything — [read more](https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/)
+- Battlefield 6 Sparks 'Zoomers' vs 'Battledads' War Over Movement — but the Devs Are Looking for Somewhere In-Between - IGN — [read more](https://www.ign.com/articles/battlefield-6-sparks-zoomers-vs-battledads-war-over-movement-but-the-devs-are-looking-for-somewhere-in-between)
 - AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac — [read more](https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/)
-- Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps - The Verge — [read more](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
-- Apple is finally working on a touchscreen MacBook Pro - Mashable — [read more](https://mashable.com/article/apple-touchscreen-macbook-pro-report)
-- Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer — [read more](https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts)
-- Ghost Of Yōtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer — [read more](https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done)
+- How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot — [read more](https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/)

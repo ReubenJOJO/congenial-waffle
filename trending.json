@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-18",
+  "date": "2025-10-19",
   "repos": [
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 26045
-    },
-    {
-      "name": "steveyegge/beads",
-      "url": "https://github.com/steveyegge/beads",
-      "stars": 1675
+      "stars": 26242
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
-      "stars": 1560
-    },
-    {
-      "name": "alam00000/bentopdf",
-      "url": "https://github.com/alam00000/bentopdf",
-      "stars": 890
+      "stars": 1588
     },
     {
       "name": "firecrawl/open-agent-builder",
       "url": "https://github.com/firecrawl/open-agent-builder",
-      "stars": 823
+      "stars": 877
+    },
+    {
+      "name": "UZDoom/UZDoom",
+      "url": "https://github.com/UZDoom/UZDoom",
+      "stars": 718
+    },
+    {
+      "name": "Acn6S/crypto-tax-calculator",
+      "url": "https://github.com/Acn6S/crypto-tax-calculator",
+      "stars": 581
     }
   ]
 }
