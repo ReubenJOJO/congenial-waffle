@@ -4,27 +4,27 @@
     {
       "name": "karpathy/nanochat",
       "url": "https://github.com/karpathy/nanochat",
-      "stars": 26758
+      "stars": 27116
     },
     {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
-      "stars": 1628
+      "stars": 1666
     },
     {
       "name": "firecrawl/open-agent-builder",
       "url": "https://github.com/firecrawl/open-agent-builder",
-      "stars": 1020
-    },
-    {
-      "name": "UZDoom/UZDoom",
-      "url": "https://github.com/UZDoom/UZDoom",
-      "stars": 732
+      "stars": 1100
     },
     {
       "name": "yusufkaraaslan/Skill_Seekers",
       "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "stars": 670
+      "stars": 863
+    },
+    {
+      "name": "BehiSecc/awesome-claude-skills",
+      "url": "https://github.com/BehiSecc/awesome-claude-skills",
+      "stars": 822
     }
   ]
 }
