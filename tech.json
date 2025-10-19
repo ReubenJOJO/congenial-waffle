@@ -2,9 +2,19 @@
   "date": "2025-10-19",
   "tech": [
     {
+      "title": "ALCS, 3-2: Chart - Lookout Landing",
+      "url": "https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart",
+      "source": "Lookout Landing"
+    },
+    {
       "title": "Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything",
       "url": "https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/",
       "source": "Nintendoeverything.com"
+    },
+    {
+      "title": "Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast - WIRED",
+      "url": "https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/",
+      "source": "Wired"
     },
     {
       "title": "Battlefield 6 Sparks 'Zoomers' vs 'Battledads' War Over Movement — but the Devs Are Looking for Somewhere In-Between - IGN",
@@ -15,11 +25,6 @@
       "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
       "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
       "source": "9to5Mac"
-    },
-    {
-      "title": "How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot",
-      "url": "https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/",
-      "source": "GameSpot"
     }
   ]
 }
