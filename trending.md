@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-19 (UTC)
+Fetched on 2025-10-20 (UTC)
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) ⭐ 27116 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1666 stars
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1100 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 863 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 822 stars
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1686 stars
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1133 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 954 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 875 stars
+- [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 748 stars
 
 # Top News Headlines
-Fetched on 2025-10-19 (UTC)
-- Limp Bizkit Bassist Sam Rivers Dead at 48 - TMZ — [read more](https://www.tmz.com/2025/10/18/limp-bizkit-bassist-sam-rivers-dies/)
-- Winners and losers from F1's United States GP qualifying - The Race — [read more](https://www.the-race.com/formula-1/winners-losers-f1-united-states-gp-qualifying/)
-- Ole Miss Rebels vs. Georgia Bulldogs Live Score and Stats - October 18, 2025 Gametracker - CBS Sports — [read more](https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20251018_MISS@UGA/)
-- “Zombie Deer Disease” Detected Again In Southern State As Authorities Launch Emergency Response Plan - Bored Panda — [read more](https://www.boredpanda.com/zombie-deer-disease-hits-southern-state-as-second-case-recorded/)
+Fetched on 2025-10-20 (UTC)
+- Afghanistan and Pakistan have agreed to an immediate ceasefire, Qatar says - AP News — [read more](https://apnews.com/article/afghanistan-pakistan-cricket-border-fighting-232bb8c59918af77a92b6d16e4adb52b)
+- Protesters decry Trump administration policies in No Kings rallies across the U.S. - NPR — [read more](https://www.npr.org/2025/10/18/nx-s1-5577977/no-kings-protests-trump-marches)
+- UFC Vancouver results: Brendan Allen breaks Reinier de Ridder, dedicates upset win to late Duke Roufus - Yahoo Sports — [read more](https://sports.yahoo.com/mma/breaking-news/live/ufc-vancouver-live-updates-reinier-de-ridder-vs-brendan-allen-results-round-by-round-analysis-highlights-060020377.html)
+- Gaza ceasefire: US says Hamas is planning 'imminent' attack on civilians - BBC — [read more](https://www.bbc.com/news/articles/cm2elr16jjqo)
+- Limp Bizkit Bassist and Co-Founder Sam Rivers Dies at 48 - Variety — [read more](https://variety.com/2025/music/news/limp-bizkit-co-founder-bassist-sam-rivers-dead-1236556317/)
 
 # Top Tech News
-Fetched on 2025-10-19 (UTC)
+Fetched on 2025-10-20 (UTC)
+- Gemini shows up early on Google TV with speaker-like voice selection [Gallery] - 9to5Google — [read more](http://9to5google.com/2025/10/18/gemini-shows-up-early-on-google-tv-with-updated-voice-selection-gallery/)
+- Take advantage of this $280 MacBook Pro deal while supplies last - Mashable — [read more](https://mashable.com/article/oct-18-apple-macbook-pro-8gb-ram-512gb)
 - Gemini removes ‘@Google Maps’ & ‘@YouTube’ apps for direct integration - 9to5Google — [read more](http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/)
+- 5 Clever Uses For Your Old Laptops - bgr.com — [read more](https://www.bgr.com/1995890/clever-old-laptops-uses-2025/)
 - Nintendo talks about why Donkey Kong Bananza wouldn’t have been possible on Switch 1 - Nintendo Everything — [read more](https://nintendoeverything.com/nintendo-talks-about-why-donkey-kong-bananza-wouldnt-have-been-possible-on-switch-1/)
-- Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday — [read more](https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/)
-- WWE Stock Report: Ready or not, The Brons are now main event level heels in WWE - Cageside Seats — [read more](https://www.cagesideseats.com/wwe/390850/wwe-stock-report-oct-2025-bron-breakker-turns-on-rollins-vision-fatu-injury-dragunov-return)
-- Devs working on Hearthstone and Warcraft Rumble join 1900 other Activision Blizzard staff in unionising - Eurogamer — [read more](https://www.eurogamer.net/devs-working-on-hearthstone-and-warcraft-rumble-join-1900-other-activision-blizzard-staff-in-unionising)
