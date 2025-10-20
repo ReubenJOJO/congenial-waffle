@@ -2,29 +2,29 @@
   "date": "2025-10-20",
   "repos": [
     {
+      "name": "deepseek-ai/DeepSeek-OCR",
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+      "stars": 2192
+    },
+    {
       "name": "virattt/dexter",
       "url": "https://github.com/virattt/dexter",
-      "stars": 1704
+      "stars": 1720
     },
     {
       "name": "firecrawl/open-agent-builder",
       "url": "https://github.com/firecrawl/open-agent-builder",
-      "stars": 1180
+      "stars": 1227
     },
     {
       "name": "yusufkaraaslan/Skill_Seekers",
       "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "stars": 1058
+      "stars": 1140
     },
     {
       "name": "BehiSecc/awesome-claude-skills",
       "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "stars": 914
-    },
-    {
-      "name": "deepseek-ai/DeepSeek-OCR",
-      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-      "stars": 885
+      "stars": 943
     }
   ]
 }
