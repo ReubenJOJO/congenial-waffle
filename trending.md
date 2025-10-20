@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-20 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 2192 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1720 stars
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1227 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1140 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 943 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 3431 stars
+- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1741 stars
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1282 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1242 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 999 stars
 
 # Top News Headlines
 Fetched on 2025-10-20 (UTC)
-- Louvre Museum closes after brazen theft of jewels with 'inestimable' value - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id\\u003d126657104)
-- Limp Bizkit bassist Sam Rivers dies at 48 - ABC15 Arizona — [read more](https://www.abc15.com/news/national/limp-bizkit-bassist-sam-rivers-dies-at-48)
-- The next cancer-fighting mRNA vaccine may already be here - NBC News — [read more](https://www.nbcnews.com/health/cancer/cancer-fighting-mrna-vaccine-may-already-rcna238197)
-- Israel strikes southern Gaza, accusing Hamas of 'bold violation of ceasefire' - BBC — [read more](https://www.bbc.com/news/live/c2kpx7yyq9pt)
-- Gold’s Historic Rally Comes With a Bonus for Emerging Markets - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-19/gold-s-historic-rally-comes-with-a-bonus-for-emerging-markets)
+- Giants waste Jaxson Dart’s late heroics as Broncos rally with 33 fourth-quarter points in gut-punch loss - New York Post — [read more](https://nypost.com/2025/10/19/sports/giants-waste-jaxson-darts-late-heroics-as-furious-broncos-rally-delivers-gut-punch-loss/)
+- Trump promises to deploy troops to SF: 'We're going to go to San Francisco' - SFGATE — [read more](https://www.sfgate.com/bay-area-politics/article/trump-national-guard-troops-san-francisco-21109025.php)
+- Community mourns as body found behind vacant Germantown school - 6abc Philadelphia — [read more](https://6abc.com/post/community-mourns-body-found-behind-vacant-germantown-school/18040357/)
+- Thieves steal treasured jewelry from Louvre in 7-minute daylight heist - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/19/louvre-museum-robbery-jewels/)
 
 # Top Tech News
 Fetched on 2025-10-20 (UTC)
-- Time to catch ‘em all again - The Verge — [read more](https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer)
-- Whatever you do, don't buy these 6 Google gadgets right now - Android Authority — [read more](https://www.androidauthority.com/dont-buy-these-google-gadgets-october-2025-3608007/)
-- It's time for Samsung to ditch the Galaxy Store - Android Authority — [read more](https://www.androidauthority.com/samsung-should-ditch-galaxy-store-3607055/)
-- Microsoft Confirms Emergency Update For Millions Of Windows Users - Forbes — [read more](https://www.forbes.com/sites/zakdoffman/2025/10/19/microsoft-confirms-emergency-update-for-millions-of-windows-users/)
-- Rumour: Nintendo Patent Supposedly Points To Return Of DS Games - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/rumour-nintendo-patent-supposedly-points-to-return-of-ds-games)
+- Oversharing with AI: How your ChatGPT conversations could be used against you - The Independent — [read more](https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html)
+- Kohler unveils a camera for your toilet - TechCrunch — [read more](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
+- Report: Resident Evil 0 Remake in Development, New Casting and Plot Details Unearthed - MP1st — [read more](https://mp1st.com/news/report-resident-evil-0-remake-in-development-new-casting-and-plot-details-unearthed)
+- What Google Messages features are rolling out [October 2025] - 9to5Google — [read more](http://9to5google.com/2025/10/19/google-messages-features/)
+- Powerbeats Fit review - GSMArena.com news - GSMArena.com — [read more](https://www.gsmarena.com/powerbeats_fit_review-news-69969.php)
