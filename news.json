@@ -2,19 +2,29 @@
   "date": "2025-10-21",
   "headlines": [
     {
-      "title": "Hong Kong: Two dead after cargo plane skids off runway into sea - follow live - BBC",
-      "url": "https://www.bbc.com/news/live/c5y0e4e5ddxt",
-      "source": "BBC News"
+      "title": "Amazon Web Services outage takes down major websites - CNBC",
+      "url": "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html",
+      "source": "CNBC"
     },
     {
-      "title": "Sunday Night Football: Christian McCaffrey’s big night powers 49ers to 20-10 victory - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-christian-mccaffreys-big-night-powers-49ers-to-20-10-victory",
-      "source": "NBCSports.com"
+      "title": "Lawmakers bemoan Trump’s latest power grab: Troop pay - Politico",
+      "url": "https://www.politico.com/news/2025/10/20/troops-showdown-trump-funding-00614874",
+      "source": "Politico"
     },
     {
-      "title": "Broncos marvel at historic rally: 'Always a way' - ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th",
-      "source": "ESPN"
+      "title": "UK Charts: Pokémon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2 - Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2",
+      "source": "Nintendo Life"
+    },
+    {
+      "title": "Two Dead After Cargo Jet Skids Into the Sea at Hong Kong Airport - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-19/cargo-jet-skids-into-sea-at-hong-kong-airport-one-missing",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Winners and Losers of the NFL Week 7 - The Ringer",
+      "url": "https://www.theringer.com/2025/10/20/nfl/winners-losers-nfl-week-7-daniel-jones-mike-mcdaniel-hot-seat-bo-nix-comeback",
+      "source": "The Ringer"
     }
   ]
 }
