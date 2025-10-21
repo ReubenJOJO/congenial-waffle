@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-20 (UTC)
+Fetched on 2025-10-21 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 3431 stars
-- [virattt/dexter](https://github.com/virattt/dexter) ⭐ 1741 stars
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1282 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1242 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 999 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 4981 stars
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1311 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1303 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1048 stars
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 457 stars
 
 # Top News Headlines
-Fetched on 2025-10-20 (UTC)
-- Giants waste Jaxson Dart’s late heroics as Broncos rally with 33 fourth-quarter points in gut-punch loss - New York Post — [read more](https://nypost.com/2025/10/19/sports/giants-waste-jaxson-darts-late-heroics-as-furious-broncos-rally-delivers-gut-punch-loss/)
-- Trump promises to deploy troops to SF: 'We're going to go to San Francisco' - SFGATE — [read more](https://www.sfgate.com/bay-area-politics/article/trump-national-guard-troops-san-francisco-21109025.php)
-- Community mourns as body found behind vacant Germantown school - 6abc Philadelphia — [read more](https://6abc.com/post/community-mourns-body-found-behind-vacant-germantown-school/18040357/)
-- Thieves steal treasured jewelry from Louvre in 7-minute daylight heist - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/19/louvre-museum-robbery-jewels/)
+Fetched on 2025-10-21 (UTC)
+- Hong Kong: Two dead after cargo plane skids off runway into sea - follow live - BBC — [read more](https://www.bbc.com/news/live/c5y0e4e5ddxt)
+- Sunday Night Football: Christian McCaffrey’s big night powers 49ers to 20-10 victory - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-christian-mccaffreys-big-night-powers-49ers-to-20-10-victory)
+- Broncos marvel at historic rally: 'Always a way' - ESPN — [read more](https://www.espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th)
 
 # Top Tech News
-Fetched on 2025-10-20 (UTC)
+Fetched on 2025-10-21 (UTC)
+- This Week’s Japanese Game Releases: NINJA GAIDEN 4, Double Dragon Revive, Once Upon a KATAMARI, more - Gematsu — [read more](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-ninja-gaiden-4-double-dragon-revive-once-upon-a-katamari-more)
+- AirPods Pro 3 proved me wrong, but they now have one unfortunate drawback - 9to5Mac — [read more](https://9to5mac.com/2025/10/19/airpods-pro-3-pros-and-cons-after-one-month-of-testing/)
+- X is changing how it handles links to try and keep you in the app - The Verge — [read more](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
+- Protect your family from ads, trackers, and malware for life for just $40 - Mashable — [read more](https://mashable.com/article/oct-19-adguard-family-plan-lifetime-subscription)
 - Oversharing with AI: How your ChatGPT conversations could be used against you - The Independent — [read more](https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html)
-- Kohler unveils a camera for your toilet - TechCrunch — [read more](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
-- Report: Resident Evil 0 Remake in Development, New Casting and Plot Details Unearthed - MP1st — [read more](https://mp1st.com/news/report-resident-evil-0-remake-in-development-new-casting-and-plot-details-unearthed)
-- What Google Messages features are rolling out [October 2025] - 9to5Google — [read more](http://9to5google.com/2025/10/19/google-messages-features/)
-- Powerbeats Fit review - GSMArena.com news - GSMArena.com — [read more](https://www.gsmarena.com/powerbeats_fit_review-news-69969.php)
