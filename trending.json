@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "repos": [
     {
       "name": "deepseek-ai/DeepSeek-OCR",
       "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-      "stars": 8332
-    },
-    {
-      "name": "firecrawl/open-agent-builder",
-      "url": "https://github.com/firecrawl/open-agent-builder",
-      "stars": 1447
+      "stars": 9132
     },
     {
       "name": "yusufkaraaslan/Skill_Seekers",
       "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "stars": 1435
+      "stars": 1465
+    },
+    {
+      "name": "firecrawl/open-agent-builder",
+      "url": "https://github.com/firecrawl/open-agent-builder",
+      "stars": 1461
     },
     {
       "name": "BehiSecc/awesome-claude-skills",
       "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "stars": 1248
+      "stars": 1284
     },
     {
       "name": "travisvn/awesome-claude-skills",
       "url": "https://github.com/travisvn/awesome-claude-skills",
-      "stars": 664
+      "stars": 733
     }
   ]
 }

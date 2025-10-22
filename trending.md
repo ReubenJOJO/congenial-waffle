@@ -1,24 +1,22 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-21 (UTC)
+Fetched on 2025-10-22 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 8332 stars
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1447 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1435 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1248 stars
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 664 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 9132 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1465 stars
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) ⭐ 1461 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1284 stars
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 733 stars
 
 # Top News Headlines
-Fetched on 2025-10-21 (UTC)
-- Diddy Files Notice of Appeal in Criminal Conviction and Sentence - TMZ — [read more](https://www.tmz.com/2025/10/20/diddy-files-notice-to-appeal/)
-- Lions, Bucs injury updates, inactives Week 7: Taylor Decker WILL PLAY - Pride Of Detroit — [read more](https://www.prideofdetroit.com/detroit-lions-injury-report/146045/lions-bucs-injury-updates-inactives-week-7-taylor-decker-will-play)
-- Large chunk of suspected space debris found in Australian desert - NBC News — [read more](https://www.nbcnews.com/science/space/space-debris-australia-rcna238669)
-- Trump administration can deploy National Guard to Portland, court rules - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/US/trump-administration-deploy-national-guard-portland-court-rules/story?id\\u003d126696414)
-- White House hits road block in effort to get top colleges to sign deal - The Washington Post — [read more](https://www.washingtonpost.com/education/2025/10/20/trump-administration-college-compact/)
+Fetched on 2025-10-22 (UTC)
+- Comet Lemmon 2025 viewing guide for the Capital Region: Timing, tips and forecast - Times Union — [read more](https://www.timesunion.com/weather/article/albany-area-comet-lemmon-viewing-guide-21108534.php)
+- Japan to elect first female leader, a hawk who promotes ‘Japan First’ - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/)
+- The White House starts demolishing part of the East Wing to build Trump's ballroom - NPR — [read more](https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom)
+- John Stamos Slams Lori Loughlin’s ‘Narcissist’ Ex Mossimo Giannulli: ‘Whatever He Did to Her, It Busted Her Up to the Core’ - Yahoo — [read more](https://people.com/john-stamos-slams-lori-loughlin-narcissist-ex-mossimo-giannulli-11833473)
 
 # Top Tech News
-Fetched on 2025-10-21 (UTC)
-- Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs - TechCrunch — [read more](https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/)
-- 'You're Too Good for Camo' – Battlefield 6 Players Can't Help But Poke Fun at 'Absurd' Orange Recon Skin - IGN — [read more](https://www.ign.com/articles/youre-too-good-for-camo-battlefield-6-players-cant-help-but-poke-fun-at-absurd-orange-recon-skin)
-- Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/)
-- Breaking down rare earth element magnets for recycling - Ars Technica — [read more](https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/)
-- Google’s Pixel 10 can now run Linux apps better than other Android phones - Android Authority — [read more](https://www.androidauthority.com/pixel-10-linux-apps-gpu-acceleration-3608754/)
+Fetched on 2025-10-22 (UTC)
+- Ninja Gaiden 4 is the perfect place to jump into the series - The Verge — [read more](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)
+- Android 16 QPR2 Beta 3.1 rolling out for Pixel - 9to5Google — [read more](http://9to5google.com/2025/10/20/android-16-qpr2-beta-3-1/)
+- Snapchat is down — live updates on AWS outage and its impact on the social media app - Tom's Guide — [read more](https://www.tomsguide.com/news/live/snapchat-outage-live-october-20)
+- Jon Prosser misses deadline, Apple lawsuit to move ahead without his representation - 9to5Mac — [read more](https://9to5mac.com/2025/10/20/jon-prosser-misses-deadline-apple-lawsuit-to-move-ahead-without-his-representation/)
