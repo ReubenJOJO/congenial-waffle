@@ -1,21 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-23 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 13540 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1565 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1403 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 882 stars
-- [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) ⭐ 569 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 14340 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1589 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1417 stars
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 900 stars
+- [deta/surf](https://github.com/deta/surf) ⭐ 711 stars
 
 # Top News Headlines
 Fetched on 2025-10-23 (UTC)
-- Doncic downplays groin issue after 43-point night - ESPN — [read more](https://www.espn.com/nba/story/_/id/46680598/luka-doncic-scores-43-points-lakers-loss-warriors-says-groin-issue-probably-nothing)
-- Arizona AG sues over Speaker Mike Johnson refusing to seat new House member - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/21/arizona-suit-house-mike-johnson/)
-- Thunder-Rockets: 4 takeaways as OKC rings in new season with thrilling win - NBA — [read more](https://www.nba.com/news/4-takeaways-thunder-rockets)
+- Netflix Says Tax Dispute Hurt Solid Quarter; Shares Tumble - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-21/netflix-says-brazil-tax-fight-squeezed-otherwise-solid-quarter)
+- Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors — [read more](https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/)
+- American 'Bibisitters' try to keep the Israel-Hamas truce on track - NPR — [read more](https://www.npr.org/2025/10/22/nx-s1-5581401/vance-israel-gaza-ceasefire)
+- Everybody Wants This!: How a Netflix Rom-Com Went From Near Implosion to Cultural Obsession - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/tv/tv-features/nobody-wants-this-season-2-kristen-bell-adam-brody-interview-1236405443/)
 
 # Top Tech News
 Fetched on 2025-10-23 (UTC)
-- Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED — [read more](https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/)
-- Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic)
-- ChatGPT-maker OpenAI releases web browser to rival Google - BBC — [read more](https://www.bbc.com/news/articles/c07mz10m1k9o)
-- YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators - The Verge — [read more](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake)
+- Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors — [read more](https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/)
+- Coming to Xbox Game Pass: The Outer Worlds 2, PowerWash Simulator 2, Football Manager 26, and More - Xbox Wire — [read more](https://news.xbox.com/en-us/2025/10/22/xbox-game-pass-october-2025-wave-2/)
+- No Man's Sky gets space wreck salvaging and expanded ship building as its busy year continues - Eurogamer — [read more](https://www.eurogamer.net/no-mans-sky-gets-space-wreck-salvaging-and-expanded-ship-building-as-its-busy-year-continues)
+- Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central — [read more](https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025)
+- AI chatbots fail at accurate news, major study reveals - DW — [read more](https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921)
