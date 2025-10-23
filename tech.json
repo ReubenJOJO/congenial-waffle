@@ -1,30 +1,25 @@
 {
-  "date": "2025-10-22",
+  "date": "2025-10-23",
   "tech": [
+    {
+      "title": "Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic",
+      "source": "Nintendo Life"
+    },
+    {
+      "title": "The iPhone 17’s selfie camera is to blame for delayed Project Indigo support - The Verge",
+      "url": "https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support",
+      "source": "The Verge"
+    },
     {
       "title": "Pixel phones will get a smarter always-on display that saves battery life - Android Authority",
       "url": "https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/",
       "source": "Android Authority"
     },
     {
-      "title": "Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-gen console experience” - Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience",
-      "source": "Windows Central"
-    },
-    {
-      "title": "Anker’s latest noise-canceling sleep earbuds are nearly $40 off - The Verge",
-      "url": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale",
-      "source": "The Verge"
-    },
-    {
-      "title": "Here’s how Google is choosing 15 fans to test the next Pixel - The Verge",
-      "url": "https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules",
-      "source": "The Verge"
-    },
-    {
-      "title": "Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit - The Verge",
-      "url": "https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default",
-      "source": "The Verge"
+      "title": "Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/",
+      "source": "TechCrunch"
     }
   ]
 }
