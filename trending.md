@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-23 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 14340 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1589 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1417 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 900 stars
-- [deta/surf](https://github.com/deta/surf) ⭐ 711 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 15148 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1610 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1449 stars
+- [deta/surf](https://github.com/deta/surf) ⭐ 1117 stars
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 923 stars
 
 # Top News Headlines
 Fetched on 2025-10-23 (UTC)
-- Netflix Says Tax Dispute Hurt Solid Quarter; Shares Tumble - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-21/netflix-says-brazil-tax-fight-squeezed-otherwise-solid-quarter)
-- Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors — [read more](https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/)
-- American 'Bibisitters' try to keep the Israel-Hamas truce on track - NPR — [read more](https://www.npr.org/2025/10/22/nx-s1-5581401/vance-israel-gaza-ceasefire)
-- Everybody Wants This!: How a Netflix Rom-Com Went From Near Implosion to Cultural Obsession - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/tv/tv-features/nobody-wants-this-season-2-kristen-bell-adam-brody-interview-1236405443/)
+- The longer the shutdown lasts, the harder it is to mask - Politico — [read more](https://www.politico.com/news/2025/10/22/the-longer-the-shutdown-lasts-the-harder-it-is-to-mask-00618958)
+- As shutdown becomes 2nd longest ever, Johnson hints at changes to GOP's strategy - ABC News - Breaking News, Latest News and Videos — [read more](https://abcnews.go.com/Politics/speaker-johnson-hints-gop-strategy-shutdown-drags/story?id\\u003d126770777)
+- U.S. debt tops $38 trillion for the first time, worsened by government shutdown - CBS News — [read more](https://www.cbsnews.com/news/us-debt-38-trillion-government-shutdown-2025/)
+- Sean Payton Responds to Russell Wilson's Comments After Viral Clap-Back - Sports Illustrated — [read more](https://www.si.com/nfl/sean-payton-responds-russell-wilson-comments-viral-clap-back)
 
 # Top Tech News
 Fetched on 2025-10-23 (UTC)
-- Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors — [read more](https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/)
-- Coming to Xbox Game Pass: The Outer Worlds 2, PowerWash Simulator 2, Football Manager 26, and More - Xbox Wire — [read more](https://news.xbox.com/en-us/2025/10/22/xbox-game-pass-october-2025-wave-2/)
-- No Man's Sky gets space wreck salvaging and expanded ship building as its busy year continues - Eurogamer — [read more](https://www.eurogamer.net/no-mans-sky-gets-space-wreck-salvaging-and-expanded-ship-building-as-its-busy-year-continues)
-- Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central — [read more](https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025)
-- AI chatbots fail at accurate news, major study reveals - DW — [read more](https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921)
+- OpenAI launches Atlas browser to compete with Google Chrome - KSL.com — [read more](https://www.ksl.com/article/51393293/openai-launches-atlas-browser-to-compete-with-google-chrome)
+- Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel — [read more](https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers)
+- Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the App Store - TechCrunch — [read more](https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/)
+- Next year’s A20 chip might push iPhone prices even higher - 9to5Mac — [read more](https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/)
+- Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge — [read more](https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates)
