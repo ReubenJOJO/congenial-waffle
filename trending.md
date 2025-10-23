@@ -1,23 +1,21 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-23 (UTC)
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 12596 stars
-- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1543 stars
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1383 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 865 stars
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 13540 stars
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 1565 stars
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 1403 stars
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 882 stars
 - [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) ⭐ 569 stars
 
 # Top News Headlines
 Fetched on 2025-10-23 (UTC)
-- Gold, Silver Hold Losses as Stocks Take a Breather: Markets Wrap - Bloomberg — [read more](https://www.bloomberg.com/news/articles/2025-10-21/gold-silver-hold-losses-as-stocks-take-a-breather-markets-wrap)
-- Ingrassia withdraws nomination after racist texts - Politico — [read more](https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2VXcDNHcHFvdTdHSEhHUU5yRVJRcWZVVXUtenNzUndRTE04ak5UZXJkZk9yZ0E1aWtiSzZ5YjhydHVwZ3F3OXpEM3BxbjNSY25xVWZHUWJfZnVhZG1EY0gxeWROTEtBbnBkVFotUFh6cU1INjZfdk9qN0dIU1hRT2JPaVVTdEVSeW81ZDVEZEt2YUxPbmYxQ0Vqdw?oc=5)
-- Jelly Roll Shows Off Epic 200lbs Weight Loss After Landing In Sydney - TMZ — [read more](https://www.tmz.com/2025/10/21/jelly-roll-shows-200-pound-weight-loss/)
-- NBA opening night: Live updates, analysis from Thunder vs. Rockets - CBS Sports — [read more](https://www.cbssports.com/nba/news/nba-opening-night-live-updates-score-analysis-results-lakers-warriors-rockets-thunder/live/)
-- First league table of antidepressant side effects - BBC — [read more](https://www.bbc.com/news/articles/c9d65nqgd5zo)
+- Doncic downplays groin issue after 43-point night - ESPN — [read more](https://www.espn.com/nba/story/_/id/46680598/luka-doncic-scores-43-points-lakers-loss-warriors-says-groin-issue-probably-nothing)
+- Arizona AG sues over Speaker Mike Johnson refusing to seat new House member - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/21/arizona-suit-house-mike-johnson/)
+- Thunder-Rockets: 4 takeaways as OKC rings in new season with thrilling win - NBA — [read more](https://www.nba.com/news/4-takeaways-thunder-rockets)
 
 # Top Tech News
 Fetched on 2025-10-23 (UTC)
+- Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED — [read more](https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/)
 - Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic)
-- The iPhone 17’s selfie camera is to blame for delayed Project Indigo support - The Verge — [read more](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
-- Pixel phones will get a smarter always-on display that saves battery life - Android Authority — [read more](https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/)
-- Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch — [read more](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/)
+- ChatGPT-maker OpenAI releases web browser to rival Google - BBC — [read more](https://www.bbc.com/news/articles/c07mz10m1k9o)
+- YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators - The Verge — [read more](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake)
