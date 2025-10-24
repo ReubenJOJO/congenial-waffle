@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "repos": [
-    {
-      "name": "deepseek-ai/DeepSeek-OCR",
-      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-      "stars": 15148
-    },
-    {
-      "name": "yusufkaraaslan/Skill_Seekers",
-      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "stars": 1610
-    },
-    {
-      "name": "BehiSecc/awesome-claude-skills",
-      "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "stars": 1449
-    },
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1117
+      "stars": 1246
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 923
+      "stars": 937
+    },
+    {
+      "name": "s4myot/crypto-tax-calculator",
+      "url": "https://github.com/s4myot/crypto-tax-calculator",
+      "stars": 569
+    },
+    {
+      "name": "lackeyjb/playwright-skill",
+      "url": "https://github.com/lackeyjb/playwright-skill",
+      "stars": 498
+    },
+    {
+      "name": "lightly-ai/lightly-studio",
+      "url": "https://github.com/lightly-ai/lightly-studio",
+      "stars": 468
     }
   ]
 }

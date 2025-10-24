@@ -1,10 +1,15 @@
 {
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "tech": [
     {
-      "title": "OpenAI launches Atlas browser to compete with Google Chrome - KSL.com",
-      "url": "https://www.ksl.com/article/51393293/openai-launches-atlas-browser-to-compete-with-google-chrome",
-      "source": "KSL.com"
+      "title": "NFL Locks Up ‘Madden’ Game Franchise Long-Term and Goes Global With Amazon in Wave of Deals - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/nfl-owners-meeting-espn-amazon-ea-deals-approved-1236407367/",
+      "source": "Hollywood Reporter"
+    },
+    {
+      "title": "OpenAI’s Atlas is more about ChatGPT than the web - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
+      "source": "TechCrunch"
     },
     {
       "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
@@ -12,19 +17,14 @@
       "source": "Marvel Entertainment"
     },
     {
-      "title": "Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the App Store - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/",
-      "source": "TechCrunch"
+      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
+      "url": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
+      "source": "Ars Technica"
     },
     {
-      "title": "Next year’s A20 chip might push iPhone prices even higher - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
-      "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
-      "source": "The Verge"
+      "title": "Apple Removes Women Dating Safety App from the App Store - 404 Media",
+      "url": "https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/",
+      "source": "404media.co"
     }
   ]
 }
