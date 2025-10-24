@@ -4,27 +4,27 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1491
+      "stars": 1571
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 958
+      "stars": 983
+    },
+    {
+      "name": "mocred/spyder-osint",
+      "url": "https://github.com/mocred/spyder-osint",
+      "stars": 562
     },
     {
       "name": "s4myot/crypto-tax-calculator",
       "url": "https://github.com/s4myot/crypto-tax-calculator",
-      "stars": 567
+      "stars": 545
     },
     {
-      "name": "lackeyjb/playwright-skill",
-      "url": "https://github.com/lackeyjb/playwright-skill",
-      "stars": 505
-    },
-    {
-      "name": "Katakate/k7",
-      "url": "https://github.com/Katakate/k7",
-      "stars": 479
+      "name": "lightly-ai/lightly-studio",
+      "url": "https://github.com/lightly-ai/lightly-studio",
+      "stars": 520
     }
   ]
 }
