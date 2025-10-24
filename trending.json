@@ -4,12 +4,12 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1246
+      "stars": 1382
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 937
+      "stars": 945
     },
     {
       "name": "s4myot/crypto-tax-calculator",
@@ -19,12 +19,12 @@
     {
       "name": "lackeyjb/playwright-skill",
       "url": "https://github.com/lackeyjb/playwright-skill",
-      "stars": 498
+      "stars": 503
     },
     {
-      "name": "lightly-ai/lightly-studio",
-      "url": "https://github.com/lightly-ai/lightly-studio",
-      "stars": 468
+      "name": "Katakate/k7",
+      "url": "https://github.com/Katakate/k7",
+      "stars": 473
     }
   ]
 }

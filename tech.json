@@ -2,9 +2,19 @@
   "date": "2025-10-24",
   "tech": [
     {
-      "title": "NFL Locks Up ‘Madden’ Game Franchise Long-Term and Goes Global With Amazon in Wave of Deals - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/business-news/nfl-owners-meeting-espn-amazon-ea-deals-approved-1236407367/",
-      "source": "Hollywood Reporter"
+      "title": "BIND warns of bugs that could bring DNS cache attack back from the dead - Ars Technica",
+      "url": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Apple’s reportedly pulling back on iPhone Air production - The Verge",
+      "url": "https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop",
+      "source": "The Verge"
+    },
+    {
+      "title": "This One New Battlefield 6 Skin Is Causing A Meltdown - Kotaku",
+      "url": "https://kotaku.com/new-battlefield-6-skin-is-causing-community-meltdown-grounded-ea-2000638294",
+      "source": "Kotaku"
     },
     {
       "title": "OpenAI’s Atlas is more about ChatGPT than the web - TechCrunch",
@@ -15,16 +25,6 @@
       "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
       "url": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers",
       "source": "Marvel Entertainment"
-    },
-    {
-      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
-      "url": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Apple Removes Women Dating Safety App from the App Store - 404 Media",
-      "url": "https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/",
-      "source": "404media.co"
     }
   ]
 }
