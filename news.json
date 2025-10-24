@@ -2,18 +2,28 @@
   "date": "2025-10-24",
   "headlines": [
     {
-      "title": "U.S. kills five on alleged drug boats in Pacific, widening Trump’s campaign - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/10/22/us-strike-pacific-colombia-drug-boat/",
+      "title": "American hires industry veteran to lead commercial team as profits trail rivals - CNBC",
+      "url": "https://www.cnbc.com/2025/10/23/american-airlines-nat-pieper.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "‘Nobody Wants This’ can’t quite shake the prison of its premise - The Washington Post",
+      "url": "https://www.washingtonpost.com/entertainment/tv/2025/10/23/nobody-wants-this-season-two-review/",
       "source": "The Washington Post"
     },
     {
-      "title": "No security cameras covered Louvre balcony where thieves entered, director says - CNN",
-      "url": "https://www.cnn.com/2025/10/23/europe/france-louvre-director-heist-intl-hnk",
-      "source": "CNN"
+      "title": "Single-family rent growth just hit the lowest level in 15 years, new report finds - CNBC",
+      "url": "https://www.cnbc.com/2025/10/23/single-family-home-apartment-rent.html",
+      "source": "CNBC"
     },
     {
-      "title": "Spurs 125-92 Mavericks (Oct 22, 2025) Game Recap - ESPN",
-      "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401809235",
+      "title": "Exclusive | Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/entrepreneurship/trump-administration-in-talks-to-take-equity-stakes-in-quantum-computing-firms-60ee5143",
+      "source": "The Wall Street Journal"
+    },
+    {
+      "title": "Sources: Heat's Rozier arrested in gambling case - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/46695228/sources-terry-rozier-arrested-part-gambling-inquiry",
       "source": "ESPN"
     }
   ]
