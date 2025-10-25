@@ -4,27 +4,27 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1662
+      "stars": 1713
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 1043
+      "stars": 1070
     },
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 693
+      "stars": 773
+    },
+    {
+      "name": "vercel/workflow",
+      "url": "https://github.com/vercel/workflow",
+      "stars": 590
     },
     {
       "name": "mocred/spyder-osint",
       "url": "https://github.com/mocred/spyder-osint",
-      "stars": 564
-    },
-    {
-      "name": "s4myot/crypto-tax-calculator",
-      "url": "https://github.com/s4myot/crypto-tax-calculator",
-      "stars": 546
+      "stars": 566
     }
   ]
 }

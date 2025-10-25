@@ -1,22 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-25 (UTC)
 
-- [deta/surf](https://github.com/deta/surf) ⭐ 1662 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 1043 stars
-- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 693 stars
-- [mocred/spyder-osint](https://github.com/mocred/spyder-osint) ⭐ 564 stars
-- [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) ⭐ 546 stars
+- [deta/surf](https://github.com/deta/surf) ⭐ 1713 stars
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 1070 stars
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 773 stars
+- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 590 stars
+- [mocred/spyder-osint](https://github.com/mocred/spyder-osint) ⭐ 566 stars
 
 # Top News Headlines
 Fetched on 2025-10-25 (UTC)
-- Procter & Gamble beats earnings estimates but reveals waning demand in some categories - CNBC — [read more](https://www.cnbc.com/2025/10/24/procter-gamble-pg-q1-2026-earnings.html)
-- Instagram and Facebook are breaking the EU’s illegal content rules - The Verge — [read more](https://www.theverge.com/news/806019/meta-facebook-instagram-tiktok-eu-dsa-findings)
-- New satellite image shows White House wing demolished as part of Trump ballroom plan - BBC — [read more](https://www.bbc.com/news/live/cgmx8pwvgz0t)
+- What’s the worst-case scenario for Jamaica as Melissa crawls through the Caribbean? - The Washington Post — [read more](https://www.washingtonpost.com/weather/2025/10/24/tropical-storm-melissa-jamaica-haiti-forecast-hurricane/)
+- Stock Market Today: Dow, Nasdaq Hit New Highs After Inflation Report — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025)
+- U.S. kills six in latest strike on alleged drug boat, Hegseth says - The Washington Post — [read more](https://www.washingtonpost.com/national-security/2025/10/24/us-boat-strike-caribbean-hegseth/)
+- With East Wing gone, questions now turn to Trump’s ballroom donors - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/24/trump-white-house-ballroom-donors-list/)
 
 # Top Tech News
 Fetched on 2025-10-25 (UTC)
-- M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech — [read more](https://wccftech.com/m5-macbook-pro-can-reach-99-degrees-celsius-when-under-load-but-runs-cooler-than-m4/)
-- Pokemon Legends: Z-A sells 5.8 million copies worldwide in first week - Nintendo Everything — [read more](https://nintendoeverything.com/pokemon-legends-z-a-sells-5-8-million-copies-worldwide-in-first-week/)
-- Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transparency in Europe - 9to5Mac — [read more](https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/)
-- YouTube video player redesign & new icons roll out to Android, iOS - 9to5Google — [read more](http://9to5google.com/2025/10/23/youtube-video-player-icon-redesign-rollout/)
-- Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable — [read more](https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price)
+- iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors — [read more](https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/)
+- The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech — [read more](https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/)
+- Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026 - The Verge — [read more](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date)
+- How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others - TechCrunch — [read more](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)
+- OpenAI is coming for your MacBook with latest acquisition - Mashable — [read more](https://mashable.com/article/openai-acquires-sky-ai-mac-interface)
