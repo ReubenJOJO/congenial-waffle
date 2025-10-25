@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-25 (UTC)
 
-- [deta/surf](https://github.com/deta/surf) ⭐ 1605 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 998 stars
+- [deta/surf](https://github.com/deta/surf) ⭐ 1630 stars
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 1014 stars
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 615 stars
 - [mocred/spyder-osint](https://github.com/mocred/spyder-osint) ⭐ 563 stars
 - [s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator) ⭐ 546 stars
-- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) ⭐ 525 stars
 
 # Top News Headlines
 Fetched on 2025-10-25 (UTC)
-- Trump terminates all U.S. trade negotiations with Canada over Reagan tariffs TV ad - CNBC — [read more](https://www.cnbc.com/2025/10/24/trump-canada-trade-reagan.html)
-- Chargers vs. Vikings live updates: Score, analysis, highlights at halftime for 'Thursday Night Football' - CBS Sports — [read more](https://www.cbssports.com/nfl/news/chargers-vs-vikings-live-updates-score-highlights-thursday-night-football/live/)
-- Mother of 10-year-old girl who died by suicide turns grief into a warning for other parents over nighttime cell phone use - CBS News — [read more](https://www.cbsnews.com/news/mother-of-10-year-old-girl-who-died-by-suicide-turns-grief-into-warning-for-other-parents-nighttime-cell-phone-use/)
-- As Trump makes rare visit to Malaysia, PM Anwar’s balancing act faces test - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/10/24/as-trump-makes-rare-visit-to-malaysia-pm-anwars-balancing-act-faces-test)
+- New satellite image shows White House wing demolished as part of Trump ballroom plan - BBC — [read more](https://www.bbc.com/news/live/cgmx8pwvgz0t)
+- Trump says he’s canceling trade negotiations with Canada over anti-tariff ad - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/10/24/trump-cancel-canada-trade-negotiations-reagan/)
+- NBA stars and mafia among dozens arrested in illegal gambling crackdown - BBC — [read more](https://www.bbc.com/news/articles/cvgmpp3x5x5o)
 
 # Top Tech News
 Fetched on 2025-10-25 (UTC)
-- Neuroscientist has developed a six-pound phone case to help limit screen time and doomscrolling 'addiction' - supercarblondie.com — [read more](https://supercarblondie.com/neuroscientist-developed-six-pound-phone-case/)
+- Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transparency in Europe - 9to5Mac — [read more](https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/)
 - Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable — [read more](https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price)
 - Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge — [read more](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
-- OpenAI buys Sky, an AI interface for Mac - TechCrunch — [read more](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)
-- Nike says its first ‘powered footwear’ is like an e-bike for your feet - The Verge — [read more](https://www.theverge.com/news/805664/nike-powered-show-project-amplify)
+- Nintendo’s chips let this Lego Game Boy upgrade kit play real cartridges - The Verge — [read more](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
+- Amazon (AMZN) Sees Another Senior VP Exit from Devices Unit This Month - TipRanks — [read more](https://www.tipranks.com/news/amazon-amzn-sees-another-senior-vp-exit-from-devices-unit-this-month)
