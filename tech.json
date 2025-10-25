@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-24",
+  "date": "2025-10-25",
   "tech": [
+    {
+      "title": "Neuroscientist has developed a six-pound phone case to help limit screen time and doomscrolling 'addiction' - supercarblondie.com",
+      "url": "https://supercarblondie.com/neuroscientist-developed-six-pound-phone-case/",
+      "source": "Supercarblondie.com"
+    },
+    {
+      "title": "Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable",
+      "url": "https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price",
+      "source": "Mashable"
+    },
+    {
+      "title": "Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge",
+      "url": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+      "source": "The Verge"
+    },
     {
       "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
       "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
       "source": "TechCrunch"
     },
     {
-      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Fallout: New Vegas 15th Anniversary Bundle Announced on Fallout Day — Here Are the Contents - IGN",
-      "url": "https://www.ign.com/articles/fallout-new-vegas-15th-anniversary-bundle-announced-on-fallout-day-here-are-the-contents",
-      "source": "IGN"
-    },
-    {
-      "title": "‘Borderlands 4’ Patch Notes: The Big Nerfs And Buffs For Halloween - Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/23/borderlands-4-patch-notes-the-big-nerfs-and-buffs-for-halloween/",
-      "source": "Forbes"
-    },
-    {
-      "title": "Dev Diary: Creating Arena Powered Cube - Magic: The Gathering",
-      "url": "https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube",
-      "source": "Wizards.com"
+      "title": "Nike says its first ‘powered footwear’ is like an e-bike for your feet - The Verge",
+      "url": "https://www.theverge.com/news/805664/nike-powered-show-project-amplify",
+      "source": "The Verge"
     }
   ]
 }
