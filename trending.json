@@ -1,25 +1,25 @@
 {
-  "date": "2025-10-25",
+  "date": "2025-10-26",
   "repos": [
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1713
+      "stars": 1733
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 1070
+      "stars": 1082
     },
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 773
+      "stars": 829
     },
     {
       "name": "vercel/workflow",
       "url": "https://github.com/vercel/workflow",
-      "stars": 590
+      "stars": 606
     },
     {
       "name": "mocred/spyder-osint",
