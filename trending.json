@@ -4,27 +4,27 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1748
+      "stars": 1776
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 1090
+      "stars": 1100
     },
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 889
+      "stars": 922
     },
     {
       "name": "vercel/workflow",
       "url": "https://github.com/vercel/workflow",
-      "stars": 625
+      "stars": 646
     },
     {
-      "name": "pguso/ai-agents-from-scratch",
-      "url": "https://github.com/pguso/ai-agents-from-scratch",
-      "stars": 567
+      "name": "apple/pico-banana-400k",
+      "url": "https://github.com/apple/pico-banana-400k",
+      "stars": 636
     }
   ]
 }
