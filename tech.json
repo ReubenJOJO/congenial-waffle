@@ -2,8 +2,13 @@
   "date": "2025-10-26",
   "tech": [
     {
-      "title": "Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit - The Verge",
-      "url": "https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti",
+      "title": "The original ‘Halo’ is getting a full remake, now on PlayStation - The Washington Post",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/10/24/halo-campaign-evolved-remake-xbox-playstation/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Bored Ape Yacht Club is making a comeback — as a metaverse - The Verge",
+      "url": "https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs",
       "source": "The Verge"
     },
     {
@@ -20,11 +25,6 @@
       "title": "Wordle has achievements now - The Verge",
       "url": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections",
       "source": "The Verge"
-    },
-    {
-      "title": "The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech",
-      "url": "https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/",
-      "source": "Wccftech"
     }
   ]
 }

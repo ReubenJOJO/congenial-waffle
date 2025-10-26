@@ -4,27 +4,27 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1733
+      "stars": 1748
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 1082
+      "stars": 1090
     },
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 829
+      "stars": 889
     },
     {
       "name": "vercel/workflow",
       "url": "https://github.com/vercel/workflow",
-      "stars": 606
+      "stars": 625
     },
     {
-      "name": "mocred/spyder-osint",
-      "url": "https://github.com/mocred/spyder-osint",
-      "stars": 566
+      "name": "pguso/ai-agents-from-scratch",
+      "url": "https://github.com/pguso/ai-agents-from-scratch",
+      "stars": 567
     }
   ]
 }
