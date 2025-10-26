@@ -4,27 +4,27 @@
     {
       "name": "deta/surf",
       "url": "https://github.com/deta/surf",
-      "stars": 1776
+      "stars": 1802
     },
     {
       "name": "anthropic-experimental/sandbox-runtime",
       "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-      "stars": 1100
+      "stars": 1119
     },
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 922
-    },
-    {
-      "name": "vercel/workflow",
-      "url": "https://github.com/vercel/workflow",
-      "stars": 646
+      "stars": 957
     },
     {
       "name": "apple/pico-banana-400k",
       "url": "https://github.com/apple/pico-banana-400k",
-      "stars": 636
+      "stars": 790
+    },
+    {
+      "name": "vercel/workflow",
+      "url": "https://github.com/vercel/workflow",
+      "stars": 668
     }
   ]
 }
