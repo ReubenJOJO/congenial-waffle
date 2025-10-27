@@ -1,22 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-26 (UTC)
+Fetched on 2025-10-27 (UTC)
 
-- [deta/surf](https://github.com/deta/surf) ⭐ 1802 stars
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) ⭐ 1119 stars
-- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 957 stars
-- [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) ⭐ 790 stars
-- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 668 stars
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 997 stars
+- [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) ⭐ 891 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 732 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 708 stars
+- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 682 stars
 
 # Top News Headlines
-Fetched on 2025-10-26 (UTC)
-- UFC 321 results, analysis: Eye poke leads to no contest in Aspinall vs. Gane - CBS Sports — [read more](https://www.cbssports.com/ufc/news/ufc-321-live-updates-results-fight-card-tom-aspinall-ciryl-gane-analysis-highlights/live/)
-- Trump raises tariffs on Canadian goods in response to Reagan advert - BBC — [read more](https://www.bbc.com/news/articles/cx2ljgrm78zo)
-- Meet the alleged mobsters charged in the rigged poker game scheme - NBC News — [read more](https://www.nbcnews.com/news/us-news/poker-game-scheme-alleged-mobsters-charged-rcna239768)
+Fetched on 2025-10-27 (UTC)
+- Bryant Gumbel Seen For First Time Since Being Rushed to Hospital - TMZ — [read more](https://www.tmz.com/2025/10/25/bryant-gumbel-seen-first-time-since-hospitalization/)
+- How a DNA test solved a medical mystery – and revealed a Duke doctor’s decades of deception - WRAL.com — [read more](https://www.wral.com/news/local/dna-test-solved-medical-mystery-revealed-doctor-deception-duke-university-hospital-october-2025/)
+- Inside Prince Andrew and Ex-Wife Sarah Ferguson's Unusual Relationship - Yahoo — [read more](https://www.eonline.com/news/1424167/prince-andrew-sarah-fergusons-relationship-amid-jeffrey-epstein-fallout)
+- Kamala Harris says she may run for president again in 2028 - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/25/kamala-harris-2028-election/)
+- This mysterious billionaire and top Trump backer is behind a $130 million donation to pay troops during the government shutdown, report says - Fortune — [read more](https://fortune.com/2025/10/25/billionaire-trump-130-million-donation-troops-government-shutdown-workers/)
 
 # Top Tech News
-Fetched on 2025-10-26 (UTC)
+Fetched on 2025-10-27 (UTC)
+- Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint — [read more](https://www.halowaypoint.com/news/halo-esports-2026-update)
+- How to get Lich in Grow a Garden - Eurogamer — [read more](https://www.eurogamer.net/how-to-get-lich-in-grow-a-garden)
+- Game thread: NC State vs. Pitt - Backing The Pack — [read more](https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt)
+- Who are AI browsers for? - TechCrunch — [read more](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
 - Battlefield 6's battle royale "Battlefield: RedSec" could shadowdrop as soon as next week, dataminers claim - Eurogamer — [read more](https://www.eurogamer.net/battlefield-6s-battle-royale-battlefield-redsec-could-shadowdrop-as-soon-as-next-week-dataminers-claim)
-- Long-time Microsoft-exclusive Halo is coming to PS5 for the very first time: "This is Halo for everyone" - Eurogamer — [read more](https://www.eurogamer.net/xbox-mascot-and-long-time-microsoft-exclusive-halo-is-coming-to-ps5-for-the-very-first-time-this-is-halo-for-everyone)
-- AirTags and cheap gaming laptops headline our favorite deals this week - The Verge — [read more](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale)
-- Samsung Galaxy Tab S11 Review: The High-End Android Tablet to Beat - CNET — [read more](https://www.cnet.com/tech/computing/samsung-galaxy-tab-s11-review-expensive-but-the-ideal-android-tablet-for-me/)
-- I Am Trying To Play ‘Destiny 2,’ It Is Not Going Well - Forbes — [read more](https://www.forbes.com/sites/paultassi/2025/10/25/i-am-trying-to-play-destiny-2-it-is-not-going-well/)
