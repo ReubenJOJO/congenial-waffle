@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-27 (UTC)
 
-- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 997 stars
-- [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) ⭐ 891 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 732 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 708 stars
-- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 682 stars
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) ⭐ 1025 stars
+- [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) ⭐ 962 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 867 stars
+- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 830 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 754 stars
 
 # Top News Headlines
 Fetched on 2025-10-27 (UTC)
-- Bryant Gumbel Seen For First Time Since Being Rushed to Hospital - TMZ — [read more](https://www.tmz.com/2025/10/25/bryant-gumbel-seen-first-time-since-hospitalization/)
-- How a DNA test solved a medical mystery – and revealed a Duke doctor’s decades of deception - WRAL.com — [read more](https://www.wral.com/news/local/dna-test-solved-medical-mystery-revealed-doctor-deception-duke-university-hospital-october-2025/)
-- Inside Prince Andrew and Ex-Wife Sarah Ferguson's Unusual Relationship - Yahoo — [read more](https://www.eonline.com/news/1424167/prince-andrew-sarah-fergusons-relationship-amid-jeffrey-epstein-fallout)
-- Kamala Harris says she may run for president again in 2028 - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/25/kamala-harris-2028-election/)
-- This mysterious billionaire and top Trump backer is behind a $130 million donation to pay troops during the government shutdown, report says - Fortune — [read more](https://fortune.com/2025/10/25/billionaire-trump-130-million-donation-troops-government-shutdown-workers/)
+- Trump arrives in Asia for a week of high-stakes diplomacy - CNN — [read more](https://www.cnn.com/politics/live-news/trump-asia-trip-china-10-26-25)
+- Two arrested over theft of jewels at Louvre, French media report - BBC — [read more](https://www.bbc.com/news/articles/c2em38pdv0do)
+- East Timor joins ASEAN in bloc’s first expansion since the 1990s - AP News — [read more](https://apnews.com/article/east-timor-asean-first-expansion-fbc05e88d80a998a5ea542806437a76c)
+- Comet 3I/ATLAS Losing At Least Two Kangaroos' Worth Of Dust Every Second - IFLScience — [read more](https://www.iflscience.com/comet-3iatlas-losing-at-least-two-kangaroos-worth-of-dust-every-second-81317)
 
 # Top Tech News
 Fetched on 2025-10-27 (UTC)
+- AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Slashdot — [read more](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say)
+- I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC — [read more](https://www.bbc.com/news/articles/c20pdy1exxvo)
 - Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint — [read more](https://www.halowaypoint.com/news/halo-esports-2026-update)
-- How to get Lich in Grow a Garden - Eurogamer — [read more](https://www.eurogamer.net/how-to-get-lich-in-grow-a-garden)
-- Game thread: NC State vs. Pitt - Backing The Pack — [read more](https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt)
-- Who are AI browsers for? - TechCrunch — [read more](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
-- Battlefield 6's battle royale "Battlefield: RedSec" could shadowdrop as soon as next week, dataminers claim - Eurogamer — [read more](https://www.eurogamer.net/battlefield-6s-battle-royale-battlefield-redsec-could-shadowdrop-as-soon-as-next-week-dataminers-claim)
+- M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro, New Comparison Shows An Impressive 211% Faster Performance - Wccftech — [read more](https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/)
+- These are the best laptops to buy in Fall 2025 - 41 notebooks in a tough clash - Notebookcheck — [read more](https://www.notebookcheck.net/These-are-the-best-laptops-to-buy-in-Fall-2025-41-notebooks-in-a-tough-clash.1142072.0.html)

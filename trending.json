@@ -4,27 +4,27 @@
     {
       "name": "rdumasia303/deepseek_ocr_app",
       "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 997
+      "stars": 1025
     },
     {
       "name": "apple/pico-banana-400k",
       "url": "https://github.com/apple/pico-banana-400k",
-      "stars": 891
+      "stars": 962
     },
     {
       "name": "TimmyOVO/deepseek-ocr.rs",
       "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-      "stars": 732
+      "stars": 867
+    },
+    {
+      "name": "johannschopplich/toon",
+      "url": "https://github.com/johannschopplich/toon",
+      "stars": 830
     },
     {
       "name": "pguso/ai-agents-from-scratch",
       "url": "https://github.com/pguso/ai-agents-from-scratch",
-      "stars": 708
-    },
-    {
-      "name": "vercel/workflow",
-      "url": "https://github.com/vercel/workflow",
-      "stars": 682
+      "stars": 754
     }
   ]
 }
