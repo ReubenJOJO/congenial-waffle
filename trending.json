@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-27",
+  "date": "2025-10-28",
   "repos": [
     {
       "name": "johannschopplich/toon",
       "url": "https://github.com/johannschopplich/toon",
-      "stars": 1778
-    },
-    {
-      "name": "apple/pico-banana-400k",
-      "url": "https://github.com/apple/pico-banana-400k",
-      "stars": 1071
-    },
-    {
-      "name": "rdumasia303/deepseek_ocr_app",
-      "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-      "stars": 1066
-    },
-    {
-      "name": "TimmyOVO/deepseek-ocr.rs",
-      "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-      "stars": 1058
+      "stars": 2019
     },
     {
       "name": "HKUDS/AI-Trader",
       "url": "https://github.com/HKUDS/AI-Trader",
-      "stars": 927
+      "stars": 1135
+    },
+    {
+      "name": "TimmyOVO/deepseek-ocr.rs",
+      "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+      "stars": 1132
+    },
+    {
+      "name": "pguso/ai-agents-from-scratch",
+      "url": "https://github.com/pguso/ai-agents-from-scratch",
+      "stars": 938
+    },
+    {
+      "name": "vercel/workflow",
+      "url": "https://github.com/vercel/workflow",
+      "stars": 807
     }
   ]
 }
