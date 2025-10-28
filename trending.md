@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-28 (UTC)
 
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 2613 stars
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 1788 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1230 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1037 stars
-- [wquguru/nof0](https://github.com/wquguru/nof0) ⭐ 1016 stars
+- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 3005 stars
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 2285 stars
+- [wquguru/nof0](https://github.com/wquguru/nof0) ⭐ 1275 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1263 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1086 stars
 
 # Top News Headlines
 Fetched on 2025-10-28 (UTC)
-- Trump on seeking a third term: ‘I would love to do it’ - The Hill — [read more](https://thehill.com/homenews/administration/5574490-trump-teases-third-term/)
-- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News — [read more](https://apnews.com/article/trump-japan-takaichi-trade-ford-trucks-e7be33728c7c3fdb6c314780c8a9a533)
-- Milei Wins Mandate for Free-Market Revolution in Argentina’s Election - WSJ - The Wall Street Journal — [read more](https://www.wsj.com/world/americas/milei-wins-mandate-for-free-market-revolution-in-argentinas-election-3be65f38)
-- Half of uncontacted Indigenous tribes "could be wiped out" in 10 years, report says. Here's what to know. - CBS News — [read more](https://www.cbsnews.com/news/uncontacted-indigenous-tribes-report-what-to-know/)
-- Hurricane Melissa could be strongest to ever hit Jamaica - BBC — [read more](https://www.bbc.com/news/articles/c2dr0z57nygo)
+- Trump predicts China trade deal finalized in days as his Asia tour continues in Japan - CBS News — [read more](https://www.cbsnews.com/news/trump-china-trade-deal-asia-tour-continues-japan-sanae-takaichi/)
+- How The Post found growing rates of young cancer in America’s Corn Belt - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/27/iowa-cancer-analysis-methodology/)
+- Chiefs vs. Commanders live updates: 'Monday Night Football' score, highlights and analysis - CBS Sports — [read more](https://www.cbssports.com/nfl/news/chiefs-vs-commanders-live-updates-score-analysis-highlights-monday-night-football/live/)
+- Democrats get aggressive on remapping congressional lines - Politico — [read more](https://www.politico.com/news/2025/10/27/democrats-get-aggressive-on-remapping-congressional-lines-00624231)
 
 # Top Tech News
 Fetched on 2025-10-28 (UTC)
-- Here’s what ads on your $2,000 Samsung smart fridge will look like - The Verge — [read more](https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out)
-- Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI - WIRED — [read more](https://www.wired.com/story/ai-pr-ed-zitron-profile/)
-- Battlefield 6 Update 1.1.1.0 Goes Live Tomorrow with Enhancements to Movement, Weapon Dispersion and Visibility - Wccftech — [read more](https://wccftech.com/battlefield-6-update-1-1-1-0-live-tomorrow-enhancements/)
-- It's 2025, and Pixels still don't seem to deliver notifications on time - Android Authority — [read more](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
-- Metal Gear Solid Delta Tactical Edition Gets First Price Cut For PS5 And Xbox - GameSpot — [read more](https://www.gamespot.com/articles/metal-gear-solid-delta-tactical-edition-gets-first-price-cut-for-ps5-and-xbox/1100-6524133/)
+- Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster - Ars Technica — [read more](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/)
+- Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge — [read more](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars)
+- Pokémon Card Fan Loses Collection In The Worst Way Possible - Kotaku — [read more](https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383)
+- Get a 2025 65" LG B5 4K OLED TV at Black Friday Pricing, Plus a Free Wall Mount - IGN — [read more](https://www.ign.com/articles/get-a-2025-65-lg-b5-4k-oled-tv-at-black-friday-pricing-plus-a-free-wall-mount)
+- AI-powered search engines rely on “less popular” sources, researchers find - Ars Technica — [read more](https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/)
