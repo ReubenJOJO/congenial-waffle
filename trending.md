@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-28 (UTC)
 
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 2019 stars
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 1135 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1132 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 938 stars
-- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 807 stars
+- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 2271 stars
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 1337 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1192 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 983 stars
+- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 821 stars
 
 # Top News Headlines
 Fetched on 2025-10-28 (UTC)
-- Packers-Steelers highlights: Rodgers meets Green Bay at last - ESPN — [read more](https://www.espn.com/nfl/story/_/id/46699956/green-bay-packers-pittsburgh-steelers-sunday-night-football-highlights)
-- Argentina’s Javier Milei secures big victory in midterm elections - Financial Times — [read more](https://www.ft.com/content/766f134b-63c3-41b5-8d5b-bda10cd91760)
-- US Navy helicopter and fighter jet crash in separate incidents in the South China Sea - CNN — [read more](https://www.cnn.com/2025/10/26/politics/navy-aircraft-crash-south-china-sea)
-- Jon Stewart Says He’s “Working on Staying” on as ‘Daily Show’ Host - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/tv/tv-news/jon-stewart-working-on-staying-daily-show-host-contract-1236410447/)
+- Milei triumphs in Argentine midterm elections closely watched by Washington - NPR — [read more](https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections)
+- LSU fires coach Brian Kelly in the fourth season of his 10-year, $100 million deal - AP News — [read more](https://apnews.com/article/lsu-brian-kelly-fired-749be2bf3e4e325b19b482b2dd4e2968)
+- China’s C919 jet faces turbulent skies amid US-China trade tensions - AP News — [read more](https://apnews.com/article/china-us-aircraft-trade-comac-8eaf0e9f235b989cd8100152bd5c3f66)
+- Sunday Night Football: Jordan Love, Tucker Kraft lead Packers to 35-25 win over Steelers - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jordan-love-tucker-kraft-lead-packers-to-35-25-win-over-steelers)
 
 # Top Tech News
 Fetched on 2025-10-28 (UTC)
+- Retroid Pocket 6 and Pocket G2 Officially Unveiled - Retro Handhelds — [read more](https://retrohandhelds.gg/retroid-pocket-6-and-pocket-g2-officially-unveiled/)
+- This Week’s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales of Xillia Remastered, more - Gematsu — [read more](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more)
 - Cancelled God of War PS5 Game Leaks in Screenshots - Push Square — [read more](https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots)
-- The US Unveils a Quantum Breakthrough That Finally Solves Renewable Energy’s Biggest Problem - carrollcountyobserver.com — [read more](https://carrollcountyobserver.com/2025/10/26/the-us-unveils-a-quantum-breakthrough-that-finally-solves-renewable-energys-biggest-problem/)
-- Tedious Hiking With No Tracks in the Snow - The Trek — [read more](https://thetrek.co/pacific-crest-trail/tedious-hiking-with-no-tracks-in-the-snow/)
-- The Pros & Cons Of 3 Cylinder Engines - Jalopnik — [read more](https://www.jalopnik.com/2005436/three-cylinder-engines-pros-cons/)
-- Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Units - Kotaku — [read more](https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122)
+- Xbox take massive 200+ foot TV into the air over Miami to break bizarre gaming world records - supercarblondie.com — [read more](https://supercarblondie.com/xbox-ninja-gaiden-4-helicopter-record-swae-lee/)
+- The Neuroscience-Based Nike Mind 001 Appears in "Black" - hypebeast.com — [read more](https://hypebeast.com/2025/10/nike-mind-001-black-hq4307-001-release-info)
