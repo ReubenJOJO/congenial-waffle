@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-28 (UTC)
+Fetched on 2025-10-29 (UTC)
 
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) ⭐ 3005 stars
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 2285 stars
-- [wquguru/nof0](https://github.com/wquguru/nof0) ⭐ 1275 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1263 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1086 stars
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 2749 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1311 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1110 stars
+- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 874 stars
+- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐ 714 stars
 
 # Top News Headlines
-Fetched on 2025-10-28 (UTC)
-- Trump predicts China trade deal finalized in days as his Asia tour continues in Japan - CBS News — [read more](https://www.cbsnews.com/news/trump-china-trade-deal-asia-tour-continues-japan-sanae-takaichi/)
-- How The Post found growing rates of young cancer in America’s Corn Belt - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/27/iowa-cancer-analysis-methodology/)
-- Chiefs vs. Commanders live updates: 'Monday Night Football' score, highlights and analysis - CBS Sports — [read more](https://www.cbssports.com/nfl/news/chiefs-vs-commanders-live-updates-score-analysis-highlights-monday-night-football/live/)
-- Democrats get aggressive on remapping congressional lines - Politico — [read more](https://www.politico.com/news/2025/10/27/democrats-get-aggressive-on-remapping-congressional-lines-00624231)
+Fetched on 2025-10-29 (UTC)
+- HSBC's third-quarter profit drops 14%, but beats expectations on higher revenue, interest income - CNBC — [read more](https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html)
+- Monday Night Football: Chiefs run past Commanders 28-7 - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chiefs-run-past-commanders-28-7)
+- Trump and Takaichi sign trade and rare earths deals heralding 'golden age' of alliance - BBC — [read more](https://www.bbc.com/news/live/c4gzdrd19n5t)
 
 # Top Tech News
-Fetched on 2025-10-28 (UTC)
+Fetched on 2025-10-29 (UTC)
 - Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster - Ars Technica — [read more](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/)
 - Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge — [read more](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars)
+- 14-Inch MacBook Pro (M5) Review: New Soul in an Old Body - Gizmodo — [read more](https://gizmodo.com/14-inch-macbook-pro-m5-review-new-soul-in-an-old-body-2000677593)
 - Pokémon Card Fan Loses Collection In The Worst Way Possible - Kotaku — [read more](https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383)
 - Get a 2025 65" LG B5 4K OLED TV at Black Friday Pricing, Plus a Free Wall Mount - IGN — [read more](https://www.ign.com/articles/get-a-2025-65-lg-b5-4k-oled-tv-at-black-friday-pricing-plus-a-free-wall-mount)
-- AI-powered search engines rely on “less popular” sources, researchers find - Ars Technica — [read more](https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/)

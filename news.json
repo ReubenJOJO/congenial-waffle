@@ -1,25 +1,20 @@
 {
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "headlines": [
     {
-      "title": "Trump predicts China trade deal finalized in days as his Asia tour continues in Japan - CBS News",
-      "url": "https://www.cbsnews.com/news/trump-china-trade-deal-asia-tour-continues-japan-sanae-takaichi/",
-      "source": "CBS News"
+      "title": "HSBC's third-quarter profit drops 14%, but beats expectations on higher revenue, interest income - CNBC",
+      "url": "https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html",
+      "source": "CNBC"
     },
     {
-      "title": "How The Post found growing rates of young cancer in America’s Corn Belt - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/10/27/iowa-cancer-analysis-methodology/",
-      "source": "The Washington Post"
+      "title": "Monday Night Football: Chiefs run past Commanders 28-7 - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chiefs-run-past-commanders-28-7",
+      "source": "NBCSports.com"
     },
     {
-      "title": "Chiefs vs. Commanders live updates: 'Monday Night Football' score, highlights and analysis - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-commanders-live-updates-score-analysis-highlights-monday-night-football/live/",
-      "source": "CBS Sports"
-    },
-    {
-      "title": "Democrats get aggressive on remapping congressional lines - Politico",
-      "url": "https://www.politico.com/news/2025/10/27/democrats-get-aggressive-on-remapping-congressional-lines-00624231",
-      "source": "Politico"
+      "title": "Trump and Takaichi sign trade and rare earths deals heralding 'golden age' of alliance - BBC",
+      "url": "https://www.bbc.com/news/live/c4gzdrd19n5t",
+      "source": "BBC News"
     }
   ]
 }
