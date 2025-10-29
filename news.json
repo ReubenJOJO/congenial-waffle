@@ -2,24 +2,29 @@
   "date": "2025-10-29",
   "headlines": [
     {
-      "title": "PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT - CNBC",
-      "url": "https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html",
-      "source": "CNBC"
+      "title": "Trump put allies on obscure board set to decide White House ballroom’s fate - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/28/trump-ballroom-planning-commission/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Amazon to cut 14,000 corporate jobs - Financial Times",
-      "url": "https://www.ft.com/content/106a0ea2-5f76-47c3-b1d6-c6b425b556fc",
-      "source": "Financial Times"
-    },
-    {
-      "title": "Freeman’s homer in 18th inning lifts Dodgers over Blue Jays 6-5 in World Series classic - AP News",
-      "url": "https://apnews.com/article/world-series-dodgers-blue-jays-freeman-ohtani-ec8b7b457a436ab899c322255bd4ef03",
+      "title": "Netanyahu says remains returned by Hamas are body parts of a hostage previously retrieved in Gaza - AP News",
+      "url": "https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4",
       "source": "Associated Press"
     },
     {
-      "title": "Dan Quinn, Andy Reid both cite fourth downs as a key reason Commanders lost to Chiefs - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-andy-reid-both-cite-fourth-downs-as-a-key-reason-commanders-lost-to-chiefs",
-      "source": "NBCSports.com"
+      "title": "Man accused of stabbing two teens with metal fork during flight - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/10/28/lufthansa-fork-stabbing-chicago-boston/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Fawlty Towers actress Prunella Scales dies aged 93 - BBC",
+      "url": "https://www.bbc.com/news/articles/cjd0yn5gyndo",
+      "source": "BBC News"
+    },
+    {
+      "title": "Abe shooting suspect Yamagami pleads guilty to murder - The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2025/10/28/japan/crime-legal/yamagami-first-trial-hearing/",
+      "source": "The Japan Times"
     }
   ]
 }
