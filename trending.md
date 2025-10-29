@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-29 (UTC)
 
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 3979 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1375 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1169 stars
-- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 890 stars
-- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) ⭐ 774 stars
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 4715 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1404 stars
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1208 stars
+- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 906 stars
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 873 stars
 
 # Top News Headlines
 Fetched on 2025-10-29 (UTC)
-- Trump put allies on obscure board set to decide White House ballroom’s fate - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/10/28/trump-ballroom-planning-commission/)
-- Netanyahu says remains returned by Hamas are body parts of a hostage previously retrieved in Gaza - AP News — [read more](https://apnews.com/article/israel-palestinians-west-bank-hamas-gaza-82b5b46cdbddd690dd28b7a8674d40d4)
-- Man accused of stabbing two teens with metal fork during flight - The Washington Post — [read more](https://www.washingtonpost.com/nation/2025/10/28/lufthansa-fork-stabbing-chicago-boston/)
-- Fawlty Towers actress Prunella Scales dies aged 93 - BBC — [read more](https://www.bbc.com/news/articles/cjd0yn5gyndo)
-- Abe shooting suspect Yamagami pleads guilty to murder - The Japan Times — [read more](https://www.japantimes.co.jp/news/2025/10/28/japan/crime-legal/yamagami-first-trial-hearing/)
+- Democrats launch alternative bill to save SNAP funding - Politico — [read more](https://www.politico.com/live-updates/2025/10/28/congress/lujan-hawley-snap-food-aid-bill-shutdown-00626416)
+- "No hire, no fire" job market may no longer be a thing as big companies announce mass layoffs - CBS News — [read more](https://www.cbsnews.com/news/amazon-ups-layoffs-labor-market-jobs-economy/)
+- Hurricane Melissa makes landfall in Jamaica: Live updates - CNN — [read more](https://www.cnn.com/weather/live-news/hurricane-melissa-jamaica-landfall-tuesday-climate)
+- At least one monkey from on the loose after truck crash in Mississippi, officials say it’s aggressive - WWLTV.com — [read more](https://www.wwltv.com/article/news/local/truck-carrying-monkeys-from-tulane-crashes-on-i-59/289-a4dfa6d3-3f94-4039-b2d5-942accc14994)
 
 # Top Tech News
 Fetched on 2025-10-29 (UTC)
-- Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and Battle Pass Progression Later Today - IGN — [read more](https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today)
-- Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware - The Hacker News — [read more](https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html)
-- Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square — [read more](https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting)
-- BREAKING: This is the Galaxy Z TriFold! - SamMobile — [read more](https://www.sammobile.com/news/galaxy-z-trifold-showcased-officially/)
-- Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square — [read more](https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive)
+- Amazon's Once Popular MMO New World Is Now On Life Support - Kotaku — [read more](https://kotaku.com/new-world-amazon-mmo-shutting-down-servers-2026-layoffs-new-content-2000639761)
+- Microsoft CEO Talks Ending Exclusivity And Mandating Higher Profits - Kotaku — [read more](https://kotaku.com/microsoft-satya-nadella-xbox-halo-profit-margins-2000639721)
+- Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-28/apple-plans-oled-for-ipad-mini-ipad-air-macbook-air-mini-water-resistance)
+- GOG’s Fall Sale Is Live And Includes Over 4,000 PC Games - Kotaku — [read more](https://kotaku.com/gogs-fall-autumn-sale-2025-best-biggest-deals-pc-games-classics-2000639704)
+- macOS Tahoe 26.1: Here are Apple’s full release notes - 9to5Mac — [read more](https://9to5mac.com/2025/10/28/macos-tahoe-26-1-here-are-apples-full-release-notes/)
