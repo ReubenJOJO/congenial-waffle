@@ -2,19 +2,24 @@
   "date": "2025-10-29",
   "headlines": [
     {
-      "title": "HSBC's third-quarter profit drops 14%, but beats expectations on higher revenue, interest income - CNBC",
-      "url": "https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html",
+      "title": "PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT - CNBC",
+      "url": "https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html",
       "source": "CNBC"
     },
     {
-      "title": "Monday Night Football: Chiefs run past Commanders 28-7 - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chiefs-run-past-commanders-28-7",
-      "source": "NBCSports.com"
+      "title": "Amazon to cut 14,000 corporate jobs - Financial Times",
+      "url": "https://www.ft.com/content/106a0ea2-5f76-47c3-b1d6-c6b425b556fc",
+      "source": "Financial Times"
     },
     {
-      "title": "Trump and Takaichi sign trade and rare earths deals heralding 'golden age' of alliance - BBC",
-      "url": "https://www.bbc.com/news/live/c4gzdrd19n5t",
-      "source": "BBC News"
+      "title": "Freeman’s homer in 18th inning lifts Dodgers over Blue Jays 6-5 in World Series classic - AP News",
+      "url": "https://apnews.com/article/world-series-dodgers-blue-jays-freeman-ohtani-ec8b7b457a436ab899c322255bd4ef03",
+      "source": "Associated Press"
+    },
+    {
+      "title": "Dan Quinn, Andy Reid both cite fourth downs as a key reason Commanders lost to Chiefs - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-andy-reid-both-cite-fourth-downs-as-a-key-reason-commanders-lost-to-chiefs",
+      "source": "NBCSports.com"
     }
   ]
 }
