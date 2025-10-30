@@ -2,29 +2,29 @@
   "date": "2025-10-30",
   "repos": [
     {
-      "name": "TimmyOVO/deepseek-ocr.rs",
-      "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-      "stars": 1429
-    },
-    {
       "name": "tinkle-community/nofx",
       "url": "https://github.com/tinkle-community/nofx",
-      "stars": 1151
+      "stars": 1542
+    },
+    {
+      "name": "TimmyOVO/deepseek-ocr.rs",
+      "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+      "stars": 1450
     },
     {
       "name": "MiniMax-AI/MiniMax-M2",
       "url": "https://github.com/MiniMax-AI/MiniMax-M2",
-      "stars": 846
+      "stars": 871
     },
     {
       "name": "meituan-longcat/LongCat-Video",
       "url": "https://github.com/meituan-longcat/LongCat-Video",
-      "stars": 791
+      "stars": 806
     },
     {
       "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
       "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-      "stars": 631
+      "stars": 675
     }
   ]
 }
