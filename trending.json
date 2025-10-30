@@ -1,30 +1,30 @@
 {
-  "date": "2025-10-29",
+  "date": "2025-10-30",
   "repos": [
-    {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "stars": 4715
-    },
     {
       "name": "TimmyOVO/deepseek-ocr.rs",
       "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-      "stars": 1404
-    },
-    {
-      "name": "pguso/ai-agents-from-scratch",
-      "url": "https://github.com/pguso/ai-agents-from-scratch",
-      "stars": 1208
-    },
-    {
-      "name": "vercel/workflow",
-      "url": "https://github.com/vercel/workflow",
-      "stars": 906
+      "stars": 1429
     },
     {
       "name": "tinkle-community/nofx",
       "url": "https://github.com/tinkle-community/nofx",
-      "stars": 873
+      "stars": 1151
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-M2",
+      "url": "https://github.com/MiniMax-AI/MiniMax-M2",
+      "stars": 846
+    },
+    {
+      "name": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "stars": 791
+    },
+    {
+      "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+      "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+      "stars": 631
     }
   ]
 }

@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-29 (UTC)
+Fetched on 2025-10-30 (UTC)
 
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 4715 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1404 stars
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) ⭐ 1208 stars
-- [vercel/workflow](https://github.com/vercel/workflow) ⭐ 906 stars
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 873 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1429 stars
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 1151 stars
+- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) ⭐ 846 stars
+- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐ 791 stars
+- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ⭐ 631 stars
 
 # Top News Headlines
-Fetched on 2025-10-29 (UTC)
-- Democrats launch alternative bill to save SNAP funding - Politico — [read more](https://www.politico.com/live-updates/2025/10/28/congress/lujan-hawley-snap-food-aid-bill-shutdown-00626416)
-- "No hire, no fire" job market may no longer be a thing as big companies announce mass layoffs - CBS News — [read more](https://www.cbsnews.com/news/amazon-ups-layoffs-labor-market-jobs-economy/)
-- Hurricane Melissa makes landfall in Jamaica: Live updates - CNN — [read more](https://www.cnn.com/weather/live-news/hurricane-melissa-jamaica-landfall-tuesday-climate)
-- At least one monkey from on the loose after truck crash in Mississippi, officials say it’s aggressive - WWLTV.com — [read more](https://www.wwltv.com/article/news/local/truck-carrying-monkeys-from-tulane-crashes-on-i-59/289-a4dfa6d3-3f94-4039-b2d5-942accc14994)
+Fetched on 2025-10-30 (UTC)
+- Poll: Most Californians say they’ll vote yes on Proposition 50 - Politico — [read more](https://www.politico.com/news/2025/10/29/poll-most-californians-vote-yes-proposition-50-00625982)
+- MLB World Series Game 4: Toronto Blue Jays beat LA Dodgers 6-2 to level at 2-2 - BBC — [read more](https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o)
+- Trump seems to close the door on trying for another term - Politico — [read more](https://www.politico.com/news/2025/10/28/trump-another-term-00626810)
+- Windows blown in, trees uprooted and croc warnings - Hurricane Melissa batters Jamaica - BBC — [read more](https://www.bbc.com/news/articles/cqx3g2v7275o)
+- Senate approves bipartisan resolution to end tariffs on Brazil - The Washington Post — [read more](https://www.washingtonpost.com/business/2025/10/28/senate-approves-bipartisan-resolution-end-tariffs-brazil/)
 
 # Top Tech News
-Fetched on 2025-10-29 (UTC)
-- Amazon's Once Popular MMO New World Is Now On Life Support - Kotaku — [read more](https://kotaku.com/new-world-amazon-mmo-shutting-down-servers-2026-layoffs-new-content-2000639761)
-- Microsoft CEO Talks Ending Exclusivity And Mandating Higher Profits - Kotaku — [read more](https://kotaku.com/microsoft-satya-nadella-xbox-halo-profit-margins-2000639721)
-- Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-28/apple-plans-oled-for-ipad-mini-ipad-air-macbook-air-mini-water-resistance)
-- GOG’s Fall Sale Is Live And Includes Over 4,000 PC Games - Kotaku — [read more](https://kotaku.com/gogs-fall-autumn-sale-2025-best-biggest-deals-pc-games-classics-2000639704)
-- macOS Tahoe 26.1: Here are Apple’s full release notes - 9to5Mac — [read more](https://9to5mac.com/2025/10/28/macos-tahoe-26-1-here-are-apples-full-release-notes/)
+Fetched on 2025-10-30 (UTC)
+- Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switch 2 - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2)
+- Gemini coming to Google TV Streamer, more devices this winter - 9to5Google — [read more](http://9to5google.com/2025/10/28/gemini-google-tv-streamer/)
+- Avatar Legends: The Fighting Game reveals new gameplay footage, Closed Alpha Test announced - EventHubs — [read more](https://www.eventhubs.com/news/2025/oct/28/avatar-legends-gameplay-alpha/)
+- Windows 11 KB5067036 update rolls out Administrator Protection feature - BleepingComputer — [read more](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
+- Microsoft CEO Satya Nadella is "looking forward," to the next Xbox — "We want to do innovative work on the system side, on both console and PC." - Windows Central — [read more](https://www.windowscentral.com/gaming/xbox/microsoft-ceo-satya-nadella-is-looking-forward-to-the-next-xbox-we-want-to-do-innovative-work-on-the-system-side-on-both-console-and-pc)

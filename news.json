@@ -1,25 +1,30 @@
 {
-  "date": "2025-10-29",
+  "date": "2025-10-30",
   "headlines": [
     {
-      "title": "Democrats launch alternative bill to save SNAP funding - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/28/congress/lujan-hawley-snap-food-aid-bill-shutdown-00626416",
+      "title": "Poll: Most Californians say they’ll vote yes on Proposition 50 - Politico",
+      "url": "https://www.politico.com/news/2025/10/29/poll-most-californians-vote-yes-proposition-50-00625982",
       "source": "Politico"
     },
     {
-      "title": "\"No hire, no fire\" job market may no longer be a thing as big companies announce mass layoffs - CBS News",
-      "url": "https://www.cbsnews.com/news/amazon-ups-layoffs-labor-market-jobs-economy/",
-      "source": "CBS News"
+      "title": "MLB World Series Game 4: Toronto Blue Jays beat LA Dodgers 6-2 to level at 2-2 - BBC",
+      "url": "https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o",
+      "source": "BBC News"
     },
     {
-      "title": "Hurricane Melissa makes landfall in Jamaica: Live updates - CNN",
-      "url": "https://www.cnn.com/weather/live-news/hurricane-melissa-jamaica-landfall-tuesday-climate",
-      "source": "CNN"
+      "title": "Trump seems to close the door on trying for another term - Politico",
+      "url": "https://www.politico.com/news/2025/10/28/trump-another-term-00626810",
+      "source": "Politico"
     },
     {
-      "title": "At least one monkey from on the loose after truck crash in Mississippi, officials say it’s aggressive - WWLTV.com",
-      "url": "https://www.wwltv.com/article/news/local/truck-carrying-monkeys-from-tulane-crashes-on-i-59/289-a4dfa6d3-3f94-4039-b2d5-942accc14994",
-      "source": "WWLTV.com"
+      "title": "Windows blown in, trees uprooted and croc warnings - Hurricane Melissa batters Jamaica - BBC",
+      "url": "https://www.bbc.com/news/articles/cqx3g2v7275o",
+      "source": "BBC News"
+    },
+    {
+      "title": "Senate approves bipartisan resolution to end tariffs on Brazil - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/10/28/senate-approves-bipartisan-resolution-end-tariffs-brazil/",
+      "source": "The Washington Post"
     }
   ]
 }
