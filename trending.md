@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-10-31 (UTC)
 
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 2777 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1544 stars
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1031 stars
-- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) ⭐ 989 stars
-- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐ 845 stars
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 3165 stars
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1551 stars
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1124 stars
+- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) ⭐ 1018 stars
+- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐ 852 stars
 
 # Top News Headlines
 Fetched on 2025-10-31 (UTC)
-- Live updates: China agrees to purchase 25 million metric tons of US soybeans each year, treasury secretary says - AP News — [read more](https://apnews.com/live/donald-trump-news-updates-10-30-2025)
-- ‘Amazing meeting’: Trump touts progress on multiple fronts with China after meeting Xi - Politico — [read more](https://www.politico.com/news/2025/10/30/amazing-meeting-trump-touts-progress-on-multiple-fronts-with-china-after-meeting-xi-00629580)
-- AI spending is helping prop up the economy. Now it’s getting stronger. - The Washington Post — [read more](https://www.washingtonpost.com/technology/2025/10/30/google-meta-ai-data-center-spending/)
-- ‘Scream 7’ Trailer: Neve Campbell Brings Sidney Prescott Back to Face Off Against a Grisly Ghostface - Variety — [read more](https://variety.com/2025/film/news/scream-7-trailer-neve-campbell-sidney-prescott-1236509492/)
-- Satellite images reveal hurricane destruction in Jamaica's towns - BBC — [read more](https://www.bbc.com/news/live/c17pnjwlg51t)
+- Covid in pregnancy tied to autism, developmental issues, study says - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/30/covid-19-pregnancy-autism-risk/)
+- Judge sentences former Jan. 6 defendant for hoax threat near Obama's home - NPR — [read more](https://www.npr.org/2025/10/30/g-s1-95855/january-six-capitol-defendant-obama-threat)
+- Teacher suing for $40 million after being shot by her 6-year-old student testifies in civil trial - ABC News — [read more](https://abcnews.go.com/US/teacher-suing-40-million-after-shot-6-year/story?id\\u003d127022242)
+- Amazon Stock Pops as Earnings Top Estimates, Driven by AWS Growth - Investopedia — [read more](https://www.investopedia.com/amazon-stock-pops-as-earnings-top-estimates-driven-by-aws-growth-11839134)
+- Apple reports fourth quarter results - Apple — [read more](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 
 # Top Tech News
 Fetched on 2025-10-31 (UTC)
-- Nintendo Announces Animal Crossing: New Horizons Switch 2 Edition and a Free Update to the Base Game - IGN — [read more](https://www.ign.com/articles/nintendo-announces-animal-crossing-new-horizons-switch-2-edition-and-a-free-update-to-the-base-game)
-- PSA: Struggling With Luigi's Mansion's Inverted Controls? You Can 'Fix' Them On NSO - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/psa-struggling-with-luigis-mansions-inverted-controls-you-can-fix-them-on-nso)
-- OpenAI adds reusable ‘characters’ and video stitching to Sora - The Verge — [read more](https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates)
-- Arc Raiders Online connection errors are causing havoc, as 130,000+ players flood the servers minutes after launch - Eurogamer — [read more](https://www.eurogamer.net/arc-raiders-online-connection-error-launch-server-problem)
-- Amazon have reportedly cancelled their Lord Of The Rings MMO, again - Rock Paper Shotgun — [read more](https://www.rockpapershotgun.com/amazon-have-reportedly-cancelled-their-lord-of-the-rings-mmo-again)
+- Tim Cook says more AIs are coming to Apple Intelligence - The Verge — [read more](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations)
+- Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
+- Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors — [read more](https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/)
+- Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge — [read more](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)

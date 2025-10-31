@@ -2,29 +2,24 @@
   "date": "2025-10-31",
   "tech": [
     {
-      "title": "Nintendo Announces Animal Crossing: New Horizons Switch 2 Edition and a Free Update to the Base Game - IGN",
-      "url": "https://www.ign.com/articles/nintendo-announces-animal-crossing-new-horizons-switch-2-edition-and-a-free-update-to-the-base-game",
-      "source": "IGN"
-    },
-    {
-      "title": "PSA: Struggling With Luigi's Mansion's Inverted Controls? You Can 'Fix' Them On NSO - Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/10/psa-struggling-with-luigis-mansions-inverted-controls-you-can-fix-them-on-nso",
-      "source": "Nintendo Life"
-    },
-    {
-      "title": "OpenAI adds reusable ‘characters’ and video stitching to Sora - The Verge",
-      "url": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates",
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
       "source": "The Verge"
     },
     {
-      "title": "Arc Raiders Online connection errors are causing havoc, as 130,000+ players flood the servers minutes after launch - Eurogamer",
-      "url": "https://www.eurogamer.net/arc-raiders-online-connection-error-launch-server-problem",
-      "source": "Eurogamer.net"
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "source": "Ars Technica"
     },
     {
-      "title": "Amazon have reportedly cancelled their Lord Of The Rings MMO, again - Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/amazon-have-reportedly-cancelled-their-lord-of-the-rings-mmo-again",
-      "source": "Rock Paper Shotgun"
+      "title": "Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors",
+      "url": "https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
+      "url": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr",
+      "source": "The Verge"
     }
   ]
 }
