@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-01 (UTC)
 
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 3377 stars
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1162 stars
-- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ⭐ 823 stars
-- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) ⭐ 792 stars
-- [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ⭐ 678 stars
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 3635 stars
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1200 stars
+- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ⭐ 837 stars
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) ⭐ 814 stars
+- [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ⭐ 717 stars
 
 # Top News Headlines
 Fetched on 2025-11-01 (UTC)
-- Dolphins vs. Ravens live updates: Score, analysis and highlights from 'TNF' - CBS Sports — [read more](https://www.cbssports.com/nfl/news/dolphins-vs-ravens-live-updates-score-highlights-thursday-night-football/live/)
-- First Evidence for a Non-Gravitational Acceleration of 3I/ATLAS at Perihelion - Avi Loeb – Medium — [read more](https://avi-loeb.medium.com/first-evidence-for-a-non-gravitational-acceleration-of-3i-atlas-at-perihelion-2698f6a453fe)
-- Haiti, Jamaica and Cuba pick up the pieces after Melissa's destruction - NPR — [read more](https://www.npr.org/2025/10/30/g-s1-95941/haiti-jamaica-cuba-hurricane-melissa-recovery)
-- What does Trump mean by 'nuclear testing?' - ABC News — [read more](https://abcnews.go.com/Politics/trump-nuclear-testing/story?id\\u003d127035450)
+- Trump says Senate should scrap the filibuster to end the government shutdown - NPR — [read more](https://www.npr.org/2025/10/31/nx-s1-5591978/trump-senate-scrap-filibuster-end-government-shutdown)
+- FDA recalls blood pressure medicine tainted with cancer-causing chemical - AP News — [read more](https://apnews.com/article/fda-recall-prazosin-teva-blood-cancer-ce6338047a5f628300cc95e0eeb89b0b)
+- Chinese Exporters Bet That Xi-Trump Tariff Truce Won’t Last - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-10-31/chinese-exporters-bet-that-xi-trump-tariff-truce-won-t-last)
+- Gable Steveson demolishes Billy Swanson in 15 seconds at Dirty Boxing 4, calls out UFC matchmaker - Yahoo Sports — [read more](https://sports.yahoo.com/mma/breaking-news/live/dirty-boxing-4-live-updates-gable-steveson-vs-billy-swanson-results-live-stream-round-by-round-analysis-and-highlights-080035297.html)
 
 # Top Tech News
 Fetched on 2025-11-01 (UTC)
-- Google surprises Pixel users with another October update - Android Authority — [read more](https://www.androidauthority.com/another-october-pixel-update-3611877/)
-- Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-- Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)
-- Dragon Quest I & II HD-2D Remake Gets Day One Update, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/dragon-quest-i-and-ii-hd-2d-remake-gets-day-one-update-here-are-the-full-patch-notes)
-- Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google — [read more](http://9to5google.com/2025/10/30/google-android-xr-glasses-extended-magic-leap-deal/)
+- Google drops a surprise late-October 2025 update for Pixels - Android Police — [read more](https://www.androidpolice.com/google-drops-surprise-late-october-2025-update-pixels/)
+- Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, Legend buffs & nerfs - Dexerto — [read more](https://www.dexerto.com/apex-legends/apex-legends-season-27-early-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/)
+- Official Xbox Wireless Controllers Are on Sale for as Low as $35 With Code SIXSEVEN - IGN — [read more](https://www.ign.com/articles/official-xbox-wireless-controllers-are-on-sale-for-as-low-as-35-with-code-sixseven)
+- Everything New In The REPO Monster Update - Full Patch Notes - GameSpot — [read more](https://www.gamespot.com/gallery/everything-new-in-the-repo-monster-update-full-patch-notes/2900-7198/)
