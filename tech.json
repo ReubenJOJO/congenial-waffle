@@ -1,10 +1,10 @@
 {
-  "date": "2025-10-31",
+  "date": "2025-11-01",
   "tech": [
     {
-      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
-      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
-      "source": "The Verge"
+      "title": "Google surprises Pixel users with another October update - Android Authority",
+      "url": "https://www.androidauthority.com/another-october-pixel-update-3611877/",
+      "source": "Android Authority"
     },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
@@ -12,14 +12,19 @@
       "source": "Ars Technica"
     },
     {
-      "title": "Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors",
-      "url": "https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/",
-      "source": "MacRumors"
+      "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
+      "source": "Ars Technica"
     },
     {
-      "title": "Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
-      "url": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr",
-      "source": "The Verge"
+      "title": "Dragon Quest I & II HD-2D Remake Gets Day One Update, Here Are The Full Patch Notes - Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/10/dragon-quest-i-and-ii-hd-2d-remake-gets-day-one-update-here-are-the-full-patch-notes",
+      "source": "Nintendo Life"
+    },
+    {
+      "title": "Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google",
+      "url": "http://9to5google.com/2025/10/30/google-android-xr-glasses-extended-magic-leap-deal/",
+      "source": "9to5google.com"
     }
   ]
 }

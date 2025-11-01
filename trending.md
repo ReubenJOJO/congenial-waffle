@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-10-31 (UTC)
+Fetched on 2025-11-01 (UTC)
 
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 3165 stars
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) ⭐ 1551 stars
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1124 stars
-- [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) ⭐ 1018 stars
-- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐ 852 stars
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) ⭐ 3377 stars
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 1162 stars
+- [Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview) ⭐ 823 stars
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) ⭐ 792 stars
+- [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ⭐ 678 stars
 
 # Top News Headlines
-Fetched on 2025-10-31 (UTC)
-- Covid in pregnancy tied to autism, developmental issues, study says - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/10/30/covid-19-pregnancy-autism-risk/)
-- Judge sentences former Jan. 6 defendant for hoax threat near Obama's home - NPR — [read more](https://www.npr.org/2025/10/30/g-s1-95855/january-six-capitol-defendant-obama-threat)
-- Teacher suing for $40 million after being shot by her 6-year-old student testifies in civil trial - ABC News — [read more](https://abcnews.go.com/US/teacher-suing-40-million-after-shot-6-year/story?id\\u003d127022242)
-- Amazon Stock Pops as Earnings Top Estimates, Driven by AWS Growth - Investopedia — [read more](https://www.investopedia.com/amazon-stock-pops-as-earnings-top-estimates-driven-by-aws-growth-11839134)
-- Apple reports fourth quarter results - Apple — [read more](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
+Fetched on 2025-11-01 (UTC)
+- Dolphins vs. Ravens live updates: Score, analysis and highlights from 'TNF' - CBS Sports — [read more](https://www.cbssports.com/nfl/news/dolphins-vs-ravens-live-updates-score-highlights-thursday-night-football/live/)
+- First Evidence for a Non-Gravitational Acceleration of 3I/ATLAS at Perihelion - Avi Loeb – Medium — [read more](https://avi-loeb.medium.com/first-evidence-for-a-non-gravitational-acceleration-of-3i-atlas-at-perihelion-2698f6a453fe)
+- Haiti, Jamaica and Cuba pick up the pieces after Melissa's destruction - NPR — [read more](https://www.npr.org/2025/10/30/g-s1-95941/haiti-jamaica-cuba-hurricane-melissa-recovery)
+- What does Trump mean by 'nuclear testing?' - ABC News — [read more](https://abcnews.go.com/Politics/trump-nuclear-testing/story?id\\u003d127035450)
 
 # Top Tech News
-Fetched on 2025-10-31 (UTC)
-- Tim Cook says more AIs are coming to Apple Intelligence - The Verge — [read more](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations)
+Fetched on 2025-11-01 (UTC)
+- Google surprises Pixel users with another October update - Android Authority — [read more](https://www.androidauthority.com/another-october-pixel-update-3611877/)
 - Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-- Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors — [read more](https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/)
-- Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge — [read more](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)
+- Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)
+- Dragon Quest I & II HD-2D Remake Gets Day One Update, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/10/dragon-quest-i-and-ii-hd-2d-remake-gets-day-one-update-here-are-the-full-patch-notes)
+- Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google — [read more](http://9to5google.com/2025/10/30/google-android-xr-glasses-extended-magic-leap-deal/)
