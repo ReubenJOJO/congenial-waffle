@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-01",
+  "date": "2025-11-02",
   "headlines": [
     {
-      "title": "US retailers are running out of pennies - BBC",
-      "url": "https://www.bbc.com/news/articles/c20556ly45eo",
-      "source": "BBC News"
+      "title": "Xi, Lee Will Hold Talks in South Korea Saturday to Rebuild Ties - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-01/xi-lee-will-hold-talks-in-south-korea-saturday-to-rebuild-ties",
+      "source": "Bloomberg"
     },
     {
-      "title": "Miami Dolphins and General Manager Chris Grier agree to part ways - AP News",
-      "url": "https://apnews.com/article/miami-dolphins-chris-grier-8fd614dd10d9527f01ffd06d407dc8a1",
-      "source": "Associated Press"
+      "title": "JD Vance Savaged as He Desperately Tries to Get In On the Joke - The Daily Beast",
+      "url": "https://www.thedailybeast.com/jd-vance-savaged-as-he-desperately-tries-to-get-in-on-the-joke/",
+      "source": "Daily Beast"
     },
     {
-      "title": "Interstellar invader Comet 3I/ATLAS is still full of surprises — an unexpected brightening has scientists baffled - Space",
-      "url": "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-is-still-full-of-surprises-an-unexpected-brightening-has-scientists-baffled",
-      "source": "Space.com"
+      "title": "FAA warns of ‘surge’ in air traffic controllers calling out of work - Politico",
+      "url": "https://www.politico.com/news/2025/10/31/faa-warns-of-surge-in-air-traffic-controllers-calling-out-of-work-00632593",
+      "source": "Politico"
     },
     {
-      "title": "These are Ohio's new congressional districts - News 5 Cleveland WEWS",
-      "url": "https://www.news5cleveland.com/news/politics/ohio-politics/these-are-ohios-new-congressional-districts",
-      "source": "News 5 Cleveland"
+      "title": "Justin Trudeau's Halloween Costume Is Nod To New Girlfriend Katy Perry - TMZ",
+      "url": "https://www.tmz.com/2025/10/31/justin-trudeau-halloween-costume-refences-katy-perry-left-shark/",
+      "source": "TMZ"
+    },
+    {
+      "title": "Trump administration must release billions in SNAP funds, judge says - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/31/government-shutdown-food-assistance/",
+      "source": "The Washington Post"
     }
   ]
 }

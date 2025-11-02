@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-01",
+  "date": "2025-11-02",
   "repos": [
     {
       "name": "tinkle-community/nofx",
       "url": "https://github.com/tinkle-community/nofx",
-      "stars": 4214
+      "stars": 4381
     },
     {
       "name": "diet103/claude-code-infrastructure-showcase",
       "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-      "stars": 1677
+      "stars": 1816
     },
     {
       "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
       "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-      "stars": 867
+      "stars": 878
     },
     {
       "name": "baaivision/Emu3.5",
       "url": "https://github.com/baaivision/Emu3.5",
-      "stars": 862
+      "stars": 874
     },
     {
       "name": "MoonshotAI/Kimi-Linear",
       "url": "https://github.com/MoonshotAI/Kimi-Linear",
-      "stars": 780
+      "stars": 796
     }
   ]
 }
