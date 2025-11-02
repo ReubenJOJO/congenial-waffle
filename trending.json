@@ -2,29 +2,29 @@
   "date": "2025-11-02",
   "repos": [
     {
-      "name": "tinkle-community/nofx",
-      "url": "https://github.com/tinkle-community/nofx",
-      "stars": 4381
+      "name": "NoFxAiOS/nofx",
+      "url": "https://github.com/NoFxAiOS/nofx",
+      "stars": 4549
     },
     {
       "name": "diet103/claude-code-infrastructure-showcase",
       "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-      "stars": 1816
-    },
-    {
-      "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-      "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-      "stars": 878
+      "stars": 1953
     },
     {
       "name": "baaivision/Emu3.5",
       "url": "https://github.com/baaivision/Emu3.5",
-      "stars": 874
+      "stars": 895
+    },
+    {
+      "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+      "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+      "stars": 889
     },
     {
       "name": "MoonshotAI/Kimi-Linear",
       "url": "https://github.com/MoonshotAI/Kimi-Linear",
-      "stars": 796
+      "stars": 820
     }
   ]
 }
