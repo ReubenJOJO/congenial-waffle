@@ -2,24 +2,29 @@
   "date": "2025-11-02",
   "headlines": [
     {
-      "title": "The nation’s largest employers are putting their workers on notice - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/11/01/layoffs-workers-ai-amazon-walmart/",
+      "title": "Trump lays low in 2025 elections as Democrats attack him - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/11/01/trump-election-republicans-virgina-new-jersey/",
       "source": "The Washington Post"
     },
     {
-      "title": "China's Xi pushes for global AI body at APEC in counter to U.S. - CNBC",
-      "url": "https://www.cnbc.com/2025/11/01/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us.html",
-      "source": "CNBC"
+      "title": "Families shot down, held at ransom as they flee Darfur’s killing fields - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/11/01/sudan-darfur-el-fashir-rsf-genocide/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Trump asking court how to \"legally fund SNAP\" after judge's order - Axios",
-      "url": "https://www.axios.com/2025/10/31/snap-hearing-massachusetts-state-lawsuit-trump",
-      "source": "Axios"
+      "title": "Maybe you hate your CPAP, but not treating sleep apnea could risk micro brain bleeds - CNN",
+      "url": "https://www.cnn.com/2025/11/01/health/obstructive-sleep-apnea-microbleed-wellness",
+      "source": "CNN"
     },
     {
-      "title": "China signals easing of Nexperia semiconductor export ban - Financial Times",
-      "url": "https://www.ft.com/content/32c29626-703e-43c0-b8f5-2197c165effb",
-      "source": "Financial Times"
+      "title": "Amid YouTube TV dispute, ESPN scrambles to gather College GameDay audience - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amid-youtube-tv-dispute-espn-scrambles-to-gather-college-gameday-audience",
+      "source": "NBCSports.com"
+    },
+    {
+      "title": "Maduro braces for a U.S. attack; Venezuelans worry more about dinner - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/11/01/maduro-venezuela-attack-economy/",
+      "source": "The Washington Post"
     }
   ]
 }
