@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-02",
+  "date": "2025-11-03",
   "tech": [
+    {
+      "title": "Steam On Linux Gaming Finally Cracks 3% For October 2025 - Phoronix",
+      "url": "https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025",
+      "source": "Phoronix"
+    },
+    {
+      "title": "Treat your PC to Microsoft Office apps for less than $7 each - Mashable",
+      "url": "https://mashable.com/article/nov-1-microsoft-office-professional-2021-for-windows",
+      "source": "Mashable"
+    },
     {
       "title": "Battlefield 6 drops a new \"relaxed\" way to earn XP \"without the intensity of a full PvP lobby\" - Eurogamer",
       "url": "https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby",
       "source": "Eurogamer.net"
     },
     {
-      "title": "Despite their unpopularity, iPhone crossbody straps aren’t as useless as they may seem - 9to5Mac",
-      "url": "https://9to5mac.com/2025/11/01/iphone-crossbody-straps-are-cooler-than-you-might-believe/",
-      "source": "9to5Mac"
+      "title": "The best Android phones never make it to the US - Android Police",
+      "url": "https://www.androidpolice.com/the-best-android-phones-never-make-it-to-the-us/",
+      "source": "Android Police"
     },
     {
-      "title": "New Google Pixel October 2025 update with ‘performance improvements’ rolls out [U] - 9to5Google",
-      "url": "http://9to5google.com/2025/11/01/new-pixel-october-2025-update/",
-      "source": "9to5google.com"
-    },
-    {
-      "title": "AMD bundles four Steam games with Lenovo Legion Go 2, Costco only - VideoCardz.com",
-      "url": "https://videocardz.com/newz/amd-bundles-four-steam-games-with-lenovo-legion-go-2-costco-only",
-      "source": "Videocardz.com"
-    },
-    {
-      "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
-      "url": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding",
-      "source": "The Verge"
+      "title": "Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another Day - Road & Track",
+      "url": "https://www.roadandtrack.com/car-culture/a69220164/aerotech-reborn-257-mph-gm-prototypes-live-to-drive-another-day/",
+      "source": "RoadandTrack.com"
     }
   ]
 }
