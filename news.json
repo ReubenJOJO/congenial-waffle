@@ -2,29 +2,24 @@
   "date": "2025-11-03",
   "headlines": [
     {
-      "title": "Hurricane Melissa: Britons evacuated from Jamaica as UK sends aid - BBC",
-      "url": "https://www.bbc.com/news/articles/cvg441qyv2xo",
+      "title": "Poll: Most Americans think the government lies. Many say the American Dream is dead. - Politico",
+      "url": "https://www.politico.com/news/2025/11/02/poll-american-dream-polarization-00632538",
+      "source": "Politico"
+    },
+    {
+      "title": "Hurricane Melissa death toll rises to 28 in Jamaica - BBC",
+      "url": "https://www.bbc.com/news/articles/c1e34p92q0vo",
       "source": "BBC News"
     },
     {
-      "title": "With pharaoh-like fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization - AP News",
-      "url": "https://apnews.com/article/egypt-antiquities-museum-pyramids-tutankhamun-1ead2ce683277e613a3aaebb9944d729",
-      "source": "Associated Press"
+      "title": "Police rule out terrorism in UK train stabbing attack, after two British suspects arrested - CNN",
+      "url": "https://www.cnn.com/2025/11/02/uk/uk-train-attack-terror-motive-intl-gbr",
+      "source": "CNN"
     },
     {
-      "title": "Andrew will head into exile at King Charles’ private and remote Sandringham estate - AP News",
-      "url": "https://apnews.com/article/britain-andrew-sandringham-king-charles-3ce1576fd3156112c0734755a0d5d854",
-      "source": "Associated Press"
-    },
-    {
-      "title": "Horoscope for Sunday, November 02, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/11/02/horoscopes-today-sunday-november-02-2025",
-      "source": "Suntimes.com"
-    },
-    {
-      "title": "'SNL' Mocks NYC Mayoral Debate With Miles Teller as Andrew Cuomo - Variety",
-      "url": "https://variety.com/2025/tv/news/snl-cold-open-nyc-mayoral-debate-miles-teller-andrew-cuomo-1236567754/",
-      "source": "Variety"
+      "title": "Donald Trump orders military to prepare plans for 'action' in Nigeria - BBC",
+      "url": "https://www.bbc.com/news/articles/cev18jy21w7o",
+      "source": "BBC News"
     }
   ]
 }
