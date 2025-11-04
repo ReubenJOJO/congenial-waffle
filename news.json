@@ -2,24 +2,29 @@
   "date": "2025-11-04",
   "headlines": [
     {
-      "title": "What to know about a stabbing attack aboard a train in Britain - AP News",
-      "url": "https://apnews.com/article/uk-train-stabbings-what-to-know-b167cc0b87ae4d442dbe9bafd6966b62",
-      "source": "Associated Press"
+      "title": "A wild finish in Cincy, a star player’s gruesome injury and multiple games come down to the final seconds in NFL’s Week 9 - CNN",
+      "url": "https://www.cnn.com/2025/11/03/sport/nfl-wrap-week-9",
+      "source": "CNN"
     },
     {
-      "title": "Logitech’s latest keyboard dabbles in enthusiast features - The Verge",
-      "url": "https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions",
+      "title": "AWS and OpenAI announce multi-year strategic partnership - About Amazon",
+      "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+      "source": "Aboutamazon.com"
+    },
+    {
+      "title": "Russia says its forces advance in embattled Ukrainian city of Pokrovsk - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzR6QnpEWElXYm5mdlc1UVR6TG00cElTQTJYa3lIblotaXFlYXc0V01CWHNLTThJY1E3Z3dxeWUtRnhRWlBzM1ltbU0tdjAyeGdrU3NxUFlUd2Z6OUNEdWlKNklKUlJleG1Wa1lVWldOTDNhSi12WFRvMGZndlR2YUotRFI3ZGNwalFpTmJXVjRiMFIzTGxvUWFsV0xxSkM4anEyRHc2OTJDYmdSbzFWeU82UGo3UU55NzA5Q21KU2g4VzdBQ040RkMzSVhpQkstdGlvUm53?oc=5",
+      "source": "Google News"
+    },
+    {
+      "title": "How Frankenstein’s creature designer found a new look for an iconic monster - The Verge",
+      "url": "https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill",
       "source": "The Verge"
     },
     {
-      "title": "Researchers share update on devastating virus amid one of the worst outbreaks in history: 'I know less than I would normally know' - Yahoo",
-      "url": "https://www.yahoo.com/news/articles/researchers-share-devastating-virus-amid-073000255.html",
-      "source": "Yahoo Entertainment"
-    },
-    {
-      "title": "The Winners and Losers of the NFL Week 9 - The Ringer",
-      "url": "https://www.theringer.com/2025/11/03/nfl/winners-losers-nfl-week-9-cam-little-record-field-goal-sam-darnold-josh-allen-beat-patrick-mahomes",
-      "source": "The Ringer"
+      "title": "Eagles agree to trade for Jaelan Phillips - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXVoZEhGTXowTHhhLUpzMWxIbWtLRzlKRG1FXzZmVmpwU1Z6N0diZzhIb1ItTEpUbUU5VEpIeVdYelhCQ0Jwc1E3TVJ2aXFFSXg5c0tpOXhoVG9VcTJFVDZSbVlFek1oWjZPM3BNbV8xQmRwbjFUTl9KcmRPUWwydWJ3S09Ia2dGX0thOWJOd3NXYkNBdUNuVXlB?oc=5",
+      "source": "Google News"
     }
   ]
 }
