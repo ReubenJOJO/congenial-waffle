@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-04 (UTC)
 
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 3496 stars
-- [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) ⭐ 1516 stars
-- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) ⭐ 1058 stars
-- [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ⭐ 974 stars
-- [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ⭐ 622 stars
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 3642 stars
+- [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) ⭐ 1600 stars
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) ⭐ 1076 stars
+- [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) ⭐ 986 stars
+- [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com) ⭐ 929 stars
 
 # Top News Headlines
 Fetched on 2025-11-04 (UTC)
-- Game Recap: Bears edge Bengals in instant classic - Chicago Bears — [read more](https://www.chicagobears.com/news/game-recap-bears-edge-bengals-in-instant-classic-2025-week-9)
-- Sunday Night Football: Commanders vs Seahawks 2nd Quarter - Hogs Haven — [read more](https://www.hogshaven.com/washington-commanders-game-information/386312/sunday-night-football-commanders-vs-seahawks-2nd-quarter)
-- Israel says it received the remains of 3 hostages from Gaza as fragile ceasefire holds - AP News — [read more](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFFCTGhtc1FRcHBvTzhld0M1RHZpNWtxd2lBLTVBczRpUFYtbFZOUG9ZUGMyOXExS1d4ZjlnTm5pLUZ4aVA3bkFhNEQ1UzRrQnRrSk93WC1saVdqLWczcFh4ZlhuZEpEdHU0SzRFU0hCZ2owdTBMbFlsLW9YU0dZUGFaQ3Z2cnd4MnVCS0FrMWsyTldHVUE?oc=5)
-- Interstellar Comet 3I/ATLAS's Blue Shine Is Surprising Astronomers - ScienceAlert — [read more](https://www.sciencealert.com/interstellar-comet-3i-atlass-blue-shine-is-surprising-astronomers)
+- What to know about a stabbing attack aboard a train in Britain - AP News — [read more](https://apnews.com/article/uk-train-stabbings-what-to-know-b167cc0b87ae4d442dbe9bafd6966b62)
+- Logitech’s latest keyboard dabbles in enthusiast features - The Verge — [read more](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
+- Researchers share update on devastating virus amid one of the worst outbreaks in history: 'I know less than I would normally know' - Yahoo — [read more](https://www.yahoo.com/news/articles/researchers-share-devastating-virus-amid-073000255.html)
+- The Winners and Losers of the NFL Week 9 - The Ringer — [read more](https://www.theringer.com/2025/11/03/nfl/winners-losers-nfl-week-9-cam-little-record-field-goal-sam-darnold-josh-allen-beat-patrick-mahomes)
 
 # Top Tech News
 Fetched on 2025-11-04 (UTC)
-- These are the new Google Photos and Maps icons with a gradient redesign - 9to5Google — [read more](http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/)
-- Make your dusty old PC feel brand new for just $15 with this upgrade - Mashable — [read more](https://mashable.com/article/nov-2-microsoft-windows-11-pro)
-- ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted - Gizmodo — [read more](https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444)
-- AMD releases statement confirming RDNA1 and RDNA2 will continue to receive game optimizations - VideoCardz.com — [read more](https://videocardz.com/newz/amd-releases-statement-confirming-rdna1-and-rdna2-will-continue-to-receive-game-optimizations)
-- 12 Must-Delete Android Apps That Secretly Record Your Conversations - carrollcountyobserver.com — [read more](https://carrollcountyobserver.com/2025/11/02/12-must-delete-android-apps-that-secretly-record-your-conversations/)
+- Arc Raiders has an impressive 2025 roadmap, bringing a new map, community event, quests and more to the hit extraction shooter. - Eurogamer — [read more](https://www.eurogamer.net/arc-raiders-has-an-impressive-2025-roadmap-and-its-bringing-a-new-map-new-events-and-other-game-changers)
+- Logitech’s latest keyboard dabbles in enthusiast features - The Verge — [read more](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
+- Google Wallet is finally fixing one of its most annoying flaws - Android Police — [read more](https://www.androidpolice.com/google-wallet-fixing-annoying-flaw/)
+- Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday - Kotaku — [read more](https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678)
+- Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations - 9to5Google — [read more](http://9to5google.com/2025/11/02/google-translate-model-picker/)
