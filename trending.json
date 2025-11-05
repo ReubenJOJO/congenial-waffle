@@ -2,29 +2,29 @@
   "date": "2025-11-05",
   "repos": [
     {
-      "name": "diet103/claude-code-infrastructure-showcase",
-      "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-      "stars": 3780
-    },
-    {
       "name": "rxliuli/apps.apple.com",
       "url": "https://github.com/rxliuli/apps.apple.com",
-      "stars": 3676
+      "stars": 5204
+    },
+    {
+      "name": "diet103/claude-code-infrastructure-showcase",
+      "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+      "stars": 3826
     },
     {
       "name": "borndotcom/react-native-godot",
       "url": "https://github.com/borndotcom/react-native-godot",
-      "stars": 1842
+      "stars": 1877
     },
     {
       "name": "skydoves/compose-stability-analyzer",
       "url": "https://github.com/skydoves/compose-stability-analyzer",
-      "stars": 716
+      "stars": 733
     },
     {
       "name": "joelseverin/linux-wasm",
       "url": "https://github.com/joelseverin/linux-wasm",
-      "stars": 637
+      "stars": 669
     }
   ]
 }
