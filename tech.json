@@ -1,15 +1,15 @@
 {
-  "date": "2025-11-04",
+  "date": "2025-11-05",
   "tech": [
-    {
-      "title": "iOS 26.1 lets you tweak Liquid Glass, and it’s out now - The Verge",
-      "url": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
-      "source": "The Verge"
-    },
     {
       "title": "Google pulled the plug on Nest Thermostats, but you can now bring them back to life - Android Police",
       "url": "https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/",
       "source": "Android Police"
+    },
+    {
+      "title": "Fortnite Fans Beg Each Other Not To Buy Sidekicks: ‘The Greed On Display Is Disgusting’ - Kotaku",
+      "url": "https://kotaku.com/fortnite-fans-beg-each-other-not-to-buy-sidekicks-the-greed-on-display-is-disgusting-2000640910",
+      "source": "Kotaku"
     },
     {
       "title": "Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku",
@@ -20,11 +20,6 @@
       "title": "Resident Evil Pro Controller Is Available To Pre-Order, But Its Price Is Terrifying - Nintendo Life",
       "url": "https://www.nintendolife.com/news/2025/11/resident-evil-pro-controller-is-available-to-pre-order-but-its-price-is-terrifying",
       "source": "Nintendo Life"
-    },
-    {
-      "title": "Google Pixel 10 Phones Drop to Record Low Prices Ahead of Black Friday - IGN",
-      "url": "https://www.ign.com/articles/google-pixel-10-pro-xl-early-black-friday-deal-2025",
-      "source": "IGN"
     }
   ]
 }
