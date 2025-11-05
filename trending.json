@@ -4,27 +4,27 @@
     {
       "name": "rxliuli/apps.apple.com",
       "url": "https://github.com/rxliuli/apps.apple.com",
-      "stars": 5204
+      "stars": 7103
     },
     {
       "name": "diet103/claude-code-infrastructure-showcase",
       "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-      "stars": 3826
+      "stars": 3856
     },
     {
       "name": "borndotcom/react-native-godot",
       "url": "https://github.com/borndotcom/react-native-godot",
-      "stars": 1877
+      "stars": 1911
+    },
+    {
+      "name": "Snowflake-Labs/pg_lake",
+      "url": "https://github.com/Snowflake-Labs/pg_lake",
+      "stars": 765
     },
     {
       "name": "skydoves/compose-stability-analyzer",
       "url": "https://github.com/skydoves/compose-stability-analyzer",
-      "stars": 733
-    },
-    {
-      "name": "joelseverin/linux-wasm",
-      "url": "https://github.com/joelseverin/linux-wasm",
-      "stars": 669
+      "stars": 741
     }
   ]
 }
