@@ -2,14 +2,9 @@
   "date": "2025-11-06",
   "tech": [
     {
-      "title": "Valve will finally turn off the Steam Deck’s screen while it’s downloading games - The Verge",
-      "url": "https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off",
-      "source": "The Verge"
-    },
-    {
-      "title": "New HDR10+ Advanced standard will try to fix the soap opera effect - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/",
-      "source": "Ars Technica"
+      "title": "Nintendo Ups Switch 2 Sales Outlook as Big Holiday Season Nears - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-04/nintendo-lifts-switch-2-sales-forecast-after-profit-surges",
+      "source": "Bloomberg"
     },
     {
       "title": "Microsoft AI’s first in-house image generator MAI-Image-1 is now available - The Verge",
@@ -17,14 +12,19 @@
       "source": "The Verge"
     },
     {
-      "title": "Nomad’s magnetic charging stands now support faster 25W rates - The Verge",
-      "url": "https://www.theverge.com/news/813769/nomad-qi2-stand-one-max-wireless-charging-25w-magsafe-pixelsnap",
-      "source": "The Verge"
+      "title": "iOS 26.1 Update Offers Liquid Glass Controls, Bevy of Handy New Features - PCMag",
+      "url": "https://www.pcmag.com/news/ios-26-1-update-offers-liquid-glass-controls-bevy-of-handy-new-features",
+      "source": "PCMag.com"
     },
     {
       "title": "US Patent Office makes rare decision to order \"reexamination\" of previously awarded Nintendo patent - GamesIndustry.biz",
       "url": "https://www.gamesindustry.biz/us-patent-office-makes-rare-decision-to-order-reexamination-of-previously-awarded-nintendo-patent",
       "source": "GamesIndustry.biz"
+    },
+    {
+      "title": "14 Essential Tips For Getting Started In Arc Raiders - Kotaku",
+      "url": "https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174",
+      "source": "Kotaku"
     }
   ]
 }
