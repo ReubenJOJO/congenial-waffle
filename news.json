@@ -1,20 +1,25 @@
 {
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "headlines": [
     {
-      "title": "Flight capacity will be reduced by 10% at 40 major airports: FAA - abcnews.go.com",
-      "url": "https://abcnews.go.com/US/flight-capacity-reduced-10-40-major-airports-faa/story?id\\\\u003d127235525",
-      "source": "ABC News"
+      "title": "Supreme Court appears skeptical of legality of most of Trump’s tariffs - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/11/05/tariffs-trump-supreme-court-arguments/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Democrats gird for a longer shutdown fight after election romp - Politico",
-      "url": "https://www.politico.com/news/2025/11/05/democrats-shutdown-fight-elections-00638207",
-      "source": "Politico"
+      "title": "ICE officer seriously injured by detainee as threats against agents rise, Homeland Security says - CBS News",
+      "url": "https://www.cbsnews.com/news/ice-officer-seriously-injured-detainee-threats-agents-homeland-security/",
+      "source": "CBS News"
     },
     {
-      "title": "Dow closes up 200 points after Supreme Court probes Trump tariff argument, AMD sparks AI rebound - CNBC",
-      "url": "https://www.cnbc.com/2025/11/04/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "title": "Bigger, brighter, closer: November’s supermoon in photos - AP News",
+      "url": "https://apnews.com/photo-gallery/november-supermoon-2025-7f9861cb18b207cd9f5fefcb124f2ae4",
+      "source": "Associated Press"
+    },
+    {
+      "title": "Democrats tap the brakes on ending government shutdown - Axios",
+      "url": "https://www.axios.com/2025/11/06/democrats-government-shutdown-sanders-schumer",
+      "source": "Axios"
     }
   ]
 }
