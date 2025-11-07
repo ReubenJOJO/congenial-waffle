@@ -4,27 +4,27 @@
     {
       "name": "borndotcom/react-native-godot",
       "url": "https://github.com/borndotcom/react-native-godot",
-      "stars": 2200
+      "stars": 2213
     },
     {
       "name": "Snowflake-Labs/pg_lake",
       "url": "https://github.com/Snowflake-Labs/pg_lake",
-      "stars": 1023
+      "stars": 1036
     },
     {
       "name": "skydoves/compose-stability-analyzer",
       "url": "https://github.com/skydoves/compose-stability-analyzer",
-      "stars": 805
-    },
-    {
-      "name": "codykociemba/NoLongerEvil-Thermostat",
-      "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-      "stars": 589
+      "stars": 823
     },
     {
       "name": "openpcc/openpcc",
       "url": "https://github.com/openpcc/openpcc",
-      "stars": 585
+      "stars": 644
+    },
+    {
+      "name": "codykociemba/NoLongerEvil-Thermostat",
+      "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+      "stars": 595
     }
   ]
 }
