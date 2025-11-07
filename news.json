@@ -2,24 +2,29 @@
   "date": "2025-11-07",
   "headlines": [
     {
-      "title": "Supreme Court appears skeptical of legality of most of Trump’s tariffs - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/11/05/tariffs-trump-supreme-court-arguments/",
+      "title": "FAA orders 10% cut in flights at several airports as shutdown drags on - The Washington Post",
+      "url": "https://www.washingtonpost.com/transportation/2025/11/05/flight-cuts-shutdown-duffy/",
       "source": "The Washington Post"
     },
     {
-      "title": "ICE officer seriously injured by detainee as threats against agents rise, Homeland Security says - CBS News",
-      "url": "https://www.cbsnews.com/news/ice-officer-seriously-injured-detainee-threats-agents-homeland-security/",
+      "title": "President Sheinbaum presses charges after groping incident in Mexico street - Axios",
+      "url": "https://www.axios.com/2025/11/06/mexico-president-claudia-sheinbaum-groped-presses-charges",
+      "source": "Axios"
+    },
+    {
+      "title": "What to know about the deadly UPS plane crash in Louisville, Kentucky - NPR",
+      "url": "https://www.npr.org/2025/11/06/g-s1-96748/deadly-ups-plane-crash-kentucky",
+      "source": "NPR"
+    },
+    {
+      "title": "Trump's sweeping tariffs met with skepticism by Supreme Court justices - CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-tariffs-arguments/",
       "source": "CBS News"
     },
     {
-      "title": "Bigger, brighter, closer: November’s supermoon in photos - AP News",
-      "url": "https://apnews.com/photo-gallery/november-supermoon-2025-7f9861cb18b207cd9f5fefcb124f2ae4",
-      "source": "Associated Press"
-    },
-    {
-      "title": "Democrats tap the brakes on ending government shutdown - Axios",
-      "url": "https://www.axios.com/2025/11/06/democrats-government-shutdown-sanders-schumer",
-      "source": "Axios"
+      "title": "Japan deploys the military in north to battle surge in bear attacks - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/11/6/japan-deploys-the-military-in-north-to-battle-surge-in-bear-attacks",
+      "source": "Al Jazeera English"
     }
   ]
 }
