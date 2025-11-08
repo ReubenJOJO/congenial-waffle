@@ -4,27 +4,27 @@
     {
       "name": "Snowflake-Labs/pg_lake",
       "url": "https://github.com/Snowflake-Labs/pg_lake",
-      "stars": 1059
+      "stars": 1065
+    },
+    {
+      "name": "Snapchat/Valdi",
+      "url": "https://github.com/Snapchat/Valdi",
+      "stars": 735
     },
     {
       "name": "openpcc/openpcc",
       "url": "https://github.com/openpcc/openpcc",
-      "stars": 690
+      "stars": 702
     },
     {
       "name": "codykociemba/NoLongerEvil-Thermostat",
       "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-      "stars": 609
+      "stars": 611
     },
     {
       "name": "rakkiez/sora2-watermark-remover",
       "url": "https://github.com/rakkiez/sora2-watermark-remover",
       "stars": 396
-    },
-    {
-      "name": "Snapchat/Valdi",
-      "url": "https://github.com/Snapchat/Valdi",
-      "stars": 353
     }
   ]
 }
