@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-07",
+  "date": "2025-11-08",
   "repos": [
-    {
-      "name": "borndotcom/react-native-godot",
-      "url": "https://github.com/borndotcom/react-native-godot",
-      "stars": 2228
-    },
     {
       "name": "Snowflake-Labs/pg_lake",
       "url": "https://github.com/Snowflake-Labs/pg_lake",
-      "stars": 1051
-    },
-    {
-      "name": "skydoves/compose-stability-analyzer",
-      "url": "https://github.com/skydoves/compose-stability-analyzer",
-      "stars": 831
+      "stars": 1059
     },
     {
       "name": "openpcc/openpcc",
       "url": "https://github.com/openpcc/openpcc",
-      "stars": 682
+      "stars": 690
     },
     {
       "name": "codykociemba/NoLongerEvil-Thermostat",
       "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-      "stars": 605
+      "stars": 609
+    },
+    {
+      "name": "rakkiez/sora2-watermark-remover",
+      "url": "https://github.com/rakkiez/sora2-watermark-remover",
+      "stars": 396
+    },
+    {
+      "name": "Snapchat/Valdi",
+      "url": "https://github.com/Snapchat/Valdi",
+      "stars": 353
     }
   ]
 }

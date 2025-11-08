@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-11-07 (UTC)
+Fetched on 2025-11-08 (UTC)
 
-- [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) ⭐ 2228 stars
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) ⭐ 1051 stars
-- [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ⭐ 831 stars
-- [openpcc/openpcc](https://github.com/openpcc/openpcc) ⭐ 682 stars
-- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) ⭐ 605 stars
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) ⭐ 1059 stars
+- [openpcc/openpcc](https://github.com/openpcc/openpcc) ⭐ 690 stars
+- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) ⭐ 609 stars
+- [rakkiez/sora2-watermark-remover](https://github.com/rakkiez/sora2-watermark-remover) ⭐ 396 stars
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 353 stars
 
 # Top News Headlines
-Fetched on 2025-11-07 (UTC)
-- Elon Musk's $1tn pay deal approved by Tesla shareholders - BBC — [read more](https://www.bbc.com/news/articles/cwyk6kvyxvzo)
-- Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games — [read more](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026)
-- Dallas Cowboys' Marshawn Kneeland found dead in apparent suicide, police say - NBC News — [read more](https://www.nbcnews.com/news/obituaries/dallas-cowboys-marshawn-kneeland-dies-rcna242340)
-- Senate will vote Friday to advance shutdown-ending deal, Thune tells Republicans - Politico — [read more](https://www.politico.com/live-updates/2025/11/06/congress/shutdown-vote-senate-friday-00640360)
-- Here's how much weight loss drugs could cost you under Trump's deals with Eli Lilly, Novo Nordisk - CNBC — [read more](https://www.cnbc.com/2025/11/06/obesity-drug-prices-trump-deals-eli-lilly-novo-nordisk.html)
+Fetched on 2025-11-08 (UTC)
+- Broncos 10-7 Raiders (Nov 6, 2025) Game Recap - ESPN — [read more](https://www.espn.com/nfl/recap?gameId\\u003d401772944)
+- Flights canceled as government shutdown leaves airlines scrambling to comply with FAA order — live updates - CBS News — [read more](https://www.cbsnews.com/live-updates/canceled-flights-government-shutdown-airlines-scramble/)
+- Elon Musk wins $1 trillion pay package tying him to Tesla for a decade - The Washington Post — [read more](https://www.washingtonpost.com/technology/2025/11/06/elon-musk-tesla-pay-package/)
+- Typhoon Kalmaegi kills three in Vietnam after leaving 114 dead in Philippines - BBC — [read more](https://www.bbc.com/news/articles/c70jnx9e414o)
 
 # Top Tech News
-Fetched on 2025-11-07 (UTC)
-- Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games — [read more](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026)
-- Nintendo has too many apps - The Verge — [read more](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
-- Apple releases first iOS 26.2 public beta, here’s what’s new - 9to5Mac — [read more](https://9to5mac.com/2025/11/06/apple-releases-first-ios-26-2-public-beta-heres-whats-new/)
-- Hyrule Warriors: Age of Imprisonment tech analysis, including frame rate and resolution - Nintendo Everything — [read more](https://nintendoeverything.com/hyrule-warriors-age-of-imprisonment-frame-rate-resolution/)
-- Sonic Racing: CrossWorlds Gets Faster On Switch 2 Next Month - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/sonic-racing-crossworlds-gets-faster-on-switch-2-next-month)
+Fetched on 2025-11-08 (UTC)
+- Hyrule Warriors: Age Of Imprisonment Already Has Free Updates Planned - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-already-has-free-updates-planned)
+- IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors — [read more](https://www.macrumors.com/2025/11/06/ikea-homekit-compatible-matter-products/)
+- That Captain America And Black Panther Game We Still Haven’t Seen Gameplay For Gets Indefinitely Delayed - kotaku.com — [read more](https://kotaku.com/captain-america-black-panther-game-delay-marvel-hydra-2000641825)
+- Best Buy just dropped tons of early Black Friday deals — I've picked the best sales from just $3 - tomsguide.com — [read more](https://www.tomsguide.com/sales-events/best-buy-just-dropped-tons-of-early-black-friday-deals-ive-picked-the-best-sales-from-just-usd3)
+- Discord extends Family Center features to help parents "learn more about how your teen spends their time on Discord" - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/discord-extends-family-center-features-to-help-parents-learn-more-about-how-your-teen-spends-their-time-on-discord)
