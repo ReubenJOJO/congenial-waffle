@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "headlines": [
     {
-      "title": "Parsons reflects on loss of ex-teammate Kneeland - ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/46885228/packers-parsons-reflects-loss-ex-cowboys-teammate-kneeland",
-      "source": "ESPN"
+      "title": "Supreme Court justice temporarily pauses order requiring Trump administration to fully fund SNAP by end of Friday - abcnews.go.com",
+      "url": "https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story?id\\\\u003d127294307",
+      "source": "ABC News"
     },
     {
-      "title": "Government shutdown live updates as Senate Republicans reject Democrats' health care offer - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-vote-day-38/",
+      "title": "UNC makes history in win over Kansas, first over Jayhawks in 23 years - Yahoo Sports",
+      "url": "https://www.sportingnews.com/us/ncaa-basketball/news/unc-makes-history-win-over-kansas-first-over-jayhawks-23-years/f21929792953cffed3240e27",
+      "source": "Sporting News"
+    },
+    {
+      "title": "Climate summit hears from countries suffering from harms, destruction linked to global warming - AP News",
+      "url": "https://apnews.com/article/brazil-cop30-forests-finland-amazon-1c03ba4012acf7b0da457b8453688786",
+      "source": "Associated Press"
+    },
+    {
+      "title": "Judge permanently blocks Trump administration from deploying National Guard troops to Portland - CBS News",
+      "url": "https://www.cbsnews.com/news/judge-permanently-blocks-trump-administration-deploying-national-guard-troops-portland/",
       "source": "CBS News"
     },
     {
-      "title": "As millions of Americans struggle with SNAP lapses, food banks are swamped with demand - NPR",
-      "url": "https://www.npr.org/2025/11/07/nx-s1-5600001/snap-usda-food-banks-pantries-demand-thanksgiving",
-      "source": "NPR"
-    },
-    {
-      "title": "Trump administration seeks to block full SNAP payments for November - AP News",
-      "url": "https://apnews.com/article/snap-food-government-shutdown-trump-a807e9f0c0a7213e203c074553dc1f9b",
-      "source": "Associated Press"
+      "title": "Millie Bobby Brown Feels “So Lucky” To Have ‘Stranger Things’ Co-Star David Harbour - Deadline",
+      "url": "http://deadline.com/2025/11/millie-bobby-brown-lucky-stranger-things-david-harbour-1236611534/",
+      "source": "Deadline"
     }
   ]
 }

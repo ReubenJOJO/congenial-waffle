@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "repos": [
     {
       "name": "Snapchat/Valdi",
       "url": "https://github.com/Snapchat/Valdi",
-      "stars": 2080
+      "stars": 2381
     },
     {
       "name": "Snowflake-Labs/pg_lake",
       "url": "https://github.com/Snowflake-Labs/pg_lake",
-      "stars": 1090
+      "stars": 1094
     },
     {
       "name": "openpcc/openpcc",
       "url": "https://github.com/openpcc/openpcc",
-      "stars": 730
+      "stars": 739
     },
     {
       "name": "SolanaUpdateTools/solana-starter-kit",
       "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
-      "stars": 688
+      "stars": 698
     },
     {
-      "name": "codykociemba/NoLongerEvil-Thermostat",
-      "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-      "stars": 620
+      "name": "eooce/Auto-login-netlib",
+      "url": "https://github.com/eooce/Auto-login-netlib",
+      "stars": 460
     }
   ]
 }
