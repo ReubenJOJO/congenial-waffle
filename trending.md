@@ -1,22 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-11 (UTC)
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 5614 stars
-- [openpcc/openpcc](https://github.com/openpcc/openpcc) ⭐ 789 stars
-- [SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit) ⭐ 614 stars
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ⭐ 602 stars
-- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) ⭐ 447 stars
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 6039 stars
+- [openpcc/openpcc](https://github.com/openpcc/openpcc) ⭐ 791 stars
+- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) ⭐ 648 stars
+- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ⭐ 626 stars
+- [SolanaUpdateTools/solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit) ⭐ 496 stars
 
 # Top News Headlines
 Fetched on 2025-11-11 (UTC)
-- MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors - AP News — [read more](https://apnews.com/article/mlb-baseball-gambling-ortiz-clase-a6db1ff46523e2ffa16d84ca427cf7c1)
-- Campbell takes over playcalling; Lions score 44 - ESPN — [read more](https://www.espn.com/nfl/story/_/id/46912993/lions-offense-rolls-dan-campbell-takes-play-calling)
-- US airlines’ daily cancellations exceed 2,700 as shutdown impact extends - AP News — [read more](https://apnews.com/article/thanksgiving-air-traffic-shutdown-delays-ae216380cdf694c518bd2a4b0830eaea)
-- Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling - NPR — [read more](https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order)
+- Asian Traders Cautious on Tech, Shutdown Concerns: Markets Wrap - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap)
+- Rodgers offers blunt self-assessment after SNF dud - ESPN — [read more](https://www.espn.com/nfl/story/_/id/46914310/aaron-rodgers-struggles-steelers-loss-chargers-says-got-play-better)
+- SNAP benefits: Appeals court again rejects Trump admin bid to halt full payment order - CNBC — [read more](https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html)
+- FAA halts nearly all private jet flights at 12 major airports - Private Jet Card Comparisons — [read more](https://privatejetcardcomparisons.com/2025/11/09/faa-halts-nearly-all-private-jet-flights-at-12-major-airports/)
+- Horoscope for Monday, November 10, 2025 - Chicago Sun-Times — [read more](https://chicago.suntimes.com/horoscopes/2025/11/10/horoscopes-today-monday-november-10-2025)
 
 # Top Tech News
 Fetched on 2025-11-11 (UTC)
-- Nintendo launches Switch 2 compatibility information website for Switch games - Gematsu — [read more](https://www.gematsu.com/2025/11/nintendo-launches-switch-2-compatibility-information-website-for-switch-games)
+- 'PS Portal Users Are More Engaged Than Non-Users': Sony's Hit Handheld Outperforms All Other Remote Play Methods - Push Square — [read more](https://www.pushsquare.com/news/2025/11/ps-portal-users-are-more-engaged-than-non-users-sonys-hit-handheld-outperforms-all-other-remote-play-methods)
+- Nintendo goes live with Switch compatibility website for Switch 2 - Nintendo Everything — [read more](https://nintendoeverything.com/nintendo-goes-live-with-switch-compatibility-website-for-switch-2/)
+- Capcom Pro Tour 2025 World Warrior Finals early results - EventHubs — [read more](https://www.eventhubs.com/news/2025/nov/04/cpt-world-warrior-finals-results/)
+- 14 Tech Gifts Under $50 That Are Actually Useful - HuffPost — [read more](https://www.huffpost.com/entry/tech-gifts-under-50-ud2_l_690e396ce4b0dd4ea75b682a)
 - 'American Icon: A Mustang Immersive Experience' Is An Entertaining, Occasionally Cringey Look Back At Pony Car History - Jalopnik — [read more](https://www.jalopnik.com/2020252/ford-mustang-american-icon-immersive-experience-los-angeles/)
-- With Call Of Duty: Black Ops, Treyarch Fell Into The Rabbit Hole And Never Got Out - GameSpot — [read more](https://www.gamespot.com/articles/with-call-of-duty-black-ops-treyarch-fell-into-the-rabbit-hole-and-never-got-out/1100-6536063/)
-- Apparently You Need Hyundai’s Permission To Change Your Own Brakes - Carscoops — [read more](https://www.carscoops.com/2025/11/ioniq-5-n-owner-says-hyundai-wont-even-let-you-change-your-brake-pads/)
