@@ -4,7 +4,12 @@
     {
       "name": "Snapchat/Valdi",
       "url": "https://github.com/Snapchat/Valdi",
-      "stars": 6039
+      "stars": 6392
+    },
+    {
+      "name": "facebookresearch/omnilingual-asr",
+      "url": "https://github.com/facebookresearch/omnilingual-asr",
+      "stars": 854
     },
     {
       "name": "openpcc/openpcc",
@@ -12,19 +17,14 @@
       "stars": 791
     },
     {
-      "name": "facebookresearch/omnilingual-asr",
-      "url": "https://github.com/facebookresearch/omnilingual-asr",
-      "stars": 648
-    },
-    {
       "name": "eooce/Auto-login-netlib",
       "url": "https://github.com/eooce/Auto-login-netlib",
-      "stars": 626
+      "stars": 743
     },
     {
       "name": "SolanaUpdateTools/solana-starter-kit",
       "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
-      "stars": 496
+      "stars": 495
     }
   ]
 }
