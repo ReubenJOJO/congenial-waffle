@@ -1,20 +1,15 @@
 {
-  "date": "2025-11-10",
+  "date": "2025-11-11",
   "repos": [
     {
       "name": "Snapchat/Valdi",
       "url": "https://github.com/Snapchat/Valdi",
-      "stars": 5171
-    },
-    {
-      "name": "Snowflake-Labs/pg_lake",
-      "url": "https://github.com/Snowflake-Labs/pg_lake",
-      "stars": 1165
+      "stars": 5614
     },
     {
       "name": "openpcc/openpcc",
       "url": "https://github.com/openpcc/openpcc",
-      "stars": 785
+      "stars": 789
     },
     {
       "name": "SolanaUpdateTools/solana-starter-kit",
@@ -24,7 +19,12 @@
     {
       "name": "eooce/Auto-login-netlib",
       "url": "https://github.com/eooce/Auto-login-netlib",
-      "stars": 596
+      "stars": 602
+    },
+    {
+      "name": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "stars": 447
     }
   ]
 }
