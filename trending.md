@@ -1,24 +1,22 @@
 # Trending GitHub Repositories
-Fetched on 2025-11-11 (UTC)
+Fetched on 2025-11-12 (UTC)
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 6738 stars
-- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) ⭐ 1043 stars
-- [openpcc/openpcc](https://github.com/openpcc/openpcc) ⭐ 795 stars
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ⭐ 772 stars
-- [YuvDwi/Steve](https://github.com/YuvDwi/Steve) ⭐ 526 stars
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 6978 stars
+- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) ⭐ 1201 stars
+- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ⭐ 811 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 607 stars
+- [YuvDwi/Steve](https://github.com/YuvDwi/Steve) ⭐ 573 stars
 
 # Top News Headlines
-Fetched on 2025-11-11 (UTC)
-- Government shutdown live updates as Senate tees up final vote on deal to end impasse - CBS News — [read more](https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-deal-day-41/)
-- Trump tells air traffic controllers 'get back to work' as airport chaos worsens - follow live - BBC — [read more](https://www.bbc.com/news/live/c0rpq9r5zklt)
-- Hemp rule creates turbulence for Senate vote to end shutdown - Politico — [read more](https://www.politico.com/news/2025/11/10/hemp-rule-creates-turbulence-for-senate-vote-to-end-shutdown-00645641)
-- FDA removes 'black box' warning label on hormone replacement therapy for menopause - abcnews.go.com — [read more](https://abcnews.go.com/Health/fda-removes-black-box-warning-label-hormone-replacement/story?id\\u003d127378383)
-- Sean McDermott has confidence in Joe Brady, has no plan to hire Brian Daboll - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-has-confidence-in-joe-brady-has-no-plan-to-hire-brian-daboll)
+Fetched on 2025-11-12 (UTC)
+- Progressive group MoveOn calls on Schumer to step aside - Axios — [read more](https://www.axios.com/2025/11/10/schumer-progressive-democrats-moveon)
+- Camp Mystic families file two $1 million-plus lawsuits against owners - Austin American-Statesman — [read more](https://www.statesman.com/news/article/camp-mystic-wrongful-death-texas-kerr-flood-july-4-21151789.php)
+- Monday Night Football: Eagles, Packers end the first half scoreless - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-eagles-packers-end-the-first-half-scoreless)
+- Supreme Court won’t hear challenge to landmark gay marriage ruling - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/11/10/supreme-court-same-sex-marriage/)
 
 # Top Tech News
-Fetched on 2025-11-11 (UTC)
-- Five Years of Apple Silicon: M1 to M5 Performance Comparison - MacRumors — [read more](https://www.macrumors.com/2025/11/10/apple-silicon-m1-to-m5-comparison/)
-- Google brings Gemini to the Google TV Streamer - TechCrunch — [read more](https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/)
-- Goodnight Universe Is A Messier, More Ambitious Before Your Eyes - Kotaku — [read more](https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517)
-- Apple Delays Release of Next iPhone Air Amid Weak Sales - The Information — [read more](https://www.theinformation.com/articles/apple-delays-release-next-iphone-air-amid-weak-sales)
-- Apple’s AirPods 4 just hit their lowest price yet at $85 - The Verge — [read more](https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale)
+Fetched on 2025-11-12 (UTC)
+- Nintendo Switch 2 System Update 21.0.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-0-is-now-live-here-are-the-full-patch-notes)
+- Samsung Releases Its Own MicroSD Express Cards at a Lower Price Than the Official Switch 2 Memory Card - IGN — [read more](https://www.ign.com/articles/samsung-releases-its-own-microsd-express-cards-at-a-lower-price-than-the-official-switch-2-memory-card)
+- Researchers isolate memorization from reasoning in AI neural networks - Ars Technica — [read more](https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/)
+- Nintendo Direct to Deliver First The Super Mario Galaxy Movie Trailer Later This Week - IGN — [read more](https://www.ign.com/articles/nintendo-direct-to-deliver-first-the-super-mario-galaxy-movie-trailer-later-this-week)

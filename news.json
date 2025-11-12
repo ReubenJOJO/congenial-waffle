@@ -1,30 +1,25 @@
 {
-  "date": "2025-11-11",
+  "date": "2025-11-12",
   "headlines": [
     {
-      "title": "Government shutdown live updates as Senate tees up final vote on deal to end impasse - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-deal-day-41/",
-      "source": "CBS News"
+      "title": "Progressive group MoveOn calls on Schumer to step aside - Axios",
+      "url": "https://www.axios.com/2025/11/10/schumer-progressive-democrats-moveon",
+      "source": "Axios"
     },
     {
-      "title": "Trump tells air traffic controllers 'get back to work' as airport chaos worsens - follow live - BBC",
-      "url": "https://www.bbc.com/news/live/c0rpq9r5zklt",
-      "source": "BBC News"
+      "title": "Camp Mystic families file two $1 million-plus lawsuits against owners - Austin American-Statesman",
+      "url": "https://www.statesman.com/news/article/camp-mystic-wrongful-death-texas-kerr-flood-july-4-21151789.php",
+      "source": "Austin American-Statesman"
     },
     {
-      "title": "Hemp rule creates turbulence for Senate vote to end shutdown - Politico",
-      "url": "https://www.politico.com/news/2025/11/10/hemp-rule-creates-turbulence-for-senate-vote-to-end-shutdown-00645641",
-      "source": "Politico"
-    },
-    {
-      "title": "FDA removes 'black box' warning label on hormone replacement therapy for menopause - abcnews.go.com",
-      "url": "https://abcnews.go.com/Health/fda-removes-black-box-warning-label-hormone-replacement/story?id\\\\u003d127378383",
-      "source": "ABC News"
-    },
-    {
-      "title": "Sean McDermott has confidence in Joe Brady, has no plan to hire Brian Daboll - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-has-confidence-in-joe-brady-has-no-plan-to-hire-brian-daboll",
+      "title": "Monday Night Football: Eagles, Packers end the first half scoreless - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-eagles-packers-end-the-first-half-scoreless",
       "source": "NBCSports.com"
+    },
+    {
+      "title": "Supreme Court won’t hear challenge to landmark gay marriage ruling - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/11/10/supreme-court-same-sex-marriage/",
+      "source": "The Washington Post"
     }
   ]
 }
