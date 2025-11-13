@@ -1,22 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-13 (UTC)
 
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 984 stars
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 657 stars
-- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 449 stars
-- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) ⭐ 432 stars
-- [wesbos/sticker-dream](https://github.com/wesbos/sticker-dream) ⭐ 409 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1003 stars
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 682 stars
+- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 450 stars
+- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) ⭐ 433 stars
+- [wesbos/sticker-dream](https://github.com/wesbos/sticker-dream) ⭐ 415 stars
 
 # Top News Headlines
 Fetched on 2025-11-13 (UTC)
-- Video shows part of newly built bridge in China collapsing in seconds - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/11/12/china-hongqi-bridge-collapse/)
-- Winning Mega Millions numbers for the $900 million jackpot on Nov. 11, 2025: See all the prizes hit in Ohio - WKYC — [read more](https://www.wkyc.com/article/news/lottery/winning-mega-millions-numbers-900-million-jackpot-tuesday-november-11-ohio-lottery-winners/95-14749e23-55f1-4b25-983c-fb0571b57c79)
-- Turkish military plane crash in Georgia kills all 20 on board - AP News — [read more](https://apnews.com/article/turkey-georgia-plane-crash-c01502b6b0cabe74407ef8e748e9696d)
-- Google vows to stop scam E-Z Pass and USPS texts plaguing Americans - Ars Technica — [read more](https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/)
-- The Epstein files fight is finally coming to the House floor - Politico — [read more](https://www.politico.com/news/2025/11/12/house-epstein-files-vote-00647392)
+- All 14 victims identified from fiery UPS cargo plane crash in Louisville - CNN — [read more](https://www.cnn.com/2025/11/12/us/louisville-ups-plane-crash-victims)
+- 3 questions about Trump's 50-year mortgage plan - NPR — [read more](https://www.npr.org/2025/11/12/nx-s1-5604384/50-year-mortgage-trump-housing-explainer)
+- A penny short: US mints final 1-cent coins after over 230 years in circulation - abcnews.go.com — [read more](https://abcnews.go.com/GMA/Living/penny-short-us-mints-final-1-cent-coins/story?id\\u003d127465330)
+- OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica — [read more](https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/)
 
 # Top Tech News
 Fetched on 2025-11-13 (UTC)
-- Happy birthday to the PlayStation 5 - but why no plans for a PS6? - BBC — [read more](https://www.bbc.com/news/articles/cy7e352emrro)
-- OCTOPATH TRAVELER 0 demo now available - Square Enix — [read more](https://www.square-enix-games.com/news/octopath-traveler-0-demo)
-- Windows president says platform is "evolving into an agentic OS," gets cooked in the replies — "Straight up, nobody wants this" - Windows Central — [read more](https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online)
+- Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto — [read more](https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/)
+- Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games)
+- Samsung Galaxy Z Flip8 to be thinner and lighter - GSMArena.com news - GSMArena.com — [read more](https://www.gsmarena.com/samsung_galaxy_z_flip8_to_be_thinner_and_lighter-news-70263.php)
+- Apple's passport-based Digital ID lands on iPhone and Apple Watch, starting at TSA - Axios — [read more](https://www.axios.com/2025/11/12/apple-digital-id-tsa-airport-security)
+- OpenAI says the brand-new GPT-5.1 is ‘warmer’ and has more ‘personality’ options - The Verge — [read more](https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets)

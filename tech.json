@@ -2,19 +2,29 @@
   "date": "2025-11-13",
   "tech": [
     {
-      "title": "Happy birthday to the PlayStation 5 - but why no plans for a PS6? - BBC",
-      "url": "https://www.bbc.com/news/articles/cy7e352emrro",
-      "source": "BBC News"
+      "title": "Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/",
+      "source": "Dexerto"
     },
     {
-      "title": "OCTOPATH TRAVELER 0 demo now available - Square Enix",
-      "url": "https://www.square-enix-games.com/news/octopath-traveler-0-demo",
-      "source": "Square-enix-games.com"
+      "title": "Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games",
+      "source": "GamesIndustry.biz"
     },
     {
-      "title": "Windows president says platform is \"evolving into an agentic OS,\" gets cooked in the replies — \"Straight up, nobody wants this\" - Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online",
-      "source": "Windows Central"
+      "title": "Samsung Galaxy Z Flip8 to be thinner and lighter - GSMArena.com news - GSMArena.com",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_be_thinner_and_lighter-news-70263.php",
+      "source": "GSMArena.com"
+    },
+    {
+      "title": "Apple's passport-based Digital ID lands on iPhone and Apple Watch, starting at TSA - Axios",
+      "url": "https://www.axios.com/2025/11/12/apple-digital-id-tsa-airport-security",
+      "source": "Axios"
+    },
+    {
+      "title": "OpenAI says the brand-new GPT-5.1 is ‘warmer’ and has more ‘personality’ options - The Verge",
+      "url": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
+      "source": "The Verge"
     }
   ]
 }
