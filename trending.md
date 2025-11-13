@@ -1,23 +1,21 @@
 # Trending GitHub Repositories
-Fetched on 2025-11-12 (UTC)
+Fetched on 2025-11-13 (UTC)
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) ⭐ 7797 stars
-- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) ⭐ 1522 stars
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) ⭐ 883 stars
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 861 stars
-- [YuvDwi/Steve](https://github.com/YuvDwi/Steve) ⭐ 657 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 918 stars
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 605 stars
+- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 448 stars
+- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) ⭐ 428 stars
+- [wesbos/sticker-dream](https://github.com/wesbos/sticker-dream) ⭐ 393 stars
 
 # Top News Headlines
-Fetched on 2025-11-12 (UTC)
-- Jimmy Kimmel’s Bandleader Cleto Escobedo III Dies at 59: We’ve Been ‘Inseparable Since I Was Nine Years Old’ - Variety — [read more](https://variety.com/2025/tv/news/jimmy-kimmel-band-leader-dead-cleto-escobedo-iii-1236575434/)
-- ‘Toy Story 5’ Trailer Reveals Pixar Sequel’s First Footage - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/movies/movie-news/toy-story-5-trailer-first-footage-pixar-sequel-1236424187/)
-- Travis Hunter out for season after LCL surgery - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-out-for-season-after-lcl-surgery)
-- Astronomers detect first 'radio signal' from interstellar comet 3I/ATLAS — but it wasn't aliens - Live Science — [read more](https://www.livescience.com/space/comets/astronomers-detect-first-radio-signal-from-interstellar-comet-3i-atlas-but-it-wasnt-aliens)
-- SoftBank’s Nvidia sale rattles market, raises questions - TechCrunch — [read more](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)
+Fetched on 2025-11-13 (UTC)
+- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/11/11/pakistan-says-india-proxies-behind-islamabad-bombing-what-we-know-so-far)
+- Coloradans see, photograph northern lights across the state - CBS News — [read more](https://www.cbsnews.com/colorado/news/coloradoans-see-photograph-northern-lights-across-the-state/)
+- Progressive on the edge of a win in Seattle mayor race - Politico — [read more](https://www.politico.com/news/2025/11/11/progressive-activist-seattle-mayors-race-00647423)
+- Ohio State stays on top of playoff bracket, while Miami makes a big move - AP News — [read more](https://apnews.com/article/college-playoff-cfp-rankings-7c67cf5715aa39f76a4d1f62a39264a9)
 
 # Top Tech News
-Fetched on 2025-11-12 (UTC)
-- GTA 6 Devs Picket Rockstar Office As They Fight For Reinstatement - Kotaku — [read more](https://kotaku.com/grand-theft-auto-6-rockstar-fired-union-workers-legal-2000643030)
-- Google makes Pixel 10 Magic Cue ‘more timely’ with cloud-based ‘Private AI Compute’ - 9to5Google — [read more](http://9to5google.com/2025/11/11/google-private-ai-compute-pixel/)
-- Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications - TechCrunch — [read more](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/)
-- Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws - BleepingComputer — [read more](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/)
+Fetched on 2025-11-13 (UTC)
+- Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New "Follow-Up" Trailer - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer)
+- PlayStation State Of Play November 2025: All The Biggest Announcements And Games - GameSpot — [read more](https://www.gamespot.com/gallery/playstation-state-of-play-november-2025-all-the-biggest-announcements-and-games/2900-7248/)
+- Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer — [read more](https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return)
