@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-14 (UTC)
 
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1080 stars
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 698 stars
-- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 455 stars
-- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) ⭐ 443 stars
-- [daodao97/code-switch](https://github.com/daodao97/code-switch) ⭐ 388 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1093 stars
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 710 stars
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 555 stars
+- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 456 stars
+- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) ⭐ 445 stars
 
 # Top News Headlines
 Fetched on 2025-11-14 (UTC)
-- Review | Claire Danes and Matthew Rhys are deadly frenemies in ‘The Beast in Me’ - The Washington Post — [read more](https://www.washingtonpost.com/entertainment/tv/2025/11/13/beast-in-me-claire-danes-review/)
-- 'The Devil Wears Prada 2' just dropped its 1st teaser trailer showing Anne Hathaway and Meryl Streep together again after 20 years - Yahoo — [read more](https://www.yahoo.com/entertainment/article/the-devil-wears-prada-2-just-dropped-its-1st-teaser-trailer-showing-anne-hathaway-and-meryl-streep-together-again-after-20-years-175633227.html)
-- Ammonia leak in Oklahoma leaves dozens hospitalized, forces hundreds to evacuate - CBS News — [read more](https://www.cbsnews.com/news/ammonia-leak-oklahoma-dozens-hospitalized-hundreds/)
-- Stock Market Today: S&P 500 Futures Inc Lower After Shutdown Ends; Disney Falls — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2025)
-- Disney raises dividend and buybacks as theme parks defy downturn fears - Financial Times — [read more](https://www.ft.com/content/3766c0d7-60b9-423e-9a40-c18b69443768)
+- Unanimous again, Shohei Ohtani wins 4th MVP - BBWAA — [read more](https://bbwaa.com/25-nl-mvp/)
+- BBC formally apologizes to President Trump for documentary edit - Axios — [read more](https://www.axios.com/2025/11/13/trump-bbc-apology-panorama)
+- Trump’s next immigration crackdown will target Charlotte, North Carolina, a sheriff says - AP News — [read more](https://apnews.com/article/federal-immigration-enforcement-north-carolina-trump-8d2bd5e73b2028dbdb6d6426087d5416)
+- Johnson shifts strategy on Epstein files vote – as GOP leaders brace for mass defections - CNN — [read more](https://www.cnn.com/2025/11/13/politics/epstein-files-house-vote-johnson)
+- Week 11 Fantasy Football Rankings - The Blueprint - Underdog Network — [read more](https://underdognetwork.com/football/fantasy-rankings/week-11-fantasy-football-rankings-the-blueprint-2025)
 
 # Top Tech News
 Fetched on 2025-11-14 (UTC)
-- DJI’s Neo 2 selfie drone launches globally, but not in the US - The Verge — [read more](https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch)
-- Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC — [read more](https://www.bbc.com/news/articles/cd679n9lnx5o)
-- Galaxy S26 Ultra leak reveals the real reason for its bigger selfie camera cutout - SamMobile — [read more](https://www.sammobile.com/news/galaxy-s26-ultra-leak-real-reason-for-bigger-selfie-camera-cutout/)
-- Google will let ‘experienced users’ keep sideloading Android apps - The Verge — [read more](https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification)
-- Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge — [read more](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs)
+- Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming in December and Beyond - The Game Post — [read more](https://thegamepost.com/bungie-destiny-2-renegades-roadmap/)
+- Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Morning America — [read more](https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542)
+- Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games — [read more](https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and)
+- Android 17 is building a new Contacts Picker to keep your address book private - Android Authority — [read more](https://www.androidauthority.com/android-17-contacts-picker-rumor-3615741/)
+- Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types - TechCrunch — [read more](https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/)
