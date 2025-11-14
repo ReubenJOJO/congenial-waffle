@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "tech": [
     {
       "title": "Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto",
@@ -7,14 +7,14 @@
       "source": "Dexerto"
     },
     {
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
+      "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
+      "source": "Ars Technica"
+    },
+    {
       "title": "Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz",
       "url": "https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games",
       "source": "GamesIndustry.biz"
-    },
-    {
-      "title": "Samsung Galaxy Z Flip8 to be thinner and lighter - GSMArena.com news - GSMArena.com",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_be_thinner_and_lighter-news-70263.php",
-      "source": "GSMArena.com"
     },
     {
       "title": "Apple's passport-based Digital ID lands on iPhone and Apple Watch, starting at TSA - Axios",
@@ -22,9 +22,9 @@
       "source": "Axios"
     },
     {
-      "title": "OpenAI says the brand-new GPT-5.1 is ‘warmer’ and has more ‘personality’ options - The Verge",
-      "url": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
-      "source": "The Verge"
+      "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/",
+      "source": "Ars Technica"
     }
   ]
 }

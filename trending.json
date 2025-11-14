@@ -1,15 +1,15 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "repos": [
     {
       "name": "cryptocj520/crypto-trading-open",
       "url": "https://github.com/cryptocj520/crypto-trading-open",
-      "stars": 1003
+      "stars": 1040
     },
     {
       "name": "f/git-rewrite-commits",
       "url": "https://github.com/f/git-rewrite-commits",
-      "stars": 682
+      "stars": 687
     },
     {
       "name": "crowmd/2K-N8NWORKFLOWS",
@@ -19,12 +19,12 @@
     {
       "name": "Doriandarko/kimi-writer",
       "url": "https://github.com/Doriandarko/kimi-writer",
-      "stars": 433
+      "stars": 438
     },
     {
-      "name": "wesbos/sticker-dream",
-      "url": "https://github.com/wesbos/sticker-dream",
-      "stars": 415
+      "name": "daodao97/code-switch",
+      "url": "https://github.com/daodao97/code-switch",
+      "stars": 376
     }
   ]
 }

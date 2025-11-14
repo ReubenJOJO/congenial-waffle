@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "headlines": [
     {
-      "title": "All 14 victims identified from fiery UPS cargo plane crash in Louisville - CNN",
-      "url": "https://www.cnn.com/2025/11/12/us/louisville-ups-plane-crash-victims",
-      "source": "CNN"
-    },
-    {
-      "title": "3 questions about Trump's 50-year mortgage plan - NPR",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604384/50-year-mortgage-trump-housing-explainer",
-      "source": "NPR"
-    },
-    {
-      "title": "A penny short: US mints final 1-cent coins after over 230 years in circulation - abcnews.go.com",
-      "url": "https://abcnews.go.com/GMA/Living/penny-short-us-mints-final-1-cent-coins/story?id\\\\u003d127465330",
+      "title": "House passes funding bill to end longest-ever government shutdown - abcnews.go.com",
+      "url": "https://abcnews.go.com/Politics/house-set-vote-ending-government-shutdown/story?id\\\\u003d127421219",
       "source": "ABC News"
     },
     {
-      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
-      "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
-      "source": "Ars Technica"
+      "title": "Stock futures tick lower after Dow rallies to record high: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/11/12/stock-market-today-live-updates.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Docs reveal Jeffrey Epstein’s behind-the-scenes image consultant: Trump foe Michael Wolff - Politico",
+      "url": "https://www.politico.com/news/2025/11/12/jeffrey-epstein-documents-michael-wolff-emails-00649998",
+      "source": "Politico"
+    },
+    {
+      "title": "Tigers’ Tarik Skubal wins AL Cy Young again - BBWAA",
+      "url": "https://bbwaa.com/25-al-cy/",
+      "source": "Bbwaa.com"
+    },
+    {
+      "title": "Rep. Adelita Grijalva sworn in, setting up vote on release of Epstein files - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/11/12/adelita-grijalva-sworn-in/",
+      "source": "The Washington Post"
     }
   ]
 }
