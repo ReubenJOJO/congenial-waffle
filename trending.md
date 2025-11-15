@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-15 (UTC)
 
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1128 stars
-- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 884 stars
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 719 stars
-- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 458 stars
-- [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa) ⭐ 386 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1136 stars
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 1019 stars
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 726 stars
+- [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 461 stars
+- [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa) ⭐ 399 stars
 
 # Top News Headlines
 Fetched on 2025-11-15 (UTC)
-- Fewer burritos, more bargains: Consumers flash holiday warning signs - CNBC — [read more](https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html)
-- Russian drone and missile attack on Kyiv kills 4 people and injures at least 34 - AP News — [read more](https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18)
-- ‘Wicked’: Man Who Grabbed Ariana Grande on Singapore Red Carpet Charged in Court - Variety — [read more](https://variety.com/2025/film/global/wicked-man-grabbed-ariana-grande-singapore-charged-court-1236581862/)
-- Stock Market Today: S&P 500 Futures, Bitcoin Fall — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-14-2025)
+- Stock Market Today: Dow Slips, Nasdaq, S&P 500 Turn Higher; Bitcoin Falls— Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-14-2025)
+- MODIFYING THE SCOPE OF THE RECIPROCAL TARIFF WITH RESPECT TO CERTAIN AGRICULTURAL PRODUCTS - The White House (.gov) — [read more](https://www.whitehouse.gov/presidential-actions/2025/11/modifying-the-scope-of-the-reciprocal-tariff-with-respect-to-certain-agricultural-products/)
+- Walmart shares are up 312% during outgoing CEO Doug McMillon's tenure. Here's how that compares to its rivals - CNBC — [read more](https://www.cnbc.com/2025/11/14/walmart-doug-mcmillon-stock-performance-target-amazon-costco.html)
+- SAG Awards Changes Name to Actor Awards for 2026 - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/movies/movie-news/sag-awards-changes-name-actor-awards-2026-1236427342/)
+- Ethiopia confirms first outbreak of Marburg virus - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/11/14/ethiopia-confirms-first-outbreak-of-marburg-virus)
 
 # Top Tech News
 Fetched on 2025-11-15 (UTC)
-- WhatsApp is launching third-party chat integration in Europe - The Verge — [read more](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
-- Call of Duty: Black Ops 7 campaign cannot be paused by solo players, has no checkpoints, and requires an online connection at all times - Eurogamer — [read more](https://www.eurogamer.net/call-of-duty-campaign-cannot-be-paused-by-solo-players-has-no-checkpoints-and-requires-an-online-connection-at-all-times)
-- Forget Samsung S25 Ultra: This OnePlus flagship beats the Android giant in meaningful ways - ZDNET — [read more](https://www.zdnet.com/article/forget-samsung-s25-ultra-this-oneplus-flagship-beats-the-android-giant-in-meaningful-ways/)
-- Latest Google Home app update brings faster controls and an immersive UI - Android Police — [read more](https://www.androidpolice.com/latest-google-home-app-update-brings-faster-controls-immersive-ui/)
-- Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes)
+- Activision confirms Black Ops 7 uses gen-AI tools for assets, says they help "empower" its teams to "create the best gaming experiences possible" - PCGamesN — [read more](https://www.pcgamesn.com/call-of-duty-black-ops-7/ai-assets-steam-disclosure)
+- Apple’s last-gen AirPods Pro 2 are down to their lowest price to date - The Verge — [read more](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
+- Two tantalizing hours with Metroid Prime 4: Beyond - Game File | Stephen Totilo — [read more](https://www.gamefile.news/p/metroid-prime-4-beyond-preview)
+- Sony’s Concord Is Playable Again Thanks To Fan-Made Custom Servers - The Game Post — [read more](https://thegamepost.com/sony-concord-playable-again-custom-servers/)
+- Top 100 Nintendo Games, As Chosen By Nintendo Life & IGN - Nintendo Life — [read more](https://www.nintendolife.com/guides/top-100-nintendo-games-as-chosen-by-nintendo-life-and-ign)
