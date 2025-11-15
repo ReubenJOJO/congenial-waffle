@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-15 (UTC)
 
-- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1118 stars
-- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 787 stars
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 715 stars
+- [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) ⭐ 1128 stars
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 884 stars
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) ⭐ 719 stars
 - [crowmd/2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS) ⭐ 458 stars
-- [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa) ⭐ 375 stars
+- [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa) ⭐ 386 stars
 
 # Top News Headlines
 Fetched on 2025-11-15 (UTC)
-- Game Observations: 8 Takeaways From the Patriots Victory Over the Jets on Thursday Night Football - New England Patriots — [read more](https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-victory-over-the-jets-on-thursday-night-football)
-- 10 years after the Bataclan massacre, Paris is still scarred by that night of terror - AP News — [read more](https://apnews.com/article/bataclan-paris-attacks-10-years-commemorations-1f5982f90c96ad55d467e1c19ae6e639)
-- China's stranded astronauts returning from space station on spacecraft that brought new crew - AP News — [read more](https://apnews.com/article/china-space-station-stranded-crew-shenzhou-e266f7106491b587e60d303068973761)
-- Oklahoma death row inmate found unresponsive in cell after being granted clemency on day of execution - CBS News — [read more](https://www.cbsnews.com/news/oklahoma-death-row-inmate-tremane-wood-unresponsive-granted-clemency/)
-- Cardi B gives birth to baby boy with Patriots receiver Stefon Diggs - The Boston Globe — [read more](https://www.bostonglobe.com/2025/11/13/sports/cardi-b-stefon-diggs-baby/)
+- Fewer burritos, more bargains: Consumers flash holiday warning signs - CNBC — [read more](https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html)
+- Russian drone and missile attack on Kyiv kills 4 people and injures at least 34 - AP News — [read more](https://apnews.com/article/war-russia-ukraine-energy-strikes-bombs-e0016ce1cec36f650e384a255250bf18)
+- ‘Wicked’: Man Who Grabbed Ariana Grande on Singapore Red Carpet Charged in Court - Variety — [read more](https://variety.com/2025/film/global/wicked-man-grabbed-ariana-grande-singapore-charged-court-1236581862/)
+- Stock Market Today: S&P 500 Futures, Bitcoin Fall — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-14-2025)
 
 # Top Tech News
 Fetched on 2025-11-15 (UTC)
-- Arc Raiders Dev Drops Cosmetic Prices, Offers Refunds, and Reveals It 'Silently' Enabled Duo Prioritized Matchmaking - IGN — [read more](https://www.ign.com/articles/arc-raiders-dev-drops-cosmetic-prices-offers-refunds-and-reveals-it-silently-enabled-duo-prioritized-matchmaking)
+- WhatsApp is launching third-party chat integration in Europe - The Verge — [read more](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
+- Call of Duty: Black Ops 7 campaign cannot be paused by solo players, has no checkpoints, and requires an online connection at all times - Eurogamer — [read more](https://www.eurogamer.net/call-of-duty-campaign-cannot-be-paused-by-solo-players-has-no-checkpoints-and-requires-an-online-connection-at-all-times)
+- Forget Samsung S25 Ultra: This OnePlus flagship beats the Android giant in meaningful ways - ZDNET — [read more](https://www.zdnet.com/article/forget-samsung-s25-ultra-this-oneplus-flagship-beats-the-android-giant-in-meaningful-ways/)
+- Latest Google Home app update brings faster controls and an immersive UI - Android Police — [read more](https://www.androidpolice.com/latest-google-home-app-update-brings-faster-controls-immersive-ui/)
 - Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes)
-- Apple Launches Mini Apps Partner Program, Halves App Store Fees to 15% - PYMNTS.com — [read more](https://www.pymnts.com/apple/2025/apple-launches-mini-apps-partner-program-halves-app-store-fees-to-15)
-- Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming in December and Beyond - The Game Post — [read more](https://thegamepost.com/bungie-destiny-2-renegades-roadmap/)
-- Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Morning America — [read more](https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542)
