@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-17",
+  "date": "2025-11-18",
   "repos": [
     {
       "name": "ByteDance-Seed/Depth-Anything-3",
       "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
-      "stars": 1801
-    },
-    {
-      "name": "cryptocj520/crypto-trading-open",
-      "url": "https://github.com/cryptocj520/crypto-trading-open",
-      "stars": 1174
+      "stars": 1874
     },
     {
       "name": "straight-tamago/misaka26",
       "url": "https://github.com/straight-tamago/misaka26",
-      "stars": 970
+      "stars": 1165
     },
     {
-      "name": "universal-tool-calling-protocol/code-mode",
-      "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-      "stars": 768
+      "name": "nusquama/n8nworkflows.xyz",
+      "url": "https://github.com/nusquama/n8nworkflows.xyz",
+      "stars": 538
     },
     {
-      "name": "rbalestr-lab/lejepa",
-      "url": "https://github.com/rbalestr-lab/lejepa",
-      "stars": 483
+      "name": "Haleclipse/Claudix",
+      "url": "https://github.com/Haleclipse/Claudix",
+      "stars": 325
+    },
+    {
+      "name": "xPOURY4/CodeCraft-Architect",
+      "url": "https://github.com/xPOURY4/CodeCraft-Architect",
+      "stars": 271
     }
   ]
 }
