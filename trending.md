@@ -1,22 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-18 (UTC)
 
-- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 1962 stars
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1332 stars
-- [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) ⭐ 624 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 438 stars
-- [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) ⭐ 344 stars
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) ⭐ 2093 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1559 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 866 stars
+- [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) ⭐ 750 stars
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 392 stars
 
 # Top News Headlines
 Fetched on 2025-11-18 (UTC)
-- NFL Week 11 aftermath: Six loudest statements from Sunday’s blockbuster slate - NFL.com — [read more](https://www.nfl.com/news/nfl-week-11-aftermath-loudest-statements-from-sunday-s-blockbuster-slate)
-- Horoscope for Monday, November 17, 2025 - Chicago Sun-Times — [read more](https://chicago.suntimes.com/horoscopes/2025/11/17/horoscopes-today-monday-november-17-2025)
-- As It Happens: Dubai Airshow 2025 - Simple Flying — [read more](https://simpleflying.com/dubai-airshow-2025/)
+- Acting FEMA head resigns - NBC News — [read more](https://www.nbcnews.com/politics/politics-news/acting-fema-head-resigns-rcna244433)
+- UN Security Council backs Trump plan for Gaza - BBC — [read more](https://www.bbc.com/news/articles/c0rpkgq4wllo)
+- U.K. proposes new asylum policy with 20-year wait and asset seizures - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/11/17/britain-new-asylum-policy/)
+- Virginia Tech vacancy will be filled by James Franklin - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/virginia-tech-vacancy-will-be-filled-by-james-franklin)
+- Trump says he will sell F-35s to Saudi Arabia - Politico — [read more](https://www.politico.com/news/2025/11/17/trump-f-35-saudi-arabia-00654771)
 
 # Top Tech News
 Fetched on 2025-11-18 (UTC)
-- Israeli-founded app preloaded on Samsung phones is attracting controversy - SamMobile — [read more](https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/)
-- Exclusive: Meet Samsung's Galaxy Buds 4 Pro with a powerful new feature - Android Authority — [read more](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-design-features-leak-3616254/)
-- It's happening! YouTube Music is testing a feature everyone has wanted for years. - Android Authority — [read more](https://www.androidauthority.com/youtube-music-playlist-search-3616240/)
-- Chelsea Green banned from the International Professional Wrestling Hall of Fame - Cageside Seats — [read more](https://www.cagesideseats.com/wwe/397175/chelsea-green-banned-from-the-international-professional-wrestling-hall-of-fame)
-- Early Black Friday Savings Up to 33% on Speediance Smart Gyms - IGN — [read more](https://www.ign.com/articles/early-black-friday-savings-up-to-33-on-speediance-smart-gyms)
+- Everything new in iOS 26.2 beta 3 - 9to5Mac — [read more](https://9to5mac.com/2025/11/17/everything-new-in-ios-26-2-beta-3/)
+- Google Calendar can finally block off time without faking a meeting - The Verge — [read more](https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block)
+- Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech - Gizmodo — [read more](https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034)
+- Sales of Asus' Xbox ROG Ally X "exceed expectations" - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/sales-of-asus-xbox-rog-ally-x-exceeds-expectations)
+- Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off - The Verge — [read more](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
