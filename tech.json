@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "tech": [
+    {
+      "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Microsoft just revealed how Windows 11 is evolving into an agentic OS — finally the explanation we've all been waiting for - Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-just-revealed-how-windows-11-is-evolving-into-an-agentic-os-finally-the-explanation-weve-all-been-waiting-for",
+      "source": "Windows Central"
+    },
+    {
+      "title": "Apple's Early Black Friday Deals Are Here: Save $250 on the M4-Powered MacBook Air, and More - PCMag",
+      "url": "https://www.pcmag.com/news/best-apple-early-black-friday-deals-airpods-ipads-macbooks-more-nov-16",
+      "source": "PCMag.com"
+    },
+    {
+      "title": "Turn Up Early Black Friday With Up to 50% Off Speakers & Soundbars From Beats, Bose, JBL, & More - PCMag",
+      "url": "https://www.pcmag.com/news/save-on-early-black-friday-speaker-and-soundbar-deals-up-to-50-off-beats",
+      "source": "PCMag.com"
+    },
     {
       "title": "Everything new in iOS 26.2 beta 3 - 9to5Mac",
       "url": "https://9to5mac.com/2025/11/17/everything-new-in-ios-26-2-beta-3/",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Google Calendar can finally block off time without faking a meeting - The Verge",
-      "url": "https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block",
-      "source": "The Verge"
-    },
-    {
-      "title": "Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech - Gizmodo",
-      "url": "https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034",
-      "source": "Gizmodo.com"
-    },
-    {
-      "title": "Sales of Asus' Xbox ROG Ally X \"exceed expectations\" - GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/sales-of-asus-xbox-rog-ally-x-exceeds-expectations",
-      "source": "GamesIndustry.biz"
-    },
-    {
-      "title": "Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off - The Verge",
-      "url": "https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale",
-      "source": "The Verge"
     }
   ]
 }

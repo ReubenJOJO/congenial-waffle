@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "repos": [
-    {
-      "name": "ByteDance-Seed/Depth-Anything-3",
-      "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
-      "stars": 2093
-    },
     {
       "name": "straight-tamago/misaka26",
       "url": "https://github.com/straight-tamago/misaka26",
-      "stars": 1559
+      "stars": 1641
     },
     {
       "name": "karpathy/reader3",
       "url": "https://github.com/karpathy/reader3",
-      "stars": 866
+      "stars": 974
     },
     {
-      "name": "nusquama/n8nworkflows.xyz",
-      "url": "https://github.com/nusquama/n8nworkflows.xyz",
-      "stars": 750
+      "name": "K-Dense-AI/karpathy",
+      "url": "https://github.com/K-Dense-AI/karpathy",
+      "stars": 422
     },
     {
       "name": "AnandChowdhary/continuous-claude",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
-      "stars": 392
+      "stars": 411
+    },
+    {
+      "name": "Haleclipse/Claudix",
+      "url": "https://github.com/Haleclipse/Claudix",
+      "stars": 396
     }
   ]
 }
