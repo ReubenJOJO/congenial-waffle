@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-19 (UTC)
 
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1760 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1271 stars
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 532 stars
-- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 444 stars
-- [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) ⭐ 423 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1824 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1384 stars
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 580 stars
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 461 stars
+- [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) ⭐ 428 stars
 
 # Top News Headlines
 Fetched on 2025-11-19 (UTC)
-- Opinion | The FDA finally corrects its error on menopause hormone therapy - The Washington Post — [read more](https://www.washingtonpost.com/opinions/2025/11/18/menopause-hormone-therapy-black-box-warning-fda/)
-- Nominations for the 2026 European Film Awards Unveiled - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/movies/movie-news/european-film-award-nominations-2026-1236429513/)
-- Steam Machine and Steam Frame: your questions answered - The Verge — [read more](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
-- Panera lost diners by cutting portions and staff. It's reversing course to win them back - CNBC — [read more](https://www.cnbc.com/2025/11/18/panera-bread-turnaround-plan.html)
+- Stock futures little changed as S&P 500 notches fourth-straight loss, Nvidia earnings loom: Live updates - CNBC — [read more](https://www.cnbc.com/2025/11/18/stock-market-today-live-updates.html)
+- Singer D4vd considered suspect in investigation of teen found dead in his Tesla: Sources - abcnews.go.com — [read more](https://abcnews.go.com/US/singer-d4vd-considered-suspect-investigation-teen-found-dead/story?id\\u003d126591951)
+- In blow to Trump, federal judges block new Texas congressional map - Politico — [read more](https://www.politico.com/news/2025/11/18/federal-judges-block-new-texas-congressional-map-00656680)
+- Cloudflare shows internet outages aren’t a matter of if — but when - The Verge — [read more](https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites)
 
 # Top Tech News
 Fetched on 2025-11-19 (UTC)
-- Sony is taking $100 off its PS5 consoles for Black Friday - The Verge — [read more](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)
-- In the wake of Battlefield 6 and Arc Radiers, Call of Duty: Black Ops 7 suffered a much smaller launch than previous CoD games - Eurogamer — [read more](https://www.eurogamer.net/in-the-wake-of-battlefield-6-and-arc-radiers-call-of-duty-black-ops-7-suffered-a-much-smaller-launch-than-previous-cod-games)
-- 'The World Is Just Not Ready for AI in Video Games' — Shroud Accuses The Game Awards of Being 'Rigged' Following Arc Raiders GOTY Snub - IGN — [read more](https://www.ign.com/articles/the-world-is-just-not-ready-for-ai-in-video-games-shroud-accuses-the-game-awards-of-being-rigged-following-arc-raiders-goty-snub)
-- Steam Machine and Steam Frame: your questions answered - The Verge — [read more](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
-- Has Samsung Installed ‘Unremovable Israeli Spyware’ On Your Phone? - Forbes — [read more](https://www.forbes.com/sites/zakdoffman/2025/11/18/has-samsung-installed-unremovable-israeli-spyware-on-your-phone/)
+- GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN — [read more](https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals)
+- R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club — [read more](https://www.avclub.com/rebecca-heineman-dies-games)
+- Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/)
+- Why shock F1 26 game news should start a new era - The Race — [read more](https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/)
