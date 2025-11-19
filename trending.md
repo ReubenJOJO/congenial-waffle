@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-19 (UTC)
 
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1696 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1098 stars
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 475 stars
-- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 430 stars
-- [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) ⭐ 413 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1760 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1271 stars
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 532 stars
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 444 stars
+- [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) ⭐ 423 stars
 
 # Top News Headlines
 Fetched on 2025-11-19 (UTC)
-- Larry Summers steps back from public role after Epstein emails emerge - BBC — [read more](https://www.bbc.com/news/articles/cddr199d3z0o)
-- US has warned others to avoid loans from Chinese state banks. But it's the biggest recipient of all - AP News — [read more](https://apnews.com/article/china-state-financing-investments-us-loans-offshore-ee522dae29f60b00e62ceac70730b8f6)
-- Indiana homeowner charged in fatal shooting of house cleaner who showed up at wrong door - Politico — [read more](https://www.politico.com/news/2025/11/18/indiana-homeowner-charged-in-fatal-shooting-of-house-cleaner-who-showed-up-at-wrong-door-00655848)
-- Cynthia Erivo, who lost her voice ahead of ‘Wicked: For Good’ red carpet, got an interview assist from Ariana Grande - CNN — [read more](https://www.cnn.com/2025/11/18/entertainment/wicked-for-good-cynthia-erivo-ariana-grande)
+- Opinion | The FDA finally corrects its error on menopause hormone therapy - The Washington Post — [read more](https://www.washingtonpost.com/opinions/2025/11/18/menopause-hormone-therapy-black-box-warning-fda/)
+- Nominations for the 2026 European Film Awards Unveiled - The Hollywood Reporter — [read more](http://www.hollywoodreporter.com/movies/movie-news/european-film-award-nominations-2026-1236429513/)
+- Steam Machine and Steam Frame: your questions answered - The Verge — [read more](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
+- Panera lost diners by cutting portions and staff. It's reversing course to win them back - CNBC — [read more](https://www.cnbc.com/2025/11/18/panera-bread-turnaround-plan.html)
 
 # Top Tech News
 Fetched on 2025-11-19 (UTC)
-- Steins;Gate Re:Boot Delayed to 2026, Preview Images Released - anitrendz.net — [read more](https://anitrendz.net/news/2025/11/17/steinsgate-reboot-delayed-to-2026-preview-images-released/)
-- Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders)
-- Turn Up Early Black Friday With Up to 50% Off Speakers & Soundbars From Beats, Bose, JBL, & More - PCMag — [read more](https://www.pcmag.com/news/save-on-early-black-friday-speaker-and-soundbar-deals-up-to-50-off-beats)
-- Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Android Authority — [read more](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)
-- Lenovo's 1TB Laptop Is Almost Free (Ryzen 5, 24GB RAM, Windows 11), Amazon Cuts 62% to Clear Stock - Gizmodo — [read more](https://gizmodo.com/lenovos-1tb-laptop-is-almost-free-ryzen-5-24gb-ram-windows-11-amazon-cuts-62-to-clear-stock-2000686895)
+- Sony is taking $100 off its PS5 consoles for Black Friday - The Verge — [read more](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)
+- In the wake of Battlefield 6 and Arc Radiers, Call of Duty: Black Ops 7 suffered a much smaller launch than previous CoD games - Eurogamer — [read more](https://www.eurogamer.net/in-the-wake-of-battlefield-6-and-arc-radiers-call-of-duty-black-ops-7-suffered-a-much-smaller-launch-than-previous-cod-games)
+- 'The World Is Just Not Ready for AI in Video Games' — Shroud Accuses The Game Awards of Being 'Rigged' Following Arc Raiders GOTY Snub - IGN — [read more](https://www.ign.com/articles/the-world-is-just-not-ready-for-ai-in-video-games-shroud-accuses-the-game-awards-of-being-rigged-following-arc-raiders-goty-snub)
+- Steam Machine and Steam Frame: your questions answered - The Verge — [read more](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
+- Has Samsung Installed ‘Unremovable Israeli Spyware’ On Your Phone? - Forbes — [read more](https://www.forbes.com/sites/zakdoffman/2025/11/18/has-samsung-installed-unremovable-israeli-spyware-on-your-phone/)
