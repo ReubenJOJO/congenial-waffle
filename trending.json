@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-19",
+  "date": "2025-11-20",
   "repos": [
     {
       "name": "straight-tamago/misaka26",
       "url": "https://github.com/straight-tamago/misaka26",
-      "stars": 1824
+      "stars": 1879
     },
     {
       "name": "karpathy/reader3",
       "url": "https://github.com/karpathy/reader3",
-      "stars": 1384
+      "stars": 1458
     },
     {
       "name": "K-Dense-AI/karpathy",
       "url": "https://github.com/K-Dense-AI/karpathy",
-      "stars": 580
+      "stars": 606
     },
     {
       "name": "AnandChowdhary/continuous-claude",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
-      "stars": 461
+      "stars": 474
     },
     {
-      "name": "Haleclipse/Claudix",
-      "url": "https://github.com/Haleclipse/Claudix",
-      "stars": 428
+      "name": "buyukakyuz/install-nothing",
+      "url": "https://github.com/buyukakyuz/install-nothing",
+      "stars": 429
     }
   ]
 }

@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-19",
+  "date": "2025-11-20",
   "tech": [
     {
-      "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
-      "url": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals",
+      "title": "EA will skip next year’s F1 game and release update DLC instead - The Verge",
+      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
+      "url": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
+      "source": "The Verge"
+    },
+    {
+      "title": "Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo",
+      "url": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712",
+      "source": "Gizmodo.com"
+    },
+    {
+      "title": "DJI’s New Action Camera Makes It Even Harder for GoPro to Catch Up - Gizmodo",
+      "url": "https://gizmodo.com/dji-osmo-action-6-variable-aperture-lens-beats-gopro-hero-13-black-2000687756",
+      "source": "Gizmodo.com"
+    },
+    {
+      "title": "Megabonk Developer Withdraws Game From The Game Awards, Saying It Doesn't Qualify for Debut Indie - IGN",
+      "url": "https://www.ign.com/articles/megabonk-developer-withdraws-game-from-the-game-awards-saying-it-doesnt-qualify-for-debut-indie",
       "source": "IGN"
-    },
-    {
-      "title": "R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club",
-      "url": "https://www.avclub.com/rebecca-heineman-dies-games",
-      "source": "The A.V. Club"
-    },
-    {
-      "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Why shock F1 26 game news should start a new era - The Race",
-      "url": "https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/",
-      "source": "The-race.com"
     }
   ]
 }
