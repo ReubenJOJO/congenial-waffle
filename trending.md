@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-20 (UTC)
 
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1932 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1524 stars
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 623 stars
-- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 479 stars
-- [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) ⭐ 438 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1984 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1576 stars
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 636 stars
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 486 stars
+- [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) ⭐ 452 stars
 
 # Top News Headlines
 Fetched on 2025-11-20 (UTC)
-- Judge orders some Texas public schools to remove Ten Commandments posters - The Washington Post — [read more](https://www.washingtonpost.com/nation/2025/11/19/texas-ten-commandments-posters/)
-- Tense Japan-China Talks Stoke Concerns Over Economic Fallout - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-11-19/chinese-diplomat-dissatisfied-with-japan-talks-as-rift-deepens)
-- 13 killed in Israeli strike on Palestinian refugee camp in Lebanon - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/11/18/lebanon-strike-israel-hamas/)
-- Horoscope for Wednesday, November 19, 2025 - Chicago Sun-Times — [read more](https://chicago.suntimes.com/horoscopes/2025/11/19/horoscopes-today-wednesday-november-19-2025)
-- US: Baltimore bridge collapse caused by one faulty wire - DW — [read more](https://www.dw.com/en/us-baltimore-bridge-collapse-caused-by-one-faulty-wire/a-74799287)
+- Tom Steyer, the billionaire Democratic activist, enters California governor’s race - CNN — [read more](https://www.cnn.com/2025/11/19/politics/tom-steyer-california-governor)
+- Target Lowers Top End of Profit Outlook on Soft Demand - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-11-19/target-lowers-top-end-of-profit-outlook-as-soft-demand-persists)
+- Ultra-processed food is global health threat, experts warn - BBC — [read more](https://www.bbc.com/news/articles/cy4pjjzd784o)
+- Stock futures rise with Nvidia earnings ahead, S&P 500 and Dow try to snap 4-day losing streak: Live updates - CNBC — [read more](https://www.cnbc.com/2025/11/18/stock-market-today-live-updates.html)
 
 # Top Tech News
 Fetched on 2025-11-20 (UTC)
-- Fortnite is getting Unity games - The Verge — [read more](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg)
-- The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge — [read more](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
-- Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo — [read more](https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712)
-- Deals for Today: The Best Early Black Friday Discounts and Restocks on Pokémon TCG and MTG - IGN — [read more](https://www.ign.com/articles/deals-for-today-the-best-early-black-friday-discounts-and-restocks-on-pokmon-tcg-and-mtg)
+- OnePlus 15 review: The end of range anxiety - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/)
+- Epic announces partnership to bring Unity games into Fortnite - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/epic-announces-partnership-to-bring-unity-games-into-fortnite)
+- Mystery Megabonk developer withdraws from The Game Awards following incorrect nomination - Eurogamer — [read more](https://www.eurogamer.net/mystery-megabonk-developer-withdraws-from-the-game-awards-following-incorrect-nomination)
+- Review: Kirby Air Riders (Switch 2) - Incredibly Chaotic, But Satisfyingly Deep & Rewarding Racing - Nintendo Life — [read more](https://www.nintendolife.com/reviews/nintendo-switch-2/kirby-air-riders)
+- Video: Tomb Raider: Definitive Edition Nintendo Switch 2 vs. PS4 comparison - Nintendo Everything — [read more](https://nintendoeverything.com/video-tomb-raider-definitive-edition-nintendo-switch-2-vs-ps4-comparison/)
