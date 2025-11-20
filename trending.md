@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-20 (UTC)
 
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 1984 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1576 stars
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 636 stars
-- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 486 stars
-- [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) ⭐ 452 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 2016 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1629 stars
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 683 stars
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) ⭐ 509 stars
+- [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) ⭐ 464 stars
 
 # Top News Headlines
 Fetched on 2025-11-20 (UTC)
-- Tom Steyer, the billionaire Democratic activist, enters California governor’s race - CNN — [read more](https://www.cnn.com/2025/11/19/politics/tom-steyer-california-governor)
-- Target Lowers Top End of Profit Outlook on Soft Demand - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-11-19/target-lowers-top-end-of-profit-outlook-as-soft-demand-persists)
-- Ultra-processed food is global health threat, experts warn - BBC — [read more](https://www.bbc.com/news/articles/cy4pjjzd784o)
-- Stock futures rise with Nvidia earnings ahead, S&P 500 and Dow try to snap 4-day losing streak: Live updates - CNBC — [read more](https://www.cnbc.com/2025/11/18/stock-market-today-live-updates.html)
+- Israel’s military carries out strikes in Lebanon and Gaza, killing dozens of people - AP News — [read more](https://apnews.com/article/lebanon-israel-airstrike-84a26c919c2636e6bd8d0a86ae166b3a)
+- Nvidia beats earnings expectations, even as bubble concerns mount - CNN — [read more](https://www.cnn.com/2025/11/19/tech/nvidia-earnings-ai-bubble-fears)
+- Brandin Cooks released in another Saints shakeup - New York Post — [read more](https://nypost.com/2025/11/19/sports/brandin-cooks-released-in-another-saints-shakeup/)
+- Judge Boasberg to resume contempt proceedings over Alien Enemies Act deportations - Politico — [read more](https://www.politico.com/news/2025/11/19/james-boasberg-deportation-flights-case-00659973)
 
 # Top Tech News
 Fetched on 2025-11-20 (UTC)
-- OnePlus 15 review: The end of range anxiety - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/)
-- Epic announces partnership to bring Unity games into Fortnite - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/epic-announces-partnership-to-bring-unity-games-into-fortnite)
-- Mystery Megabonk developer withdraws from The Game Awards following incorrect nomination - Eurogamer — [read more](https://www.eurogamer.net/mystery-megabonk-developer-withdraws-from-the-game-awards-following-incorrect-nomination)
-- Review: Kirby Air Riders (Switch 2) - Incredibly Chaotic, But Satisfyingly Deep & Rewarding Racing - Nintendo Life — [read more](https://www.nintendolife.com/reviews/nintendo-switch-2/kirby-air-riders)
-- Video: Tomb Raider: Definitive Edition Nintendo Switch 2 vs. PS4 comparison - Nintendo Everything — [read more](https://nintendoeverything.com/video-tomb-raider-definitive-edition-nintendo-switch-2-vs-ps4-comparison/)
+- For Black Friday, get the M4 MacBook Air that’s only $150 more than the slower M1 model - The Verge — [read more](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)
+- Critics scoff after Microsoft warns AI feature can infect machines and pilfer data - Ars Technica — [read more](https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/)
+- Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/)
+- YouTube tests bringing back direct messages, a ‘top feature request’ - 9to5Google — [read more](http://9to5google.com/2025/11/19/youtube-is-testing-a-revival-of-built-in-direct-messages-a-top-feature-request/)
+- Apple has five products coming next year that I’m very excited for - 9to5Mac — [read more](https://9to5mac.com/2025/11/19/apple-has-five-products-coming-next-year-that-im-very-excited-for/)
