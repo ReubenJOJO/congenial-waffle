@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "headlines": [
     {
-      "title": "Israel’s military carries out strikes in Lebanon and Gaza, killing dozens of people - AP News",
-      "url": "https://apnews.com/article/lebanon-israel-airstrike-84a26c919c2636e6bd8d0a86ae166b3a",
-      "source": "Associated Press"
+      "title": "Trump and Mamdani to meet at the White House on Friday - Axios",
+      "url": "https://www.axios.com/2025/11/20/trump-mamdani-white-house-meeting-friday",
+      "source": "Axios"
     },
     {
-      "title": "Nvidia beats earnings expectations, even as bubble concerns mount - CNN",
-      "url": "https://www.cnn.com/2025/11/19/tech/nvidia-earnings-ai-bubble-fears",
-      "source": "CNN"
+      "title": "Trump says he signed bill to release Epstein files - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/11/20/trump-says-he-signed-bill-to-release-epstein-files",
+      "source": "Al Jazeera English"
     },
     {
-      "title": "Brandin Cooks released in another Saints shakeup - New York Post",
-      "url": "https://nypost.com/2025/11/19/sports/brandin-cooks-released-in-another-saints-shakeup/",
-      "source": "New York Post"
+      "title": "House blocks GOP Rep. Nancy Mace's censure effort against fellow Republican Cory Mills - CBS News",
+      "url": "https://www.cbsnews.com/news/nancy-mace-cory-mills-censure-house-ethics-committee/",
+      "source": "CBS News"
     },
     {
-      "title": "Judge Boasberg to resume contempt proceedings over Alien Enemies Act deportations - Politico",
-      "url": "https://www.politico.com/news/2025/11/19/james-boasberg-deportation-flights-case-00659973",
-      "source": "Politico"
+      "title": "CMA Awards 2025: The Complete List of Winners - Updating - Variety",
+      "url": "https://variety.com/2025/music/news/cma-awards-2025-complete-list-winners-1236586347/",
+      "source": "Variety"
+    },
+    {
+      "title": "Stock futures higher as Nvidia's strong forecast reignites the AI trade: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/11/19/stock-market-today-live-updates.html",
+      "source": "CNBC"
     }
   ]
 }
