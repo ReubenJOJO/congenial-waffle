@@ -1,24 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-22 (UTC)
 
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 2252 stars
-- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1770 stars
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 893 stars
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) ⭐ 598 stars
-- [Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) ⭐ 562 stars
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) ⭐ 2298 stars
+- [karpathy/reader3](https://github.com/karpathy/reader3) ⭐ 1788 stars
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) ⭐ 922 stars
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) ⭐ 621 stars
+- [Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) ⭐ 594 stars
 
 # Top News Headlines
 Fetched on 2025-11-22 (UTC)
-- Today's biggest science news: CDC in turmoil | Moss survives space | Comet 3I/ATLAS images - Live Science — [read more](https://www.livescience.com/space/live/latest-science-news-friday-nov-21-2025)
-- Stock Market Today: Dow Futures Rise; AI, Chip Stocks Drop; Bitcoin Falls Further — Live Markets - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-21-2025)
-- In culture war backlash, Democrats sweep school boards - Politico — [read more](https://www.politico.com/news/2025/11/21/culture-war-democrats-school-boards-00663699)
-- Mamdani’s meeting with Trump comes with a power disadvantage - Politico — [read more](https://www.politico.com/news/2025/11/21/mamdanis-meeting-with-trump-comes-with-a-power-disadvantage-00664265)
-- St Mary's School in Niger state: Pupils abducted from Nigerian Catholic school - BBC — [read more](https://www.bbc.com/news/articles/cj4qxvy74qyo)
+- Trump praises Mamdani after White House meeting: "I want him to do a great job" - CBS News — [read more](https://www.cbsnews.com/newyork/live-updates/trump-mamdani-meeting-white-house-new-york/)
+- Grizzly bear on loose after attacking school group in Canada, injuring 11 - BBC — [read more](https://www.bbc.com/news/articles/cz68x1n5qd6o)
+- Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market - MarketWatch — [read more](https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933)
+- Oscars: Academy Reveals List Of Eligible Documentary, Animation & International Features - Deadline — [read more](http://deadline.com/2025/11/oscars-eligible-films-2026-documentary-animation-international-1236625972/)
 
 # Top Tech News
 Fetched on 2025-11-22 (UTC)
-- Apple’s second limited-edition iPhone accessory in a month is all about accessibility - 9to5Mac — [read more](https://9to5mac.com/2025/11/20/apples-second-limited-edition-iphone-accessory-in-a-month-is-all-about-accessibility/)
-- Hands On With Google's Nano Banana Pro Image Generator - wired.com — [read more](https://www.wired.com/story/google-nano-banana-pro-hands-on/)
-- Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of developer livestream - The Game Post — [read more](https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/)
-- HP and Dell disable HEVC support built into their laptops’ CPUs - Ars Technica — [read more](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
-- Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDrop - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones)
+- In Kirby Air Riders, expression is more fun than racing - The Verge — [read more](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)
+- Sony’s PlayStation Portal just got a rare discount for Black Friday - The Verge — [read more](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
+- Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily — [read more](https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/)
+- Ubisoft Reveals Teammates – An AI Experiment to Change the Game - Ubisoft — [read more](https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game)
