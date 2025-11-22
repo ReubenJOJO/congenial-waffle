@@ -1,6 +1,16 @@
 {
-  "date": "2025-11-21",
+  "date": "2025-11-22",
   "tech": [
+    {
+      "title": "65+ best Black Friday deals 2025: Apple, Kindle, Ninja on sale - Mashable",
+      "url": "https://mashable.com/article/best-early-black-friday-2025-deals",
+      "source": "Mashable"
+    },
+    {
+      "title": "75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable",
+      "url": "https://mashable.com/article/best-black-friday-best-buy-deals-2025",
+      "source": "Mashable"
+    },
     {
       "title": "Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of developer livestream - The Game Post",
       "url": "https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/",
@@ -15,16 +25,6 @@
       "title": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDrop - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones",
       "source": "Bloomberg"
-    },
-    {
-      "title": "Apple shows how much faster the M5 runs local LLMs compared to the M4 - 9to5Mac",
-      "url": "https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Borderlands 4's First DLC Is Now Free And Out For Everyone - Kotaku",
-      "url": "https://kotaku.com/borderlands-4s-first-dlc-free-smaller-fixes-gearbox-christmas-mercenary-day-pack-2000645909",
-      "source": "Kotaku"
     }
   ]
 }
