@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "tech": [
     {
-      "title": "In Kirby Air Riders, expression is more fun than racing - The Verge",
-      "url": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization",
+      "title": "Google denies ‘misleading’ reports of Gmail using your emails to train AI - The Verge",
+      "url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
       "source": "The Verge"
     },
     {
-      "title": "Sony’s PlayStation Portal just got a rare discount for Black Friday - The Verge",
-      "url": "https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025",
-      "source": "The Verge"
+      "title": "Fallout 4 Gets New Update Following Anniversary Edition Backlash - GameSpot",
+      "url": "https://www.gamespot.com/articles/fallout-4-gets-new-update-following-anniversary-edition-backlash/1100-6536446/",
+      "source": "GameSpot"
     },
     {
-      "title": "Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/",
-      "source": "Investor's Business Daily"
+      "title": "Apple TV Streaming Service Drops Price 54% in Black Friday Deal - Variety",
+      "url": "https://variety.com/2025/tv/news/apple-tv-black-friday-deal-price-drop-1236588772/",
+      "source": "Variety"
     },
     {
-      "title": "Ubisoft Reveals Teammates – An AI Experiment to Change the Game - Ubisoft",
-      "url": "https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game",
-      "source": "Ubisoft.com"
+      "title": "Early Black Friday Deals: Best Buy Has Upped Their Game, and So Has Amazon - IGN",
+      "url": "https://www.ign.com/articles/early-black-friday-deals-november-21",
+      "source": "IGN"
+    },
+    {
+      "title": "AirPods Pro 3 and AirPods 4 drop to their best prices yet for Black Friday Week [Updated] - 9to5Mac",
+      "url": "https://9to5mac.com/2025/11/21/best-airpods-4-and-airpods-pro-deals-for-black-friday-week/",
+      "source": "9to5Mac"
     }
   ]
 }
