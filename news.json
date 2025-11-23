@@ -2,24 +2,29 @@
   "date": "2025-11-23",
   "headlines": [
     {
-      "title": "Washington resident dies of complications from bird flu strain never before reported in humans - CNN",
-      "url": "https://www.cnn.com/2025/11/21/health/washington-bird-flu-death",
-      "source": "CNN"
-    },
-    {
-      "title": "High-profile Republican Marjorie Taylor Greene to quit Congress after Trump feud - BBC",
-      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo",
-      "source": "BBC News"
-    },
-    {
-      "title": "Supreme Court blocks order that found Texas congressional map is likely racially biased - NPR",
-      "url": "https://www.npr.org/2025/11/21/g-s1-98856/supreme-court-texas-congressional-map",
+      "title": "Trump says he's terminating legal protections for Somali migrants in Minnesota - NPR",
+      "url": "https://www.npr.org/2025/11/22/g-s1-98867/trump-terminating-protections-somali-minnesota",
       "source": "NPR"
     },
     {
-      "title": "Google denies ‘misleading’ reports of Gmail using your emails to train AI - The Verge",
-      "url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
-      "source": "The Verge"
+      "title": "Washington state resident believed to be the first to die from a rare strain of bird flu - AP News",
+      "url": "https://apnews.com/article/bird-flu-infection-washington-h5n5-c8148b46cf9cc8a4f1e5562923086298",
+      "source": "Associated Press"
+    },
+    {
+      "title": "Grizzly bear attack in British Columbia seriously injures 3 schoolchildren - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/11/21/grizzly-bear-attack-british-columbia/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Kennedy says he told CDC to change website's language on autism and vaccines - KSL.com",
+      "url": "https://www.ksl.com/article/51409008/kennedy-says-he-told-cdc-to-change-websites-language-on-autism-and-vaccines",
+      "source": "KSL.com"
+    },
+    {
+      "title": "GOP Rep. Marjorie Taylor Greene announces she is resigning from House - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/11/21/marjorie-taylor-greene-resigns-congress/",
+      "source": "The Washington Post"
     }
   ]
 }
