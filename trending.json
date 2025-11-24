@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "repos": [
     {
       "name": "karpathy/llm-council",
       "url": "https://github.com/karpathy/llm-council",
-      "stars": 2236
+      "stars": 2685
     },
     {
       "name": "karpathy/reader3",
       "url": "https://github.com/karpathy/reader3",
-      "stars": 1977
+      "stars": 2000
     },
     {
       "name": "supertone-inc/supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
-      "stars": 797
-    },
-    {
-      "name": "buyukakyuz/install-nothing",
-      "url": "https://github.com/buyukakyuz/install-nothing",
-      "stars": 718
+      "stars": 836
     },
     {
       "name": "Norsico/Video-Materials-AutoGEN-Workstation",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 644
+      "stars": 663
+    },
+    {
+      "name": "hexagonal-sun/moss",
+      "url": "https://github.com/hexagonal-sun/moss",
+      "stars": 633
     }
   ]
 }
