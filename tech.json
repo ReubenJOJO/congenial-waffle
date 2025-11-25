@@ -1,10 +1,20 @@
 {
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "tech": [
+    {
+      "title": "Game anywhere with $250 off the Lenovo Legion Go S ahead of Black Friday - Mashable",
+      "url": "https://mashable.com/article/early-black-friday-deal-2025-lenovo-legion-go-s",
+      "source": "Mashable"
+    },
     {
       "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
       "url": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/",
       "source": "ZDNet"
+    },
+    {
+      "title": "Save Over 20% On Black Myth Wukong at Amazon For Black Friday - IGN",
+      "url": "https://www.ign.com/articles/black-myth-wukong-deal-at-amazon-for-black-friday-2025",
+      "source": "IGN"
     },
     {
       "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
@@ -15,11 +25,6 @@
       "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
       "url": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/",
       "source": "Jalopnik"
-    },
-    {
-      "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
-      "url": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday",
-      "source": "IGN"
     }
   ]
 }
