@@ -4,27 +4,27 @@
     {
       "name": "karpathy/llm-council",
       "url": "https://github.com/karpathy/llm-council",
-      "stars": 6427
+      "stars": 6652
+    },
+    {
+      "name": "Facepunch/sbox-public",
+      "url": "https://github.com/Facepunch/sbox-public",
+      "stars": 1227
     },
     {
       "name": "HisMax/RedInk",
       "url": "https://github.com/HisMax/RedInk",
-      "stars": 935
+      "stars": 981
     },
     {
       "name": "hexagonal-sun/moss",
       "url": "https://github.com/hexagonal-sun/moss",
-      "stars": 795
+      "stars": 807
     },
     {
       "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
       "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
-      "stars": 696
-    },
-    {
-      "name": "glidea/banana-prompt-quicker",
-      "url": "https://github.com/glidea/banana-prompt-quicker",
-      "stars": 632
+      "stars": 706
     }
   ]
 }
