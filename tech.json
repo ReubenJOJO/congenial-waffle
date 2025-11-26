@@ -1,6 +1,16 @@
 {
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "tech": [
+    {
+      "title": "Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale - GameSpot",
+      "url": "https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/",
+      "source": "GameSpot"
+    },
+    {
+      "title": "RAM prices are so out of control that stores are selling it like lobster - The Verge",
+      "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
+      "source": "The Verge"
+    },
     {
       "title": "Best Black Friday TV deals 2025: Save up to $1,300 on OLED TVs - Mashable",
       "url": "https://mashable.com/article/best-early-black-friday-tv-deals-hisense-samsung-tcl-2025",
@@ -12,19 +22,9 @@
       "source": "Deadline"
     },
     {
-      "title": "Amazon’s Infamous ‘No Console Required’ Xbox Bundle is Back On Sale for Black Friday 2025 - IGN",
-      "url": "https://www.ign.com/articles/amazon-no-console-required-xbox-bundle-with-pulse-cipher-controller-drops-to-its-lowest-price-ever-for-black-friday",
-      "source": "IGN"
-    },
-    {
-      "title": "Level Up Your Look: Xbox and Crocs Launch Exclusive Gaming-Inspired Classic Clogs - Xbox Wire",
-      "url": "https://news.xbox.com/en-us/2025/11/24/xbox-crocs-jibbitz/",
-      "source": "Xbox.com"
-    },
-    {
-      "title": "Timesplitters Remake Out Now On PC, Supports Online Co-Op - Kotaku",
-      "url": "https://kotaku.com/timesplitters-rewind-remake-out-now-launch-pc-ps4-trailer-2000646972",
-      "source": "Kotaku"
+      "title": "Meta’s new wearables trade-in program gives you Ray-Ban and Oakley discounts - The Verge",
+      "url": "https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit",
+      "source": "The Verge"
     }
   ]
 }

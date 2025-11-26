@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-11-25 (UTC)
+Fetched on 2025-11-26 (UTC)
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 5861 stars
-- [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss) ⭐ 764 stars
-- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 664 stars
-- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) ⭐ 540 stars
-- [mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher) ⭐ 511 stars
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 6079 stars
+- [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss) ⭐ 775 stars
+- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 674 stars
+- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) ⭐ 570 stars
+- [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) ⭐ 508 stars
 
 # Top News Headlines
-Fetched on 2025-11-25 (UTC)
-- Is the Comey case gone for good? And other questions after Halligan’s cases crumbled - Politico — [read more](https://www.politico.com/news/2025/11/24/halligan-dismissed-james-comey-cases-00667735)
-- Marjorie Taylor Greene is staying out of the election to replace her - Politico — [read more](https://www.politico.com/news/2025/11/24/marjorie-taylor-greene-election-replacement-00667787)
-- ‘Wicked: For Good’ $330M Promo Push 2nd Highest For Hollywood Tentpole; Sequel Eyes Best Non-Holiday Monday B.O. YTD With $14M+ - Deadline — [read more](http://deadline.com/2025/11/wicked-for-good-merchandise-1236627543/)
-- Former Sen. Doug Jones launches Democratic bid for Alabama governor - NBC News — [read more](https://www.nbcnews.com/politics/2026-election/former-sen-doug-jones-launches-democratic-bid-alabama-governor-rcna245737)
-- Pentagon launches 'thorough review' into Democratic Sen. Mark Kelly over video to troops - ABC News — [read more](https://abcnews.go.com/Politics/pentagon-launching-review-democratic-sen-mark-kelly/story?id\\u003d127827953)
+Fetched on 2025-11-26 (UTC)
+- 49ers vs. Panthers live updates: Latest score, highlights & reaction on MNF - CBS Sports — [read more](https://www.cbssports.com/nfl/news/49ers-vs-panthers-live-updates-score-highlights-mnf/live/)
+- Worsening travel conditions, 60 mph winds forecast ahead of Thanksgiving storm system - MLive.com — [read more](https://www.mlive.com/weather/2025/11/worsening-travel-conditions-60-mph-winds-forecast-ahead-of-thanksgiving-storm-system.html)
+- Tyson’s beef plant closure in Nebraska will impact a reliant town and ranchers nationwide - AP News — [read more](https://apnews.com/article/beef-prices-tyson-plant-closing-a47113754d3a2962970481153657a02f)
+- Forde-Yard Dash: Rivalry Games Most Likely to Shake Up the CFP Picture - Sports Illustrated — [read more](https://www.si.com/wwwsicom/college-football/forde-yard-dash-rivalry-games-shake-up-cfp-picture)
+- Kandi Burruss Says Divorce From Todd Tucker Was a Long Time Coming - TMZ — [read more](https://www.tmz.com/2025/11/24/kandi-burruss-todd-tucker-divorce-brewing/)
 
 # Top Tech News
-Fetched on 2025-11-25 (UTC)
+Fetched on 2025-11-26 (UTC)
+- Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale - GameSpot — [read more](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
+- RAM prices are so out of control that stores are selling it like lobster - The Verge — [read more](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
 - Best Black Friday TV deals 2025: Save up to $1,300 on OLED TVs - Mashable — [read more](https://mashable.com/article/best-early-black-friday-tv-deals-hisense-samsung-tcl-2025)
 - Black Friday Streaming Deals Offered By Hulu, Disney+, HBO Max, Peacock & More - Deadline — [read more](http://deadline.com/2025/11/black-friday-streaming-service-deals-1236627347/)
-- Amazon’s Infamous ‘No Console Required’ Xbox Bundle is Back On Sale for Black Friday 2025 - IGN — [read more](https://www.ign.com/articles/amazon-no-console-required-xbox-bundle-with-pulse-cipher-controller-drops-to-its-lowest-price-ever-for-black-friday)
-- Level Up Your Look: Xbox and Crocs Launch Exclusive Gaming-Inspired Classic Clogs - Xbox Wire — [read more](https://news.xbox.com/en-us/2025/11/24/xbox-crocs-jibbitz/)
-- Timesplitters Remake Out Now On PC, Supports Online Co-Op - Kotaku — [read more](https://kotaku.com/timesplitters-rewind-remake-out-now-launch-pc-ps4-trailer-2000646972)
+- Meta’s new wearables trade-in program gives you Ray-Ban and Oakley discounts - The Verge — [read more](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit)
