@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-27 (UTC)
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 6988 stars
-- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2015 stars
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1363 stars
-- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 749 stars
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 729 stars
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 7138 stars
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2329 stars
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1424 stars
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 932 stars
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 778 stars
 
 # Top News Headlines
 Fetched on 2025-11-27 (UTC)
-- Snow to spread rapidly today, near white-out conditions with winds to 60 mph - MLive.com — [read more](https://www.mlive.com/weather/2025/11/snow-to-spread-rapidly-today-near-white-out-conditions-with-winds-to-60-mph.html)
-- World stocks climb after Wall Street rallies on hopes for lower interest rates - AP News — [read more](https://apnews.com/article/stocks-markets-rates-5d75e60a333fa9ba2931804403a77623)
-- Pope Leo takes message of peace to Middle East on first foreign visit. Here’s what to know - CNN — [read more](https://www.cnn.com/2025/11/26/middleeast/pope-leo-turkey-lebanon-first-trip-intl-cmd)
-- ‘Nobody will ever believe it’: James Comer airs doubts about his own Epstein investigation - Politico — [read more](https://www.politico.com/news/2025/11/26/james-comer-jeffrey-epstein-investigation-00669127)
+- Jackson Browne Announces the Death of His Son Ethan Browne, 52 - AOL.com — [read more](https://people.com/jackson-browne-son-ethan-dead-52-11858215)
+- Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech — [read more](https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html)
+- 2 National Guard members shot near White House: Officials - ABC News — [read more](https://abcnews.go.com/Politics/2-military-personnel-appearing-national-guard-shot-white/story?id\\u003d127905871)
+- Frank Ragnow is coming out of retirement - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-ragnow-is-coming-out-of-retirement)
+- Canada to Add New Tariffs to US Steel, Curb Foreign Imports - Yahoo Finance — [read more](https://finance.yahoo.com/news/canada-add-tariffs-us-steel-201810656.html)
 
 # Top Tech News
 Fetched on 2025-11-27 (UTC)
-- Destiny 3 Allegedly in 'Extremely Early Development', Could Be a Tentpole Title for PS6 - Push Square — [read more](https://www.pushsquare.com/news/2025/11/destiny-3-allegedly-in-extremely-early-development-could-be-a-tentpole-title-for-ps6)
-- PSA: You might want to skip the tempting $549 M1 MacBook Air deal this Black Friday - 9to5Mac — [read more](https://9to5mac.com/2025/11/25/macbook-air-m1-549-black-friday-deal-psa-reconsider/)
-- Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5 - The Verge — [read more](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
-- Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titles - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles)
-- Early Black Friday Deals Today: Gaming Deals Across Nintendo Switch, PlayStation 5 and Xbox - IGN — [read more](https://www.ign.com/articles/early-black-friday-deals-november-25)
+- Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech — [read more](https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html)
+- The Super Hero Team-based PVP Shooter - Marvel Rivals — [read more](https://www.marvelrivals.com/gameupdate/20251126/41548_1273366.html)
+- Black Friday Gaming Deals Are Here Early. Get 40+ Deals on Alienware, Xbox, PlayStation and Others - CNET — [read more](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-26/)
+- Every PS5 DualSense Controller Color and Limited Edition on Sale for Black Friday 2025 - IGN — [read more](https://www.ign.com/articles/every-ps5-dualsense-controller-deal-black-friday-2025)
