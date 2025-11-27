@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-26",
+  "date": "2025-11-27",
   "repos": [
     {
       "name": "karpathy/llm-council",
       "url": "https://github.com/karpathy/llm-council",
-      "stars": 6652
+      "stars": 6765
     },
     {
       "name": "Facepunch/sbox-public",
       "url": "https://github.com/Facepunch/sbox-public",
-      "stars": 1227
+      "stars": 1526
     },
     {
       "name": "HisMax/RedInk",
       "url": "https://github.com/HisMax/RedInk",
-      "stars": 981
+      "stars": 1121
     },
     {
-      "name": "hexagonal-sun/moss",
-      "url": "https://github.com/hexagonal-sun/moss",
-      "stars": 807
+      "name": "black-forest-labs/flux2",
+      "url": "https://github.com/black-forest-labs/flux2",
+      "stars": 676
     },
     {
-      "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
-      "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
-      "stars": 706
+      "name": "glidea/banana-prompt-quicker",
+      "url": "https://github.com/glidea/banana-prompt-quicker",
+      "stars": 663
     }
   ]
 }
