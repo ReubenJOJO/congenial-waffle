@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-11-27 (UTC)
+Fetched on 2025-11-28 (UTC)
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 7138 stars
-- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2329 stars
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1424 stars
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 932 stars
-- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 778 stars
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) ⭐ 7196 stars
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2398 stars
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1556 stars
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 1198 stars
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 798 stars
 
 # Top News Headlines
-Fetched on 2025-11-27 (UTC)
-- Jackson Browne Announces the Death of His Son Ethan Browne, 52 - AOL.com — [read more](https://people.com/jackson-browne-son-ethan-dead-52-11858215)
-- Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech — [read more](https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html)
-- 2 National Guard members shot near White House: Officials - ABC News — [read more](https://abcnews.go.com/Politics/2-military-personnel-appearing-national-guard-shot-white/story?id\\u003d127905871)
-- Frank Ragnow is coming out of retirement - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-ragnow-is-coming-out-of-retirement)
-- Canada to Add New Tariffs to US Steel, Curb Foreign Imports - Yahoo Finance — [read more](https://finance.yahoo.com/news/canada-add-tariffs-us-steel-201810656.html)
+Fetched on 2025-11-28 (UTC)
+- Death toll in Hong Kong fire rises to 44 with 279 still missing, authorities say - BBC — [read more](https://www.bbc.com/news/live/c2emg1kj1klt)
+- Two National Guard members in critical condition after shooting near White House - Axios — [read more](https://www.axios.com/2025/11/26/dc-shooting-white-house-national-guard)
+- Colorado doesn’t plan to transfer imprisoned former county clerk to federal custody - AP News — [read more](https://apnews.com/article/colorado-clerk-election-conspiracy-0a2cb663691cacae63ba8cd98d692bcf)
+- NC Republicans score win in redistricting lawsuit over 2026 congressional map - WRAL — [read more](https://www.wral.com/news/nccapitol/nc-republicans-win-gerrymandering-lawsuit-2026-map/)
 
 # Top Tech News
-Fetched on 2025-11-27 (UTC)
+Fetched on 2025-11-28 (UTC)
+- Pokémon Legends Z-A Version 1.0.3 Is Now Live, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-version-1-0-3-is-now-live-here-are-the-full-patch-notes)
+- The Steam Machine Doesn't Even Have To Try - GameSpot — [read more](https://www.gamespot.com/articles/the-steam-machine-doesnt-even-have-to-try/1100-6536541/)
+- Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’ - Kotaku — [read more](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
 - Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech — [read more](https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html)
 - The Super Hero Team-based PVP Shooter - Marvel Rivals — [read more](https://www.marvelrivals.com/gameupdate/20251126/41548_1273366.html)
-- Black Friday Gaming Deals Are Here Early. Get 40+ Deals on Alienware, Xbox, PlayStation and Others - CNET — [read more](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-26/)
-- Every PS5 DualSense Controller Color and Limited Edition on Sale for Black Friday 2025 - IGN — [read more](https://www.ign.com/articles/every-ps5-dualsense-controller-deal-black-friday-2025)

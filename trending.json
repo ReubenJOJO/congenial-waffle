@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-27",
+  "date": "2025-11-28",
   "repos": [
     {
       "name": "karpathy/llm-council",
       "url": "https://github.com/karpathy/llm-council",
-      "stars": 7138
+      "stars": 7196
     },
     {
       "name": "Facepunch/sbox-public",
       "url": "https://github.com/Facepunch/sbox-public",
-      "stars": 2329
+      "stars": 2398
     },
     {
       "name": "HisMax/RedInk",
       "url": "https://github.com/HisMax/RedInk",
-      "stars": 1424
+      "stars": 1556
     },
     {
       "name": "Tongyi-MAI/Z-Image",
       "url": "https://github.com/Tongyi-MAI/Z-Image",
-      "stars": 932
+      "stars": 1198
     },
     {
       "name": "black-forest-labs/flux2",
       "url": "https://github.com/black-forest-labs/flux2",
-      "stars": 778
+      "stars": 798
     }
   ]
 }

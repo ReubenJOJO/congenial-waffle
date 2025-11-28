@@ -1,30 +1,25 @@
 {
-  "date": "2025-11-27",
+  "date": "2025-11-28",
   "headlines": [
     {
-      "title": "Jackson Browne Announces the Death of His Son Ethan Browne, 52 - AOL.com",
-      "url": "https://people.com/jackson-browne-son-ethan-dead-52-11858215",
-      "source": "PEOPLE"
+      "title": "Death toll in Hong Kong fire rises to 44 with 279 still missing, authorities say - BBC",
+      "url": "https://www.bbc.com/news/live/c2emg1kj1klt",
+      "source": "BBC News"
     },
     {
-      "title": "Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html",
-      "source": "Yahoo Entertainment"
+      "title": "Two National Guard members in critical condition after shooting near White House - Axios",
+      "url": "https://www.axios.com/2025/11/26/dc-shooting-white-house-national-guard",
+      "source": "Axios"
     },
     {
-      "title": "2 National Guard members shot near White House: Officials - ABC News",
-      "url": "https://abcnews.go.com/Politics/2-military-personnel-appearing-national-guard-shot-white/story?id\\\\u003d127905871",
-      "source": "ABC News"
+      "title": "Colorado doesn’t plan to transfer imprisoned former county clerk to federal custody - AP News",
+      "url": "https://apnews.com/article/colorado-clerk-election-conspiracy-0a2cb663691cacae63ba8cd98d692bcf",
+      "source": "Associated Press"
     },
     {
-      "title": "Frank Ragnow is coming out of retirement - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-ragnow-is-coming-out-of-retirement",
-      "source": "NBCSports.com"
-    },
-    {
-      "title": "Canada to Add New Tariffs to US Steel, Curb Foreign Imports - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/canada-add-tariffs-us-steel-201810656.html",
-      "source": "Yahoo Entertainment"
+      "title": "NC Republicans score win in redistricting lawsuit over 2026 congressional map - WRAL",
+      "url": "https://www.wral.com/news/nccapitol/nc-republicans-win-gerrymandering-lawsuit-2026-map/",
+      "source": "WRAL.com"
     }
   ]
 }
