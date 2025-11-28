@@ -4,27 +4,27 @@
     {
       "name": "karpathy/llm-council",
       "url": "https://github.com/karpathy/llm-council",
-      "stars": 7341
+      "stars": 7491
     },
     {
       "name": "Facepunch/sbox-public",
       "url": "https://github.com/Facepunch/sbox-public",
-      "stars": 2539
-    },
-    {
-      "name": "HisMax/RedInk",
-      "url": "https://github.com/HisMax/RedInk",
-      "stars": 1765
+      "stars": 2634
     },
     {
       "name": "Tongyi-MAI/Z-Image",
       "url": "https://github.com/Tongyi-MAI/Z-Image",
-      "stars": 1687
+      "stars": 1869
     },
     {
-      "name": "black-forest-labs/flux2",
-      "url": "https://github.com/black-forest-labs/flux2",
-      "stars": 833
+      "name": "HisMax/RedInk",
+      "url": "https://github.com/HisMax/RedInk",
+      "stars": 1812
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-Math-V2",
+      "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
+      "stars": 890
     }
   ]
 }

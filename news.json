@@ -2,24 +2,29 @@
   "date": "2025-11-28",
   "headlines": [
     {
-      "title": "2 National Guard members remain in critical condition after 'targeted shooting' near White House - ABC News",
+      "title": "Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season - AP News",
+      "url": "https://apnews.com/article/ups-md11-planes-crash-louisville-13dbb6ec286ddc966c6bd1c9f3b3627c",
+      "source": "Associated Press"
+    },
+    {
+      "title": "1 of 2 National Guard members wounded in 'targeted shooting' has died, Trump says - ABC News",
       "url": "https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id\\\\u003d127924182",
       "source": "ABC News"
     },
     {
-      "title": "Europe strains to speak with one voice as U.S., Russia decide Ukraine’s fate - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/11/27/europe-ukraine-disunity-russia-trump/",
-      "source": "The Washington Post"
+      "title": "UFC 324: Paddy Pimblett to fight Justin Gaethje for interim lightweight title - BBC",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cp84n0gm130o",
+      "source": "BBC News"
     },
     {
-      "title": "A shark kills a woman and seriously wounds another swimmer at an Australian beach - AP News",
-      "url": "https://apnews.com/article/australia-shark-attack-killed-crowdy-bay-52b755f33703466f1d33a744455bb499",
-      "source": "Associated Press"
+      "title": "Canada rolls back climate rules to boost investments - Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2025/11/27/canada-rolls-back-climate-rules-to-boost-investments",
+      "source": "Al Jazeera English"
     },
     {
-      "title": "How extreme weather is making plastic pollution more mobile, more persistent and more hazardous - CNN",
-      "url": "https://www.cnn.com/2025/11/27/climate/how-extreme-weather-is-making-plastic-pollution-more-mobile-persistent-and-hazardous",
-      "source": "CNN"
+      "title": "Game recap: 5 takeaways from Packers’ Thanksgiving win over Lions - Green Bay Packers – packers.com",
+      "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-thanksgiving-win-over-lions-week-13-2025",
+      "source": "Packers.com"
     }
   ]
 }
