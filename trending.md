@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-29 (UTC)
 
-- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2755 stars
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 2214 stars
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1933 stars
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 992 stars
-- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 873 stars
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2794 stars
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 2331 stars
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 1948 stars
+- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1045 stars
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 900 stars
 
 # Top News Headlines
 Fetched on 2025-11-29 (UTC)
-- Exclusive | American Customers Are Madder Than Ever - The Wall Street Journal — [read more](https://www.wsj.com/articles/american-customers-are-madder-than-ever-b9de4b54)
-- NFL Thanksgiving wrap: Burrow leads Bengals to win in return, Cowboys outlast Chiefs and Love shines in Packers win - CNN — [read more](https://www.cnn.com/2025/11/28/sport/football-nfl-week-13-thanksgiving-day)
-- Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Windows Central — [read more](https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals)
-- Couch: 3 quick takes on Michigan State basketball's 74-58 win over North Carolina at Fort Myers Tip-off - Lansing State Journal — [read more](https://www.lansingstatejournal.com/story/sports/columnists/graham-couch/2025/11/27/msu-basketball-north-carolina-in-fort-myers-three-quick-takes/87489808007/)
+- Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence - AP News — [read more](https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651)
+- Bears vs. Eagles Live Updates | Black Friday - Philadelphia Eagles — [read more](https://www.philadelphiaeagles.com/news/eagles-bears-live-updates-game-recap-nfl-black-friday-week-13)
+- The next big battleground test: A Wisconsin race that has tortured Republicans - Politico — [read more](https://www.politico.com/news/2025/11/28/battleground-election-wisconsin-supreme-court-00669758)
+- Trump says he's canceling all Biden orders that were signed using an autopen - CBS News — [read more](https://www.cbsnews.com/news/trump-cancels-biden-orders-signed-autopen/)
 
 # Top Tech News
 Fetched on 2025-11-29 (UTC)
-- The Black Friday Gaming Deals Are Here. Shop Now and Save Big on PlayStation, Xbox and Alienware - CNET — [read more](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-28/)
-- This $500 Dell Laptop Will Blow You Away, and It's Only This Cheap Today - WIRED — [read more](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)
-- Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Windows Central — [read more](https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals)
-- I'm picking the best PS5 Black Friday deals live — discounts from $19 on consoles, controllers, games and more - Tom's Guide — [read more](https://www.tomsguide.com/live/news/black-friday-ps5-deals-live-2025)
-- Black Friday AirPods 4 and AirPods Pro deals: Apple's latest now at the best prices ever from $69 - 9to5Toys — [read more](http://9to5toys.com/2025/11/28/black-friday-airpods-deals/)
+- The Best Black Friday Gaming Deals Are Here With Big Savings on PlayStation, Xbox, Switch Games and More - CNET — [read more](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-28/)
+- Let’s talk Dynamax Lugia: Meta-changing, or just good-to-have? - Pokémon GO Hub — [read more](https://pokemongohub.net/post/meta/lets-talk-dynamax-lugia-meta-changing-or-just-good-to-have/)
+- Bose, Sony, and Apple headphones are cheaper than ever for Black Friday - The Verge — [read more](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)
+- All Skins In Marvel Rivals One-Year Anniversary Event - GameSpot — [read more](https://www.gamespot.com/gallery/all-skins-in-marvel-rivals-one-year-anniversary-event/2900-7291/)
+- Apple’s most affordable iPad is over 20 percent off for Black Friday - The Verge — [read more](https://www.theverge.com/gadgets/832251/apple-ipad-air-mini-pro-black-friday-deal-sale-2025)
