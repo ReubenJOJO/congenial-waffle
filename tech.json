@@ -1,6 +1,21 @@
 {
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "tech": [
+    {
+      "title": "I just found the 13 best Black Friday laptop and computer deals so you don’t have to - CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-27",
+      "source": "CNN"
+    },
+    {
+      "title": "Grab an Apple Watch as low as $129 for Thanksgiving: Series 11 all-time lows, SE 2/3 up to $170 off - 9to5Toys",
+      "url": "http://9to5toys.com/2025/11/27/apple-watch-129-thanksgiving-series-11/",
+      "source": "9to5Toys"
+    },
+    {
+      "title": "The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday - The Verge",
+      "url": "https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025",
+      "source": "The Verge"
+    },
     {
       "title": "Google changes Gemini 3 Pro free access limits due to ‘high demand’ - 9to5Google",
       "url": "http://9to5google.com/2025/11/27/gemini-3-pro-free-limits/",
@@ -10,21 +25,6 @@
       "title": "The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday - The Verge",
       "url": "https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025",
       "source": "The Verge"
-    },
-    {
-      "title": "MacBook Air, Mac mini, and more hit new lows for Black Friday: from $479 - 9to5Mac",
-      "url": "https://9to5mac.com/2025/11/27/black-friday-new-lows-on-macbook-air-mac-mini-more/",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Kirby Air Riders tech analysis, including frame rate and resolution - Nintendo Everything",
-      "url": "https://nintendoeverything.com/kirby-air-riders-tech-analysis-including-frame-rate-and-resolution/",
-      "source": "Nintendoeverything.com"
-    },
-    {
-      "title": "57+ Apple Black Friday deals LIVE: iPhone, AirPods, MacBooks and more - Tom's Guide",
-      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-2025",
-      "source": "Tom's Guide"
     }
   ]
 }
