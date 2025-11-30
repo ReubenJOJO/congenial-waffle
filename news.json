@@ -1,25 +1,30 @@
 {
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "headlines": [
     {
-      "title": "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence - AP News",
-      "url": "https://apnews.com/article/trump-hernandez-honduras-pardon-96ac8d1d44d438f64beb8b24ca54b651",
-      "source": "Associated Press"
+      "title": "Texas vs. Texas A&M live updates, score, game analysis and highlights - CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/texas-texas-a-m-live-updates-score-results-analysis/live/",
+      "source": "CBS Sports"
     },
     {
-      "title": "Bears vs. Eagles Live Updates | Black Friday - Philadelphia Eagles",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-bears-live-updates-game-recap-nfl-black-friday-week-13",
-      "source": "PhiladelphiaEagles.com"
+      "title": "The best Black Friday deals you can still get on iPads, AirPods, and other Apple gear - The Verge",
+      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+      "source": "The Verge"
     },
     {
-      "title": "The next big battleground test: A Wisconsin race that has tortured Republicans - Politico",
-      "url": "https://www.politico.com/news/2025/11/28/battleground-election-wisconsin-supreme-court-00669758",
-      "source": "Politico"
+      "title": "Jessica Simpson Reveals She Spent Thanksgiving with Family and Estranged Husband Eric Johnson: 'Family First' - Yahoo News UK",
+      "url": "https://people.com/jessica-simpson-spent-thanksgiving-with-family-ex-eric-johnson-11858836",
+      "source": "PEOPLE"
     },
     {
-      "title": "Trump says he's canceling all Biden orders that were signed using an autopen - CBS News",
-      "url": "https://www.cbsnews.com/news/trump-cancels-biden-orders-signed-autopen/",
-      "source": "CBS News"
+      "title": "Nasdaq Notches First Monthly Loss Since March as Dow, S&P 500 Make Gains - The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-27-2025-3eae00a5",
+      "source": "The Wall Street Journal"
+    },
+    {
+      "title": "Chicago Bears beat Philadelphia Eagles 24-15 to stretch NFL winning streak to five matches - BBC",
+      "url": "https://www.bbc.com/sport/american-football/articles/c783w4e30jyo",
+      "source": "BBC News"
     }
   ]
 }
