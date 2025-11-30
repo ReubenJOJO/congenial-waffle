@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-11-30 (UTC)
 
-- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2854 stars
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 2657 stars
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 2009 stars
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1132 stars
-- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 954 stars
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 2881 stars
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 2802 stars
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) ⭐ 2023 stars
+- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1172 stars
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) ⭐ 965 stars
 
 # Top News Headlines
 Fetched on 2025-11-30 (UTC)
-- WATCH: Piastri holds lead from pole in Qatar Sprint start - Formula 1 — [read more](https://www.formula1.com/en/latest/article/sprint-start-watch-the-opening-lap-of-the-qatar-sprint-as-piastri-maintains.1rafI9sJb0NfTV8hbxFQYK)
-- Seton Hall abuse investigation stalls after ex-president’s aborted interview - Politico — [read more](https://www.politico.com/news/2025/11/29/seton-hall-abuse-investigation-former-president-00668657)
-- Trump says Venezuela airspace to be closed - Financial Times — [read more](https://www.ft.com/content/8acf0e8d-8383-48f3-a273-40712400f99d)
-- I’ve found the 19 best Black Friday laptop and computer deals that are still alive - CNN — [read more](https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-28)
-- Democrats bet on a ‘Trump slump’ to take back Nevada - Politico — [read more](https://www.politico.com/news/2025/11/29/nevada-governor-race-trump-lombardo-economy-democrats-00669795)
+- Tom Stoppard, playwright of electric verve, dies at 88 - The Washington Post — [read more](https://www.washingtonpost.com/obituaries/2025/11/29/tom-stoppard-playwright-dead/)
+- Nick Saban makes pick for 2025 Iron Bowl between Alabama, Auburn - 247Sports — [read more](https://247sports.com/college/alabama/article/nick-saban-makes-pick-for-2025-iron-bowl-between-alabama-auburn-263822810/)
+- The Wiggles issue statement after appearing in Ecstasy music video - BBC — [read more](https://www.bbc.com/news/articles/cp39yw120kdo)
+- Venezuela calls Trump airspace closure warning 'colonialist threat' - BBC — [read more](https://www.bbc.com/news/articles/c741mpdyw9no)
+- Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians - Politico — [read more](https://www.politico.com/news/2025/11/29/pope-istanbul-catholic-lebanon-00670829)
 
 # Top Tech News
 Fetched on 2025-11-30 (UTC)
-- I’ve found the 19 best Black Friday laptop and computer deals that are still alive - CNN — [read more](https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-28)
-- Best Black Friday Pokémon deals 2025: Trading cards, games, collectibles, and more - Mashable — [read more](https://mashable.com/article/best-black-friday-pokemon-deals-2025-still-available)
-- The Best Nintendo Deals for Black Friday 2025: Discounts on Switch Consoles, Games, and More - IGN — [read more](https://www.ign.com/articles/nintendo-black-friday-2025-best-deals)
-- Covid 2020: The surreal 'hugging room' in a care home - BBC — [read more](https://www.bbc.com/future/article/20251128-covid-2020-the-surreal-hugging-room-in-a-care-home)
-- MSI GeForce RTX 5070 SHADOW 2X OC drops to $479, $70 under NVIDIA MSRP - VideoCardz.com — [read more](https://videocardz.com/newz/msi-geforce-rtx-5070-shadow-2x-oc-drops-to-479-70-under-nvidia-msrp)
+- Fortnite Zero Hour Live Event Draws 10.5 Million Players, As Godzilla, King Kong, Iron Man and KPop Demon Hunters Unite For Avengers: Endgame-Style Finale - IGN — [read more](https://www.ign.com/articles/fortnite-zero-hour-live-event-draws-105-million-players-as-godzilla-king-kong-iron-man-and-kpop-demon-hunters-unite-for-avengers-endgame-style-finale)
+- Nintendo goes live with more Switch 1 backwards compatibility fixes for Switch 2, and Resident Evil 4 is broken - Nintendo Everything — [read more](https://nintendoeverything.com/nintendo-goes-live-with-more-switch-1-backwards-compatibility-fixes-for-switch-2/)
+- Apple AirPods Are Over 40% Off at Walmart with Free Shipping — Going Fast - Athlon Sports — [read more](https://athlonsports.com/deals/apple-airpods-walmart-sale-black-friday-2025)
+- The Android phone you should buy your dad is just $349 - The Verge — [read more](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)
+- Fortnite servers down - How long is maintenance scheduled for Chapter 7 - All Out Gaming — [read more](https://www.allout-gaming.com/news/fortnite-servers-down-how-long-1534317)
