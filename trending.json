@@ -1,30 +1,30 @@
 {
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "repos": [
-    {
-      "name": "Facepunch/sbox-public",
-      "url": "https://github.com/Facepunch/sbox-public",
-      "stars": 2881
-    },
     {
       "name": "Tongyi-MAI/Z-Image",
       "url": "https://github.com/Tongyi-MAI/Z-Image",
-      "stars": 2802
+      "stars": 2995
     },
     {
       "name": "HisMax/RedInk",
       "url": "https://github.com/HisMax/RedInk",
-      "stars": 2023
+      "stars": 2068
     },
     {
       "name": "deepseek-ai/DeepSeek-Math-V2",
       "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-      "stars": 1172
+      "stars": 1198
     },
     {
-      "name": "black-forest-labs/flux2",
-      "url": "https://github.com/black-forest-labs/flux2",
-      "stars": 965
+      "name": "Rohithgilla12/data-peek",
+      "url": "https://github.com/Rohithgilla12/data-peek",
+      "stars": 900
+    },
+    {
+      "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+      "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+      "stars": 691
     }
   ]
 }
