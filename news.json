@@ -1,24 +1,29 @@
 {
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "headlines": [
     {
-      "title": "Huskers Open NCAA Tournament As No. 1 Seed Against Long Island - huskers.com",
-      "url": "https://huskers.com/news/2025/11/30/huskers-open-ncaa-tournament-as-no-1-seed-against-long-island",
-      "source": "Huskers.com"
+      "title": "Kevin O'Connell on J.J. McCarthy, benching Thielen, 4th and 1 call, more - Sports Illustrated",
+      "url": "https://www.si.com/nfl/vikings/onsi/news/kevin-oconnell-on-jj-mccarthy-benching-thielen-4th-and-1-call-more",
+      "source": "Sports Illustrated"
     },
     {
-      "title": "Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday - The Verge",
-      "url": "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025",
+      "title": "Lane Kiffin, Thanksgiving and CFB conference champs: A busy weekend at the sportsbooks - ESPN",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47157648/nfl-betting-week-13-super-bowl-favorites-odds-lane-kiffin-cfb",
+      "source": "ESPN"
+    },
+    {
+      "title": "The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The Verge",
+      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
       "source": "The Verge"
     },
     {
-      "title": "Stock futures are little changed as traders get ready for the final month of the year: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/11/30/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "title": "Trump says he'll release MRI results and that he doesn't know what part of his body was scanned - NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-release-mri-results-doesnt-know-part-body-was-scanned-rcna246694",
+      "source": "NBC News"
     },
     {
-      "title": "Column | In embrace of ‘remigration,’ Trump echoes Europe’s far right - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/11/30/remigration-trump-far-right-europe/",
+      "title": "As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/11/30/pope-leo-lebanon-christians-middle-east/",
       "source": "The Washington Post"
     }
   ]
