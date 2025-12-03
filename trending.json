@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "repos": [
-    {
-      "name": "Tongyi-MAI/Z-Image",
-      "url": "https://github.com/Tongyi-MAI/Z-Image",
-      "stars": 3891
-    },
     {
       "name": "deepseek-ai/DeepSeek-Math-V2",
       "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-      "stars": 1351
+      "stars": 1359
     },
     {
       "name": "Rohithgilla12/data-peek",
       "url": "https://github.com/Rohithgilla12/data-peek",
-      "stars": 1124
+      "stars": 1132
     },
     {
       "name": "portrret/spyder-osint",
       "url": "https://github.com/portrret/spyder-osint",
-      "stars": 832
+      "stars": 849
+    },
+    {
+      "name": "666OS/ClashMac",
+      "url": "https://github.com/666OS/ClashMac",
+      "stars": 834
     },
     {
       "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
       "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-      "stars": 796
+      "stars": 805
     }
   ]
 }

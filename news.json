@@ -1,20 +1,25 @@
 {
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "headlines": [
     {
-      "title": "Jeffries says Johnson ‘tanked’ Trump’s health care proposal - Politico",
-      "url": "https://www.politico.com/live-updates/2025/12/01/congress/jeffries-says-johnson-tanked-trumps-health-care-proposal-00671922",
-      "source": "Politico"
-    },
-    {
-      "title": "For the first time since 1988, the U.S. is not officially commemorating World AIDS Day - NPR",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/12/01/g-s1-99925/world-aids-day-trump",
-      "source": "NPR"
-    },
-    {
-      "title": "Lawmakers spoke privately to Trump’s top general after boat strike revelations - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/12/01/hegseth-caine-boat-strikes-caribbean/",
+      "title": "Guest column | How Nick Saban and ESPN tried to help Lane Kiffin coach two teams at once - The Washington Post",
+      "url": "https://www.washingtonpost.com/sports/2025/12/01/lane-kiffin-espn-coverage-nick-saban/",
       "source": "The Washington Post"
+    },
+    {
+      "title": "Patriots vs. Giants score, live updates, highlights for Monday Night Football - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/patriots-giants-score-live-updates-highlights-reaction-week-13-mnf/live/",
+      "source": "CBS Sports"
+    },
+    {
+      "title": "Justin Herbert underwent surgery on his left hand Monday - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-underwent-surgery-on-his-hand-monday",
+      "source": "NBCSports.com"
+    },
+    {
+      "title": "Treasury investigating whether Minnesota welfare money went to Somali terror group al Shabaab, Bessent says - CBS News",
+      "url": "https://www.cbsnews.com/news/treasury-investigating-minnesota-somalia-al-shabaab-bessent-says/",
+      "source": "CBS News"
     }
   ]
 }

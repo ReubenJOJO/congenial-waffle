@@ -1,22 +1,22 @@
 # Trending GitHub Repositories
-Fetched on 2025-12-02 (UTC)
+Fetched on 2025-12-03 (UTC)
 
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) ⭐ 3891 stars
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1351 stars
-- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) ⭐ 1124 stars
-- [portrret/spyder-osint](https://github.com/portrret/spyder-osint) ⭐ 832 stars
-- [Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) ⭐ 796 stars
+- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1359 stars
+- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) ⭐ 1132 stars
+- [portrret/spyder-osint](https://github.com/portrret/spyder-osint) ⭐ 849 stars
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) ⭐ 834 stars
+- [Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) ⭐ 805 stars
 
 # Top News Headlines
-Fetched on 2025-12-02 (UTC)
-- Jeffries says Johnson ‘tanked’ Trump’s health care proposal - Politico — [read more](https://www.politico.com/live-updates/2025/12/01/congress/jeffries-says-johnson-tanked-trumps-health-care-proposal-00671922)
-- For the first time since 1988, the U.S. is not officially commemorating World AIDS Day - NPR — [read more](https://www.npr.org/sections/goats-and-soda/2025/12/01/g-s1-99925/world-aids-day-trump)
-- Lawmakers spoke privately to Trump’s top general after boat strike revelations - The Washington Post — [read more](https://www.washingtonpost.com/national-security/2025/12/01/hegseth-caine-boat-strikes-caribbean/)
+Fetched on 2025-12-03 (UTC)
+- Guest column | How Nick Saban and ESPN tried to help Lane Kiffin coach two teams at once - The Washington Post — [read more](https://www.washingtonpost.com/sports/2025/12/01/lane-kiffin-espn-coverage-nick-saban/)
+- Patriots vs. Giants score, live updates, highlights for Monday Night Football - CBS Sports — [read more](https://www.cbssports.com/nfl/news/patriots-giants-score-live-updates-highlights-reaction-week-13-mnf/live/)
+- Justin Herbert underwent surgery on his left hand Monday - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-underwent-surgery-on-his-hand-monday)
+- Treasury investigating whether Minnesota welfare money went to Somali terror group al Shabaab, Bessent says - CBS News — [read more](https://www.cbsnews.com/news/treasury-investigating-minnesota-somalia-al-shabaab-bessent-says/)
 
 # Top Tech News
-Fetched on 2025-12-02 (UTC)
+Fetched on 2025-12-03 (UTC)
+- Samsung’s Z TriFold is official and it looks like a tablet with a phone attached - The Verge — [read more](https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability)
+- Elden Ring Nightreign's Forsaken Hollows Has Reignited My Interest With Exciting Additions - GameSpot — [read more](https://www.gamespot.com/articles/elden-ring-nightreign-forsaken-hollows-dlc-has-reignited-my-interest/1100-6536543/)
 - I'm tracking the best Cyber Monday Apple Watch deals LIVE! Biggest discounts on Apple Watch 11, SE and Ultra 3 right now - Tom's Guide — [read more](https://www.tomsguide.com/live/news/cyber-monday-apple-watch-deals-2025)
-- LET IT DIE offline version announced - Gematsu — [read more](https://www.gematsu.com/2025/12/let-it-die-offline-version-announced)
-- John Giannandrea to retire from Apple - Apple — [read more](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
-- DualSense Wireless Controller – Genshin Impact Limited Edition announced - Gematsu — [read more](https://www.gematsu.com/2025/12/dualsense-wireless-controller-genshin-impact-limited-edition-announced)
-- Netflix Won’t Let You Cast Shows From Your Phone to Your TV Anymore - WIRED — [read more](https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/)
+- Apple Artificial Intelligence Head to Leave After AI Struggles - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-12-01/apple-artificial-intelligence-head-to-leave-after-ai-struggles)

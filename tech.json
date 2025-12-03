@@ -1,30 +1,25 @@
 {
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "tech": [
+    {
+      "title": "Samsung’s Z TriFold is official and it looks like a tablet with a phone attached - The Verge",
+      "url": "https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability",
+      "source": "The Verge"
+    },
+    {
+      "title": "Elden Ring Nightreign's Forsaken Hollows Has Reignited My Interest With Exciting Additions - GameSpot",
+      "url": "https://www.gamespot.com/articles/elden-ring-nightreign-forsaken-hollows-dlc-has-reignited-my-interest/1100-6536543/",
+      "source": "GameSpot"
+    },
     {
       "title": "I'm tracking the best Cyber Monday Apple Watch deals LIVE! Biggest discounts on Apple Watch 11, SE and Ultra 3 right now - Tom's Guide",
       "url": "https://www.tomsguide.com/live/news/cyber-monday-apple-watch-deals-2025",
       "source": "Tom's Guide"
     },
     {
-      "title": "LET IT DIE offline version announced - Gematsu",
-      "url": "https://www.gematsu.com/2025/12/let-it-die-offline-version-announced",
-      "source": "Gematsu"
-    },
-    {
-      "title": "John Giannandrea to retire from Apple - Apple",
-      "url": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/",
-      "source": "Apple Newsroom"
-    },
-    {
-      "title": "DualSense Wireless Controller – Genshin Impact Limited Edition announced - Gematsu",
-      "url": "https://www.gematsu.com/2025/12/dualsense-wireless-controller-genshin-impact-limited-edition-announced",
-      "source": "Gematsu"
-    },
-    {
-      "title": "Netflix Won’t Let You Cast Shows From Your Phone to Your TV Anymore - WIRED",
-      "url": "https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/",
-      "source": "Wired"
+      "title": "Apple Artificial Intelligence Head to Leave After AI Struggles - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-01/apple-artificial-intelligence-head-to-leave-after-ai-struggles",
+      "source": "Bloomberg"
     }
   ]
 }
