@@ -1,23 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-03 (UTC)
 
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1375 stars
-- [666OS/ClashMac](https://github.com/666OS/ClashMac) ⭐ 1179 stars
-- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) ⭐ 1149 stars
-- [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) ⭐ 823 stars
-- [Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary) ⭐ 820 stars
+- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) ⭐ 1382 stars
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) ⭐ 1259 stars
+- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) ⭐ 1166 stars
+- [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) ⭐ 843 stars
+- [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) ⭐ 837 stars
 
 # Top News Headlines
 Fetched on 2025-12-03 (UTC)
-- Franklin the Turtle publisher slams Hegseth for ‘violent’ boat strike post - Politico — [read more](https://www.politico.com/news/2025/12/02/canadian-publisher-hegseth-boat-strike-post-00672357)
-- Cyber Monday 2025: Live updates on deals still live from Amazon, Apple, Best Buy, Walmart, and more - Mashable — [read more](https://mashable.com/live/cyber-monday-deals-still-live-2025)
-- 'Looks like the CEO shooter': NY court hears call that led to Luigi Mangione's arrest - Gothamist — [read more](https://gothamist.com/news/luigi-mangione-in-manhattan-court-as-judge-weighs-evidence-before-trial)
-- The Democrat who refuses to gerrymander - Politico — [read more](https://www.politico.com/news/2025/12/02/bill-ferguson-wes-moore-00664770)
+- Suspect in DC shooting of 2 National Guard members formally charged with murder - ABC News — [read more](https://abcnews.go.com/US/suspect-dc-shooting-2-national-guard-members-formally/story?id\\u003d128047008)
+- Luna pushes to force a vote banning congressional stock trading - Politico — [read more](https://www.politico.com/live-updates/2025/12/02/congress/anna-paulina-luna-congressional-stock-trading-ban-00673180)
+- The Patriots Have Taken on Mike Vrabel’s Identity - Sports Illustrated — [read more](https://www.si.com/nfl/patriots-taken-mike-vrabel-identity)
 
 # Top Tech News
 Fetched on 2025-12-03 (UTC)
-- Rockstar Causes Confusion Over Red Dead Redemption Upgrade On Xbox - Pure Xbox — [read more](https://www.purexbox.com/news/2025/12/rockstar-causes-confusion-over-red-dead-redemption-upgrade-on-xbox)
-- Lexus Sports Car Will Be Unveiled Together With The GR GT - Carscoops — [read more](https://www.carscoops.com/2025/12/lexus-has-a-surprise-or-three-for-sports-car-fans/)
-- Google Starts Sharing All Your Text Messages With Your Employer - Forbes — [read more](https://www.forbes.com/sites/zakdoffman/2025/12/02/google-starts-sharing-all-your-text-messages-with-your-employer/)
-- Updated Android Security Bulletin sets stage for a hefty December 2025 security patch - Android Authority — [read more](https://www.androidauthority.com/december-2025-android-security-bulletin-3621152/)
-- Best Cyber Monday 2025 deals at Best Buy: AirPods Max, Windows laptops, and more - Mashable — [read more](https://mashable.com/article/best-cyber-monday-best-buy-deals-live-2025)
+- The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday - The Verge — [read more](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
+- Steam Machine today, Steam Phones tomorrow - The Verge — [read more](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
+- The Sims 4 Prairie Dreams Creator Kit Coming December 11th - Sims Community — [read more](https://simscommunity.info/2025/12/02/sims-4-prairie-dreams-creator-kit/)
+- Google is bringing AI-powered notification summaries to more Android devices - The Verge — [read more](https://www.theverge.com/news/836490/google-android-16-update-ai-notification-summaries)
+- Epic Games Store decides "at the last minute" not to distribute Horses - GamesIndustry.biz — [read more](https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses)
