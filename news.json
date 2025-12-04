@@ -1,20 +1,30 @@
 {
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "headlines": [
     {
-      "title": "Suspect in DC shooting of 2 National Guard members formally charged with murder - ABC News",
-      "url": "https://abcnews.go.com/US/suspect-dc-shooting-2-national-guard-members-formally/story?id\\\\u003d128047008",
-      "source": "ABC News"
+      "title": "Trump appears to doze off in another meeting - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/12/02/donald-trump-drowsy-cabinet-meeting/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Luna pushes to force a vote banning congressional stock trading - Politico",
-      "url": "https://www.politico.com/live-updates/2025/12/02/congress/anna-paulina-luna-congressional-stock-trading-ban-00673180",
+      "title": "Ole Miss Players Call Out Lane Kiffin's Account of Team Meeting Before Exit for LSU - Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25313521-ole-miss-players-call-out-lane-kiffins-account-team-meeting-exit-lsu",
+      "source": "Bleacher Report"
+    },
+    {
+      "title": "Progressive topples former New Jersey Gov. Jim McGreevey in Jersey City mayoral runoff - Politico",
+      "url": "https://www.politico.com/news/2025/12/02/james-solomon-jersey-city-mayoral-race-00674050",
       "source": "Politico"
     },
     {
-      "title": "The Patriots Have Taken on Mike Vrabel’s Identity - Sports Illustrated",
-      "url": "https://www.si.com/nfl/patriots-taken-mike-vrabel-identity",
-      "source": "Sports Illustrated"
+      "title": "Tennessee House Special Election 2025 Live Results - NBC News",
+      "url": "https://www.nbcnews.com/politics/2025-special-elections/tennessee-house-results",
+      "source": "NBC News"
+    },
+    {
+      "title": "U.S. halts all immigration cases — including citizenship ceremonies — for nationals of 19 countries, internal guidance says - CBS News",
+      "url": "https://www.cbsnews.com/news/trump-administration-halts-immigration-citizenship-for-19-countries/",
+      "source": "CBS News"
     }
   ]
 }

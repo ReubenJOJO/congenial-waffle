@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "repos": [
-    {
-      "name": "deepseek-ai/DeepSeek-Math-V2",
-      "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-      "stars": 1382
-    },
     {
       "name": "666OS/ClashMac",
       "url": "https://github.com/666OS/ClashMac",
-      "stars": 1259
+      "stars": 1357
     },
     {
       "name": "Rohithgilla12/data-peek",
       "url": "https://github.com/Rohithgilla12/data-peek",
-      "stars": 1166
-    },
-    {
-      "name": "Gururagavendra/gmail-cleaner",
-      "url": "https://github.com/Gururagavendra/gmail-cleaner",
-      "stars": 843
+      "stars": 1178
     },
     {
       "name": "stepfun-ai/gelab-zero",
       "url": "https://github.com/stepfun-ai/gelab-zero",
-      "stars": 837
+      "stars": 858
+    },
+    {
+      "name": "Gururagavendra/gmail-cleaner",
+      "url": "https://github.com/Gururagavendra/gmail-cleaner",
+      "stars": 849
+    },
+    {
+      "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+      "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+      "stars": 841
     }
   ]
 }
