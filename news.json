@@ -1,19 +1,29 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "headlines": [
     {
-      "title": "New details emerge in deadly shooting of two National Guard members - USA Today",
-      "url": "https://www.usatoday.com/story/news/nation/2025/12/02/national-guard-shooting-victims-shot-in-head/87572889007/",
-      "source": "USA Today"
+      "title": "White House renames building the ‘Donald J. Trump Institute of Peace’ - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/12/03/trump-name-peace-building/",
+      "source": "The Washington Post"
     },
     {
-      "title": "Miley Cyrus confirms engagement to musician Maxx Morando - BBC",
-      "url": "https://www.bbc.com/news/articles/cwypwxprjd4o",
-      "source": "BBC News"
+      "title": "Trump's lawmaker pardon list stretches beyond Henry Cuellar - Axios",
+      "url": "https://www.axios.com/2025/12/03/trump-pardons-lawmakers-henry-cuellar",
+      "source": "Axios"
     },
     {
-      "title": "New details emerge about controversial Sept. 2 strike on alleged drug boat that killed survivors - ABC News",
-      "url": "https://abcnews.go.com/Politics/new-details-emerge-controversial-sept-2-strike-alleged/story?id\\\\u003d128090044",
+      "title": "Republicans begin to tighten the screws on Hegseth’s Pentagon - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/12/03/hegseth-boat-strike-republicans/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Trump announces plans to weaken fuel efficiency rules for cars and trucks - The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/12/03/fuel-efficiency-rules-rollback/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say - ABC News",
+      "url": "https://abcnews.go.com/Politics/pentagon-ig-concluded-hegseth-risked-exposing-classified-info/story?id\\\\u003d128079227",
       "source": "ABC News"
     }
   ]

@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "repos": [
-    {
-      "name": "666OS/ClashMac",
-      "url": "https://github.com/666OS/ClashMac",
-      "stars": 1473
-    },
-    {
-      "name": "Rohithgilla12/data-peek",
-      "url": "https://github.com/Rohithgilla12/data-peek",
-      "stars": 1216
-    },
-    {
-      "name": "stepfun-ai/gelab-zero",
-      "url": "https://github.com/stepfun-ai/gelab-zero",
-      "stars": 923
-    },
     {
       "name": "Gururagavendra/gmail-cleaner",
       "url": "https://github.com/Gururagavendra/gmail-cleaner",
-      "stars": 872
+      "stars": 880
     },
     {
-      "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-      "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-      "stars": 851
+      "name": "ejpir/CVE-2025-55182-research",
+      "url": "https://github.com/ejpir/CVE-2025-55182-research",
+      "stars": 570
+    },
+    {
+      "name": "antonmedv/gitmal",
+      "url": "https://github.com/antonmedv/gitmal",
+      "stars": 548
+    },
+    {
+      "name": "TelegramMessenger/cocoon",
+      "url": "https://github.com/TelegramMessenger/cocoon",
+      "stars": 502
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "stars": 410
     }
   ]
 }

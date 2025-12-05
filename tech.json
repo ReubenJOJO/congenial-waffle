@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "tech": [
+    {
+      "title": "This is how Google Fi’s new Web Calls and RCS system works, rolling out now - 9to5Google",
+      "url": "http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/",
+      "source": "9to5google.com"
+    },
+    {
+      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
+      "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
+      "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Escape From Tarkov Players Are Finally Escaping From Tarkov - GameSpot",
+      "url": "https://www.gamespot.com/articles/escape-from-tarkov-players-are-finally-escaping-from-tarkov/1100-6536684/",
+      "source": "GameSpot"
+    },
     {
       "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
       "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/",
       "source": "Dexerto"
-    },
-    {
-      "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
-      "url": "https://www.thejimquisition.com/post/marvel-cosmic-invasion-shitomatic-universe-review",
-      "source": "Thejimquisition.com"
-    },
-    {
-      "title": "Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Apple releases iOS 26.2 RC for iPhone - 9to5Mac",
-      "url": "https://9to5mac.com/2025/12/03/apple-releases-ios-26-2-rc-for-iphone/",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Tencent's alleged Horizon rip-off is ironically back in the news as company agrees to halt promotion amid Sony lawsuit - Eurogamer",
-      "url": "https://www.eurogamer.net/tencents-alleged-horizon-rip-off-is-ironically-back-in-the-news-as-company-agrees-to-halt-promotion-amid-sony-lawsuit",
-      "source": "Eurogamer.net"
     }
   ]
 }
