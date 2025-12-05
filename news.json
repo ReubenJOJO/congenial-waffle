@@ -2,28 +2,28 @@
   "date": "2025-12-05",
   "headlines": [
     {
-      "title": "Trump’s crackdown on Russian oil hangs heavy over Putin visit to India - The Washington Post",
+      "title": "‘Signalgate’ report contradicts Hegseth’s claim of ‘total exoneration’ - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/12/04/signal-pete-hegseth-inspector-general/",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Vance says antisemitism isn't 'exploding' on the right - NBC News",
+      "url": "https://www.nbcnews.com/politics/jd-vance/vance-says-antisemitism-isnt-exploding-right-rcna247414",
+      "source": "NBC News"
+    },
+    {
+      "title": "Trump’s crackdown on Russian oil hangs heavy as Putin arrives in India - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2025/12/04/putin-india-modi-trump-russia-oil/",
       "source": "The Washington Post"
     },
     {
-      "title": "Look up tonight to see the year’s final supermoon - The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2025/12/04/super-full-moon-december-viewing/",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/meta-s-zuckerberg-plans-deep-cuts-for-metaverse-efforts",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "The 100 Best Songs of 2025 - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-lists/best-songs-of-2025-1235468614/",
-      "source": "Rolling Stone"
-    },
-    {
-      "title": "FBI arrests suspect in 2021 D.C. pipe bomb case, sources say - CBS News",
+      "title": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man - CBS News",
       "url": "https://www.cbsnews.com/news/pipe-bomb-suspect-arrest/",
+      "source": "CBS News"
+    },
+    {
+      "title": "U.S. tightens immigration work permits in latest move to expand crackdown - CBS News",
+      "url": "https://www.cbsnews.com/news/immigration-work-permits-uscis/",
       "source": "CBS News"
     }
   ]
