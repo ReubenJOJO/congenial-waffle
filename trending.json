@@ -4,27 +4,27 @@
     {
       "name": "antonmedv/gitmal",
       "url": "https://github.com/antonmedv/gitmal",
-      "stars": 653
+      "stars": 678
     },
     {
       "name": "ejpir/CVE-2025-55182-research",
       "url": "https://github.com/ejpir/CVE-2025-55182-research",
-      "stars": 650
-    },
-    {
-      "name": "TelegramMessenger/cocoon",
-      "url": "https://github.com/TelegramMessenger/cocoon",
-      "stars": 513
+      "stars": 655
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 513
+      "stars": 592
+    },
+    {
+      "name": "TelegramMessenger/cocoon",
+      "url": "https://github.com/TelegramMessenger/cocoon",
+      "stars": 516
     },
     {
       "name": "msanft/CVE-2025-55182",
       "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 471
+      "stars": 501
     }
   ]
 }
