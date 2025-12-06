@@ -2,29 +2,29 @@
   "date": "2025-12-06",
   "repos": [
     {
-      "name": "antonmedv/gitmal",
-      "url": "https://github.com/antonmedv/gitmal",
-      "stars": 691
+      "name": "assetnote/react2shell-scanner",
+      "url": "https://github.com/assetnote/react2shell-scanner",
+      "stars": 753
     },
     {
-      "name": "ejpir/CVE-2025-55182-research",
-      "url": "https://github.com/ejpir/CVE-2025-55182-research",
-      "stars": 664
+      "name": "antonmedv/gitmal",
+      "url": "https://github.com/antonmedv/gitmal",
+      "stars": 719
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 629
+      "stars": 671
     },
     {
-      "name": "assetnote/react2shell-scanner",
-      "url": "https://github.com/assetnote/react2shell-scanner",
-      "stars": 541
+      "name": "ejpir/CVE-2025-55182-research",
+      "url": "https://github.com/ejpir/CVE-2025-55182-research",
+      "stars": 670
     },
     {
       "name": "msanft/CVE-2025-55182",
       "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 533
+      "stars": 562
     }
   ]
 }

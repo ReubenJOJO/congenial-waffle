@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-06 (UTC)
 
-- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) ⭐ 691 stars
-- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 664 stars
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 629 stars
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 541 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 533 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 753 stars
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) ⭐ 719 stars
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 671 stars
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 670 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 562 stars
 
 # Top News Headlines
 Fetched on 2025-12-06 (UTC)
-- Stock Market Today: Nasdaq Futures Gain; Dow Futures Waver Ahead of Inflation Data — Live Updates - The Wall Street Journal — [read more](https://www.wsj.com/livecoverage/stock-market-inflation-consumers-12-05-2025)
-- EU slaps €120M fine on Elon Musk’s X, straining ties with US - politico.eu — [read more](https://www.politico.eu/article/eu-slaps-e120m-fine-on-x-straining-ties-with-us/)
-- Speaker Johnson under attack from his own as mood darkens in House GOP - CNN — [read more](https://www.cnn.com/2025/12/05/politics/speaker-johnson-house-gop-frustration-attacks)
-- Global websites back online as Cloudflare issues a dashboard fix - CNBC — [read more](https://www.cnbc.com/2025/12/05/cloudlfare-is-investigating-issues-with-dashboard-and-related-apps.html)
-- At least 4 countries pull out of 2026 Eurovision contest over Israel’s participation - NPR — [read more](https://www.npr.org/2025/12/05/nx-s1-5634466/eurovision-contest-israel)
+- CDC panel makes most sweeping revision to child vaccine schedule under RFK Jr. - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/12/05/acip-childhood-immunization-schedule-hepatitis-b/)
+- Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News — [read more](https://apnews.com/article/olivia-nuzzi-vanity-fair-departure-77d91e3e729bdd48e9abf16a3a966d5f)
+- Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN — [read more](https://www.cnn.com/2025/12/05/politics/suriname-boat-strike-bradley)
+- US Supreme Court agrees to hear case challenging birthright citizenship - BBC — [read more](https://www.bbc.com/news/articles/c208j0wrzrvo)
+- Rep. Adelita Grijalva says she was pepper-sprayed during ICE raid - Politico — [read more](https://www.politico.com/news/2025/12/05/adelita-grijalva-pepper-sprayed-ice-raid-00679196)
 
 # Top Tech News
 Fetched on 2025-12-06 (UTC)
-- Nintendo Set to Finally Acknowledge Donkey Kong: Bananza's Secret Character — And Fans Are Now Convinced The Timing Points to Mario Kart World DLC - IGN — [read more](https://www.ign.com/articles/nintendo-set-to-finally-acknowledge-donkey-kong-bananzas-secret-character-and-fans-are-now-convinced-the-timing-points-to-mario-kart-world-dlc)
-- Microsoft finally has a better looking Run dialog for Windows 11 - The Verge — [read more](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)
-- Congress told there needs to be “consequences” for NASA delays amid China’s rise - Ars Technica — [read more](https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/)
-- Roundup: All The Xbox Reveals From The PC Gaming Show: Most Wanted 2025 - Pure Xbox — [read more](https://www.purexbox.com/news/2025/12/roundup-all-the-xbox-reveals-from-the-pc-gaming-show-most-wanted-2025)
-- World of Warcraft's Housing Feature Is Now Live, and Horde Players Are Desperately Trying to Reinvent Their Spiky Huts - IGN — [read more](https://www.ign.com/articles/world-of-warcrafts-housing-feature-is-now-live-and-horde-players-are-desperately-trying-to-reinvent-their-spiky-huts)
+- Metroid Prime 4 Has A Lot Of Vaginal Doorways In It - Kotaku — [read more](https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050)
+- SpaceX's Starlink Finds Cable Issue With Advanced Power Supply - PCMag — [read more](https://www.pcmag.com/news/spacexs-starlink-finds-cable-issue-with-advanced-power-supply)
+- Chamberlain blocks smart home integrations with its garage door openers — again - The Verge — [read more](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers)
+- Giant $450 price drop hits Apple’s 512GB M4 iPad Pro at Amazon [Updated] - 9to5Toys — [read more](http://9to5toys.com/2025/12/05/price-drop-apple-512gb-m4-ipad-pro/)
+- Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal - The Verge — [read more](https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung)
