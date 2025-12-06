@@ -1,20 +1,15 @@
 {
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "repos": [
     {
-      "name": "Gururagavendra/gmail-cleaner",
-      "url": "https://github.com/Gururagavendra/gmail-cleaner",
-      "stars": 949
+      "name": "antonmedv/gitmal",
+      "url": "https://github.com/antonmedv/gitmal",
+      "stars": 653
     },
     {
       "name": "ejpir/CVE-2025-55182-research",
       "url": "https://github.com/ejpir/CVE-2025-55182-research",
-      "stars": 640
-    },
-    {
-      "name": "antonmedv/gitmal",
-      "url": "https://github.com/antonmedv/gitmal",
-      "stars": 638
+      "stars": 650
     },
     {
       "name": "TelegramMessenger/cocoon",
@@ -24,7 +19,12 @@
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 486
+      "stars": 513
+    },
+    {
+      "name": "msanft/CVE-2025-55182",
+      "url": "https://github.com/msanft/CVE-2025-55182",
+      "stars": 471
     }
   ]
 }

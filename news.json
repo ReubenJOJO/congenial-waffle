@@ -1,30 +1,25 @@
 {
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "headlines": [
     {
-      "title": "‘Signalgate’ report contradicts Hegseth’s claim of ‘total exoneration’ - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/12/04/signal-pete-hegseth-inspector-general/",
+      "title": "National Guard can stay in D.C. for now, appeals court says - The Washington Post",
+      "url": "https://www.washingtonpost.com/dc-md-va/2025/12/04/national-guard-dc-trump/",
       "source": "The Washington Post"
     },
     {
-      "title": "Vance says antisemitism isn't 'exploding' on the right - NBC News",
-      "url": "https://www.nbcnews.com/politics/jd-vance/vance-says-antisemitism-isnt-exploding-right-rcna247414",
-      "source": "NBC News"
+      "title": "New Orleans residents in fear as immigration crackdown descends on their city - BBC",
+      "url": "https://www.bbc.com/news/articles/c1w93r2zn7yo",
+      "source": "BBC News"
     },
     {
-      "title": "Trump’s crackdown on Russian oil hangs heavy as Putin arrives in India - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/12/04/putin-india-modi-trump-russia-oil/",
+      "title": "Navy deployment marred by friendly fire, lost jets, collision at sea - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/12/04/navy-investigation-aircraft-carrier-truman-yemen/",
       "source": "The Washington Post"
     },
     {
-      "title": "FBI arrests suspect in 2021 D.C. pipe bomb case, identified as Virginia man - CBS News",
-      "url": "https://www.cbsnews.com/news/pipe-bomb-suspect-arrest/",
-      "source": "CBS News"
-    },
-    {
-      "title": "U.S. tightens immigration work permits in latest move to expand crackdown - CBS News",
-      "url": "https://www.cbsnews.com/news/immigration-work-permits-uscis/",
-      "source": "CBS News"
+      "title": "'Sex and the City' Star Kim Cattrall Marries Russell Thomas - TMZ",
+      "url": "https://www.tmz.com/2025/12/04/sex-and-the-city-kim-cattrall-marries-russell-thomas/",
+      "source": "TMZ"
     }
   ]
 }
