@@ -1,24 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-07 (UTC)
 
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 999 stars
-- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 687 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 608 stars
-- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 463 stars
-- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ⭐ 421 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1046 stars
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 697 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 627 stars
+- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 500 stars
+- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ⭐ 447 stars
 
 # Top News Headlines
 Fetched on 2025-12-07 (UTC)
-- Under RFK Jr., the CDC provides a megaphone to the anti-vaccine movement - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/12/06/cdc-acip-anti-vaccine-rhetoric/)
-- Medical Mysteries: She had intense jaw pain. Then her face began ‘deforming’ before her eyes. - The Washington Post — [read more](https://www.washingtonpost.com/health/2025/12/06/medical-mysteries-jaw-popping/)
-- National Guard member who survived D.C. attack 'slowly healing,' West Virginia's governor says - NBC News — [read more](https://www.nbcnews.com/news/us-news/national-guard-member-survived-dc-attack-slowly-healing-west-virginias-rcna247721)
-- Analyzing Iowa State staffers who could join Matt Campbell at Penn State, including a Harrisburg native - PennLive.com — [read more](https://www.pennlive.com/pennstatefootball/2025/12/analyzing-iowa-state-staffers-who-could-join-matt-campbell-at-penn-state-including-a-harrisburg-native.html)
-- CRAWFORD | Music City Meltdown: No. 11 Gonzaga eviscerates No. 18 Kentucky, 94-59 - WDRB — [read more](https://www.wdrb.com/sports/crawford-music-city-meltdown-no-11-gonzaga-eviscerates-no-18-kentucky-94-59/article_a7fd4b54-5814-4fae-a38f-6e08ddf471d9.html)
+- UFC 323 live results: Merab Dvalishvili vs. Petr Yan 2 updates, round-by-round scoring and highlights - Yahoo Sports — [read more](https://sports.yahoo.com/mma/breaking-news/live/ufc-323-live-results-merab-dvalishvili-vs-petr-yan-2-updates-round-by-round-scoring-and-highlights-060033879.html)
+- Hegseth declares end of US 'utopian idealism' with new military strategy - Politico — [read more](https://www.politico.com/news/2025/12/06/hegseth-reagan-forum-defense-strategy-00679736)
+- Alabama vs. Georgia live updates: Score, analysis and highlights for SEC Championship Game - CBS Sports — [read more](https://www.cbssports.com/college-football/news/alabama-georgia-live-updates-sec-championship-game-score-results-analysis/live/)
+- Trump will award medals to the Kennedy Center honorees in an Oval Office ceremony - AP News — [read more](https://apnews.com/article/trump-kennedy-center-honorees-awards-ceremony-medal-5f4b60fb514f978d34e3468a711f0132)
+- National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday - NPR — [read more](https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth)
 
 # Top Tech News
 Fetched on 2025-12-07 (UTC)
-- New MacBook Air M4 Is Now Cheaper Than Refurb M2, Amazon Liquidates Stock After Black Friday at Record Low - Gizmodo — [read more](https://gizmodo.com/new-macbook-air-m4-is-now-cheaper-than-refurb-m2-amazon-liquidates-stock-after-black-friday-at-record-low-2000696077)
-- Tesla announces 2025 holiday update with a few cool features - Electrek — [read more](http://electrek.co/2025/12/05/tesla-2025-holiday-update-few-cool-features/)
-- Apple Watch, Samsung Galaxy Watch: Am I addicted to my smartwatch? - BBC — [read more](https://www.bbc.com/news/articles/c8xdgwrrd0vo)
-- I Spent *Hours* Scrolling TikTok To Find These 29 Elite Gifts So You Don’t Have To - BuzzFeed — [read more](https://www.buzzfeed.com/jessicahall2/elite-tiktok-gifts-2025)
-- Metroid Prime 4 Has A Lot Of Vaginal Doorways In It - Kotaku — [read more](https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050)
+- 41 People Who Almost Died Are Sharing How They Barely Survived, And It's Actually Terrifying - BuzzFeed — [read more](https://www.buzzfeed.com/mychalthompson/41-people-who-almost-died)
+- Apple’s chip chief might be the next exec to leave - The Verge — [read more](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)
+- In true roguelike fashion, Slay the Spire 2 is only being made because of a 50/50 coin flip - Rock Paper Shotgun — [read more](https://www.rockpapershotgun.com/in-true-roguelike-fashion-slay-the-spire-2-is-only-being-made-because-of-a-5050-coin-flip)
+- This Android 16 tablet feature is making me consider replacing my iPad - Android Police — [read more](https://www.androidpolice.com/android-16-replacing-ipad/)
+- Bungie Has No Plans For More Destiny 2 Expansion Crossovers After Star Wars-themed Renegades - The Game Post — [read more](https://thegamepost.com/bungie-no-plans-destiny-2-expansion-crossovers-star-wars-renegades/)

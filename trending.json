@@ -4,27 +4,27 @@
     {
       "name": "assetnote/react2shell-scanner",
       "url": "https://github.com/assetnote/react2shell-scanner",
-      "stars": 999
+      "stars": 1046
     },
     {
       "name": "ejpir/CVE-2025-55182-research",
       "url": "https://github.com/ejpir/CVE-2025-55182-research",
-      "stars": 687
+      "stars": 697
     },
     {
       "name": "msanft/CVE-2025-55182",
       "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 608
+      "stars": 627
     },
     {
       "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
       "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-      "stars": 463
+      "stars": 500
     },
     {
       "name": "guhcostan/mac-cleaner-cli",
       "url": "https://github.com/guhcostan/mac-cleaner-cli",
-      "stars": 421
+      "stars": 447
     }
   ]
 }
