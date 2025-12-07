@@ -1,30 +1,25 @@
 {
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "headlines": [
+    {
+      "title": "Vanity Fair and journalist Olivia Nuzzi part ways - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/vanity-fair-journalist-olivia-nuzzi-part-ways-rcna247688",
+      "source": "NBC News"
+    },
     {
       "title": "CDC panel makes most sweeping revision to child vaccine schedule under RFK Jr. - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/12/05/acip-childhood-immunization-schedule-hepatitis-b/",
       "source": "The Washington Post"
     },
     {
-      "title": "Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News",
-      "url": "https://apnews.com/article/olivia-nuzzi-vanity-fair-departure-77d91e3e729bdd48e9abf16a3a966d5f",
-      "source": "Associated Press"
+      "title": "Penn State set to hire Iowa State head coach Matt Campbell, per source - Centre Daily Times",
+      "url": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article313406704.html",
+      "source": "Centre Daily Times"
     },
     {
-      "title": "Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN",
-      "url": "https://www.cnn.com/2025/12/05/politics/suriname-boat-strike-bradley",
-      "source": "CNN"
-    },
-    {
-      "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
-      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo",
-      "source": "BBC News"
-    },
-    {
-      "title": "Rep. Adelita Grijalva says she was pepper-sprayed during ICE raid - Politico",
-      "url": "https://www.politico.com/news/2025/12/05/adelita-grijalva-pepper-sprayed-ice-raid-00679196",
-      "source": "Politico"
+      "title": "Survivors of Sept. 2 boat strike were waving before second attack, sources say - CBS News",
+      "url": "https://www.cbsnews.com/news/survivors-sept-2-boat-strike-waving-before-second-attack/",
+      "source": "CBS News"
     }
   ]
 }
