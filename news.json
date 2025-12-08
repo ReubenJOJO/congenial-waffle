@@ -2,24 +2,29 @@
   "date": "2025-12-08",
   "headlines": [
     {
-      "title": "25 dead after fire ravages nightclub in popular Indian tourism spot - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/12/07/goa-nightclub-fire-deaths/",
+      "title": "Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News",
+      "url": "https://www.cbsnews.com/news/marjorie-taylor-greene-trump-relationship-change-60-minutes/",
+      "source": "CBS News"
+    },
+    {
+      "title": "Netflix’s Sarandos Wooed Trump Personally Ahead of Warner Bid - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-07/netflix-co-ceo-ted-sarandos-wooed-trump-personally-ahead-of-warner-bid",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/12/07/stock-market-today-live-updates.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump lashes out at Cuellar for running again as a Democrat after pardon - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/12/07/henry-cuellar-pardon-trump/",
       "source": "The Washington Post"
     },
     {
-      "title": "IndiGo chaos: Why is India’s largest airline canceling hundreds of flights? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/12/7/indigo-chaos-why-is-indias-largest-airline-canceling-hundreds-of-flights",
-      "source": "Al Jazeera English"
-    },
-    {
-      "title": "Benin coup attempt to oust President Talon foiled by loyalist troops, minister says - BBC",
-      "url": "https://www.bbc.com/news/articles/c62v7n9wzkyo",
-      "source": "BBC News"
-    },
-    {
-      "title": "The small team running Trump’s foreign policy - Politico",
-      "url": "https://www.politico.com/news/2025/12/07/the-small-team-running-trumps-foreign-policy-00679802",
-      "source": "Politico"
+      "title": "Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News",
+      "url": "https://www.cbsnews.com/news/southwest-airlines-2022-winter-storm-cancellations-fine-waved/",
+      "source": "CBS News"
     }
   ]
 }

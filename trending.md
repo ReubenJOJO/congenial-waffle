@@ -1,23 +1,24 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-08 (UTC)
 
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1278 stars
-- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 714 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 691 stars
-- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 591 stars
-- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ⭐ 520 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1498 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 756 stars
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 722 stars
+- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 625 stars
+- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ⭐ 611 stars
 
 # Top News Headlines
 Fetched on 2025-12-08 (UTC)
-- 25 dead after fire ravages nightclub in popular Indian tourism spot - The Washington Post — [read more](https://www.washingtonpost.com/world/2025/12/07/goa-nightclub-fire-deaths/)
-- IndiGo chaos: Why is India’s largest airline canceling hundreds of flights? - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/12/7/indigo-chaos-why-is-indias-largest-airline-canceling-hundreds-of-flights)
-- Benin coup attempt to oust President Talon foiled by loyalist troops, minister says - BBC — [read more](https://www.bbc.com/news/articles/c62v7n9wzkyo)
-- The small team running Trump’s foreign policy - Politico — [read more](https://www.politico.com/news/2025/12/07/the-small-team-running-trumps-foreign-policy-00679802)
+- Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News — [read more](https://www.cbsnews.com/news/marjorie-taylor-greene-trump-relationship-change-60-minutes/)
+- Netflix’s Sarandos Wooed Trump Personally Ahead of Warner Bid - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-12-07/netflix-co-ceo-ted-sarandos-wooed-trump-personally-ahead-of-warner-bid)
+- Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates - CNBC — [read more](https://www.cnbc.com/2025/12/07/stock-market-today-live-updates.html)
+- Trump lashes out at Cuellar for running again as a Democrat after pardon - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/12/07/henry-cuellar-pardon-trump/)
+- Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News — [read more](https://www.cbsnews.com/news/southwest-airlines-2022-winter-storm-cancellations-fine-waved/)
 
 # Top Tech News
 Fetched on 2025-12-08 (UTC)
-- The Pixel 11 is already the best phone of 2026 - Android Authority — [read more](https://www.androidauthority.com/pixel-11-best-phone-2026-3621851/)
-- I tried Apple's app of the year. It's more than a tool for people with ADHD. - Business Insider — [read more](https://www.businessinsider.com/i-tried-tiimo-apple-iphone-app-of-the-year-2025-12)
-- We Found the Truth: The Real Reason Your LED Lights Keep Dropping Dead - CNET — [read more](https://www.cnet.com/home/smart-home/we-found-the-truth-the-real-reason-your-led-lights-keep-dropping-dead/)
-- Teams, Edge, Copilot, and Outlook are getting some big updates soon - Neowin — [read more](https://www.neowin.net/news/teams-edge-copilot-and-outlook-are-getting-some-big-updates-soon/)
-- Former Nintendo staffers explain why Nintendo ditched the "Nindies" name - Nintendo Everything — [read more](https://nintendoeverything.com/former-nintendo-staffers-explain-why-nintendo-ditched-the-nindies-name/)
+- RIP, ‘Dead Space’….Again (2008-2023) - Gizmodo — [read more](https://gizmodo.com/rip-dead-space-again-2000696495)
+- USB Video Capture Devices: Wow! They’re All Bad!! - Hackaday — [read more](https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/)
+- How Home Assistant Leads a 'Local-First Rebellion' - Slashdot — [read more](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion)
+- 6 Cheap Smart TVs To Avoid At All Costs, According To Consumer Reports - bgr.com — [read more](https://www.bgr.com/2039725/cheap-smart-tvs-to-avoid-according-consumer-reports-2025/)
+- PS5 reigns supreme over Black Friday, accounting for a staggering 62% of all console sales - Eurogamer — [read more](https://www.eurogamer.net/ps5-reigns-supreme-over-black-friday-accounting-for-a-staggering-62-of-all-console-sales)
