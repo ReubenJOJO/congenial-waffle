@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "repos": [
     {
       "name": "assetnote/react2shell-scanner",
       "url": "https://github.com/assetnote/react2shell-scanner",
-      "stars": 1498
+      "stars": 1639
     },
     {
       "name": "msanft/CVE-2025-55182",
       "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 756
+      "stars": 812
     },
     {
       "name": "ejpir/CVE-2025-55182-research",
       "url": "https://github.com/ejpir/CVE-2025-55182-research",
-      "stars": 722
+      "stars": 723
+    },
+    {
+      "name": "zai-org/Open-AutoGLM",
+      "url": "https://github.com/zai-org/Open-AutoGLM",
+      "stars": 715
     },
     {
       "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
       "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-      "stars": 625
-    },
-    {
-      "name": "guhcostan/mac-cleaner-cli",
-      "url": "https://github.com/guhcostan/mac-cleaner-cli",
-      "stars": 611
+      "stars": 640
     }
   ]
 }

@@ -1,24 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-12-08 (UTC)
+Fetched on 2025-12-09 (UTC)
 
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1498 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 756 stars
-- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 722 stars
-- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 625 stars
-- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) ⭐ 611 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1639 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 812 stars
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 723 stars
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 715 stars
+- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 640 stars
 
 # Top News Headlines
-Fetched on 2025-12-08 (UTC)
-- Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News — [read more](https://www.cbsnews.com/news/marjorie-taylor-greene-trump-relationship-change-60-minutes/)
-- Netflix’s Sarandos Wooed Trump Personally Ahead of Warner Bid - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-12-07/netflix-co-ceo-ted-sarandos-wooed-trump-personally-ahead-of-warner-bid)
-- Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates - CNBC — [read more](https://www.cnbc.com/2025/12/07/stock-market-today-live-updates.html)
-- Trump lashes out at Cuellar for running again as a Democrat after pardon - The Washington Post — [read more](https://www.washingtonpost.com/politics/2025/12/07/henry-cuellar-pardon-trump/)
-- Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News — [read more](https://www.cbsnews.com/news/southwest-airlines-2022-winter-storm-cancellations-fine-waved/)
+Fetched on 2025-12-09 (UTC)
+- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN — [read more](https://www.cnn.com/2025/12/07/asia/thailand-cambodia-border-clashes-december-intl-hnk)
+- NFL Explains Isaiah Likely Overturned Touchdown Catch And More Calls in Ravens’ Loss to Steelers - Ravens Home | Baltimore Ravens – baltimoreravens.com — [read more](https://www.baltimoreravens.com/news/isaiah-likely-ravens-steelers-penalties-overturned-nfl-explains-aaron-rodgers-2025)
+- What we learned as Bears drop nailbiter to Packers, lose NFC North lead - Marquee Sports Network — [read more](https://www.marqueesportsnetwork.com/chicago-bears-score-highlights-green-bay-packers-nfl-week-14-results/)
+- ‘One Battle After Another’ Wins Best Film At Los Angeles Film Critics Association 2025 Awards — Full Winners List - Deadline — [read more](http://deadline.com/2025/12/los-angeles-film-critics-association-2025-award-winners-1236640769/)
 
 # Top Tech News
-Fetched on 2025-12-08 (UTC)
+Fetched on 2025-12-09 (UTC)
+- Apple TV previews new F1 streaming deal, confirms driver onboard cams will be included - 9to5Mac — [read more](https://9to5mac.com/2025/12/07/apple-tv-formula-1-features-first-look-app/)
+- A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert — [read more](https://www.sciencealert.com/a-fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brains)
 - RIP, ‘Dead Space’….Again (2008-2023) - Gizmodo — [read more](https://gizmodo.com/rip-dead-space-again-2000696495)
+- Gravity-Defying Colorado Mansion Designed by a Rocket Scientist Hits the Market for $2.7 Million - Realtor.com — [read more](https://www.realtor.com/news/unique-homes/colorado-rocket-scientist-home-sale-daryl-maus/)
 - USB Video Capture Devices: Wow! They’re All Bad!! - Hackaday — [read more](https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/)
-- How Home Assistant Leads a 'Local-First Rebellion' - Slashdot — [read more](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion)
-- 6 Cheap Smart TVs To Avoid At All Costs, According To Consumer Reports - bgr.com — [read more](https://www.bgr.com/2039725/cheap-smart-tvs-to-avoid-according-consumer-reports-2025/)
-- PS5 reigns supreme over Black Friday, accounting for a staggering 62% of all console sales - Eurogamer — [read more](https://www.eurogamer.net/ps5-reigns-supreme-over-black-friday-accounting-for-a-staggering-62-of-all-console-sales)
