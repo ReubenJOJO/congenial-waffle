@@ -1,24 +1,22 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-09 (UTC)
 
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1886 stars
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 1635 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 926 stars
-- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 731 stars
-- [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ⭐ 687 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1936 stars
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 1888 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 985 stars
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) ⭐ 737 stars
+- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 713 stars
 
 # Top News Headlines
 Fetched on 2025-12-09 (UTC)
-- Mike Tomlin: You go into business with Aaron Rodgers for days like Sunday - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-you-go-into-business-with-aaron-rodgers-for-days-like-sunday)
-- Berkshire Hathaway stock picker Todd Combs to leave for JPMorgan - Financial Times — [read more](https://www.ft.com/content/647c9bda-172d-4b11-9784-69e4b4590a17)
-- Trump says $72bn Netflix-Warner Bros deal 'could be a problem' - BBC — [read more](https://www.bbc.com/news/articles/cn815egjqjpo)
-- In landmark case, Supreme Court to rule on Trump's bid to control independent agencies - ABC News — [read more](https://abcnews.go.com/Politics/landmark-case-supreme-court-rule-trumps-bid-control/story?id\\u003d128073464)
-- One UI 8.5 beta program: List of supported Galaxy devices - SamMobile — [read more](https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-supported-galaxy-devices/)
+- Paramount launches hostile bid for Warner Bros., challenging Netflix deal - The Washington Post — [read more](https://www.washingtonpost.com/business/2025/12/08/paramount-launches-hostile-bid-warner-bros-challenging-netflix-deal/)
+- Golden Globes nominations: ‘One Battle After Another,’ ‘Sentimental Value,’ ‘Sinners’ lead with most nods - The Washington Post — [read more](https://www.washingtonpost.com/style/interactive/2025/golden-globe-nominations-2026-list/)
+- Fired FBI agents file lawsuit against FBI director Kash Patel and DOJ, alleging unlawful retaliation - CBS News — [read more](https://www.cbsnews.com/news/fired-fbi-agents-kash-patel-doj-lawsuit/)
 
 # Top Tech News
 Fetched on 2025-12-09 (UTC)
-- Is Geoff's statue for a new FromSoftware announcement? Lords of the Fallen studio certainly hopes so - Eurogamer — [read more](https://www.eurogamer.net/the-game-awards-statue-fromsoftware-lords-of-the-fallen-studio)
-- One UI 8.5 beta program: List of supported Galaxy devices - SamMobile — [read more](https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-supported-galaxy-devices/)
-- ‘Only so long’ before Trump's tariff costs hit consumers, businesses warn - Politico — [read more](https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261)
-- Tekken Development Chief Katsuhiro Harada Announces Bandai Namco Exit After 30 Years - IGN — [read more](https://www.ign.com/articles/tekken-development-chief-katsuhiro-harada-announces-bandai-namco-exit-after-30-years)
-- The upcoming Motion Cues feature for Pixels just got a new name (APK teardown) - Android Authority — [read more](https://www.androidauthority.com/google-motion-cues-pixels-new-name-apk-teardown-3623023/)
+- Horses Review: A Fine Game That Should’ve Came And Went - Kotaku — [read more](https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442)
+- Forever Friends and Remote Trading debut in major friendship update - Pokémon GO Hub — [read more](https://pokemongohub.net/post/news/forever-friends-and-remote-trading-debut-in-major-friendship-update/)
+- Halo Infinite Is Four Years Old Today And It’s Bumming Me Out - Kotaku — [read more](https://kotaku.com/halo-infinite-campaign-master-chief-release-date-2000651439)
+- Who killed Star Wars: Knights of the Old Republic II’s 'Restored Content DLC' for Switch? Disney lawyers. - Game File | Stephen Totilo — [read more](https://www.gamefile.news/p/kotor-ii-restored-content-mod-dlc-switch-killed-disney)
+- The Reason Why Vizio TVs Are So Cheap - bgr.com — [read more](https://www.bgr.com/2041063/why-vizio-tvs-so-cheap-explained/)
