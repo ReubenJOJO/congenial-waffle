@@ -4,27 +4,27 @@
     {
       "name": "zai-org/Open-AutoGLM",
       "url": "https://github.com/zai-org/Open-AutoGLM",
-      "stars": 3006
+      "stars": 4131
     },
     {
       "name": "assetnote/react2shell-scanner",
       "url": "https://github.com/assetnote/react2shell-scanner",
-      "stars": 1959
+      "stars": 1979
     },
     {
       "name": "msanft/CVE-2025-55182",
       "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 1019
+      "stars": 1048
+    },
+    {
+      "name": "HKUDS/Paper2Slides",
+      "url": "https://github.com/HKUDS/Paper2Slides",
+      "stars": 819
     },
     {
       "name": "Alibaba-Quark/LiveAvatar",
       "url": "https://github.com/Alibaba-Quark/LiveAvatar",
-      "stars": 739
-    },
-    {
-      "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-      "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
-      "stars": 730
+      "stars": 766
     }
   ]
 }

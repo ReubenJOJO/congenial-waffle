@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
 Fetched on 2025-12-10 (UTC)
 
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 3006 stars
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1959 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 1019 stars
-- [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ⭐ 739 stars
-- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) ⭐ 730 stars
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 4131 stars
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 1979 stars
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 1048 stars
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) ⭐ 819 stars
+- [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ⭐ 766 stars
 
 # Top News Headlines
 Fetched on 2025-12-10 (UTC)
-- Netflix-WB Deal Will Be Approved & Trump Will Climb Aboard, Regulatory Expert Predicts: “The Deal Gets Done” - Deadline — [read more](http://deadline.com/2025/12/netflix-warner-bros-deal-will-get-approved-trump-1236642813/)
-- Philip Rivers will visit, work out with Colts on Tuesday - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/philip-rivers-will-visit-work-out-with-colts-on-tuesday)
-- Ohio State's Julian Sayin named 2025 Heisman Trophy finalist - 247Sports — [read more](https://247sports.com/college/ohio-state/article/ohio-state-football-julian-sayin-named-2025-heisman-trophy-finalist-265526691/)
-- Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China - Bloomberg.com — [read more](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)
+- Exclusive / White House floats compromise with China to export Nvidia H200 chips - https-//www.semafor.com — [read more](https://www.semafor.com/article/12/09/2025/trump-says-nvidia-can-sell-h200-ai-chips-to-china)
+- Honduras seeks arrest of ex-President Hernández after Trump pardon - NPR — [read more](https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon)
+- DeSantis labels Muslim advocacy group CAIR a foreign terrorist group in Florida - Axios — [read more](https://www.axios.com/2025/12/09/florida-desantis-muslim-brotherhood-cair-terrorist-organizations)
+- Monday Night Football: Chargers stun Eagles with 22-19 overtime victory - NBC Sports — [read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-stun-eagles-with-22-19-overtime-victory)
 
 # Top Tech News
 Fetched on 2025-12-10 (UTC)
-- Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes)
-- Xbox sale round-up December 9, 2025 - TrueAchievements — [read more](https://www.trueachievements.com/n61037/xbox-sale-roundup-december-9-2025)
-- Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site — [read more](https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/)
-- Save Over $100 On The ASUS ROG Xbox Ally, Now At Its Lowest Price Yet - IGN — [read more](https://www.ign.com/articles/save-over-100-on-the-asus-rog-xbox-ally-now-at-its-lowest-price-yet)
-- Horses Review: A Fine Game That Should’ve Came And Went - Kotaku — [read more](https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442)
+- Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount - Android Authority — [read more](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
+- Nintendo Switch 2 and Switch 21.1.0 update out now, patch notes - Nintendo Everything — [read more](https://nintendoeverything.com/nintendo-switch-2-and-switch-update-21-1-0-out-now-patch-notes/)
+- Assassin's Creed Shadows Update To Resolve Switch 2 Crashes And Stability Issues - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-update-to-resolve-switch-2-crashes-and-stability-issues)
+- Xbox architect hints at an exciting 2026 for Xbox - Windows Central — [read more](https://www.windowscentral.com/gaming/xbox/xbox-jason-ronald-teases-big-things-for-2026)
+- Star Wars: Knights of the Old Republic 2 Remake Plans Revealed as KOTOR 1 Reimagining Continues Development at Saber - IGN — [read more](https://www.ign.com/articles/star-wars-knights-of-the-old-republic-2-remake-plans-revealed-as-kotor-1-reimagining-continues-development-at-saber)
