@@ -1,30 +1,30 @@
 {
-  "date": "2025-12-10",
+  "date": "2025-12-11",
   "repos": [
     {
       "name": "zai-org/Open-AutoGLM",
       "url": "https://github.com/zai-org/Open-AutoGLM",
-      "stars": 5223
-    },
-    {
-      "name": "assetnote/react2shell-scanner",
-      "url": "https://github.com/assetnote/react2shell-scanner",
-      "stars": 2022
-    },
-    {
-      "name": "msanft/CVE-2025-55182",
-      "url": "https://github.com/msanft/CVE-2025-55182",
-      "stars": 1099
+      "stars": 6245
     },
     {
       "name": "HKUDS/Paper2Slides",
       "url": "https://github.com/HKUDS/Paper2Slides",
-      "stars": 1097
+      "stars": 1182
     },
     {
-      "name": "Alibaba-Quark/LiveAvatar",
-      "url": "https://github.com/Alibaba-Quark/LiveAvatar",
-      "stars": 799
+      "name": "byJoey/ech-wk",
+      "url": "https://github.com/byJoey/ech-wk",
+      "stars": 834
+    },
+    {
+      "name": "mistralai/mistral-vibe",
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "stars": 818
+    },
+    {
+      "name": "PastKing/tgbot-verify",
+      "url": "https://github.com/PastKing/tgbot-verify",
+      "stars": 815
     }
   ]
 }

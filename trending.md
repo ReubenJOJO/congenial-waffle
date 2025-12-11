@@ -1,23 +1,23 @@
 # Trending GitHub Repositories
-Fetched on 2025-12-10 (UTC)
+Fetched on 2025-12-11 (UTC)
 
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 5223 stars
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) ⭐ 2022 stars
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) ⭐ 1099 stars
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) ⭐ 1097 stars
-- [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) ⭐ 799 stars
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 6245 stars
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) ⭐ 1182 stars
+- [byJoey/ech-wk](https://github.com/byJoey/ech-wk) ⭐ 834 stars
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) ⭐ 818 stars
+- [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) ⭐ 815 stars
 
 # Top News Headlines
-Fetched on 2025-12-10 (UTC)
-- MLB Winter Meetings live updates: Latest news, rumors and analysis from Tuesday - CBS Sports — [read more](https://www.cbssports.com/mlb/news/mlb-winter-meetings-2025-live-updates-analysis-rumors-news-tuesday/live/)
-- White Sox win 2026 MLB draft lottery! Here's a mini-mock draft predicting the top 5 picks - ESPN — [read more](https://www.espn.com/mlb/story/_/id/47246954/2026-mlb-draft-lottery-mock-draft-top-5-picks-white-sox-rays-twins-giants-pirates)
-- Over 250 people quarantined in South Carolina as measles outbreak rages - Ars Technica — [read more](https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/)
-- YouTube TV has fixed ‘restricted’ problem that broke recorded content [U] - 9to5Google — [read more](http://9to5google.com/2025/12/09/youtube-tv-restricted-recordings-issue/)
+Fetched on 2025-12-11 (UTC)
+- Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought - CBS News — [read more](https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought/)
+- How social media reacted to Rob Wright III’s game-winning buzzer beater for BYU - Deseret News — [read more](https://www.deseret.com/sports/2025/12/09/robert-wright-iii-byu-basketball-buzzer-beater-clemson-social-media-reactions/)
+- Taylor Swift, Blake Lively Still On The Outs As They Both Go Out In New York - TMZ — [read more](https://www.tmz.com/2025/12/09/taylor-swift-blake-lively-strained-relationship/)
+- Appearance by Venezuelan Nobel Peace laureate María Corina Machado canceled on eve of prize ceremony - AP News — [read more](https://apnews.com/article/maria-corina-machado-nobel-peace-99e2432046ab817faf2e5314f2dad434)
 
 # Top Tech News
-Fetched on 2025-12-10 (UTC)
+Fetched on 2025-12-11 (UTC)
+- Register for Last Vegas 2026 | Evo | The Ultimate Fighting Game Tournament - Evo.gg — [read more](https://evo.gg/register/)
+- Call of Duty won’t release Modern Warfare or Black Ops back to back anymore - The Verge — [read more](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back)
 - YouTube TV has fixed ‘restricted’ problem that broke recorded content [U] - 9to5Google — [read more](http://9to5google.com/2025/12/09/youtube-tv-restricted-recordings-issue/)
-- Divinity Original Sin 3 Not Happening Now At Larian, Or Toilet Simulator - GameSpot — [read more](https://www.gamespot.com/articles/divinity-original-sin-3-not-happening-now-at-larian-or-toilet-simulator/1100-6536810/)
-- First look: Android 17 may finally let you remap buttons on your game controller - Android Authority — [read more](https://www.androidauthority.com/android-17-gamepad-remapping-rumor-3623718/)
-- I’m obsessed with Redfin’s AI search - The Verge — [read more](https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot)
-- Nothing’s community-designed Phone 3A adds some color and matching dice - The Verge — [read more](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)
+- WearOS 6.1 hits Pixel Watch with new features in tow - Android Authority — [read more](https://www.androidauthority.com/wear-os-6-1-pixel-watch-3623774/)
+- iPhone Fold called ‘game-changer’ for next year, big impact predicted - 9to5Mac — [read more](https://9to5mac.com/2025/12/09/iphone-fold-called-game-changer-for-next-year-big-impact-predicted/)
