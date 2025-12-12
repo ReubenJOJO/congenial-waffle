@@ -2,28 +2,18 @@
   "date": "2025-12-12",
   "headlines": [
     {
-      "title": "S&P 500 futures retreat after nearing record on Fed as Oracle disappointment drags down AI stocks: Live updates - cnbc.com",
-      "url": "https://www.cnbc.com/2025/12/10/stock-market-today-live-updates.html",
-      "source": "CNBC"
+      "title": "Live: Historic flooding forces road closures, evacuations - The Seattle Times",
+      "url": "https://www.seattletimes.com/seattle-news/weather/wa-floods-road-closures-and-evacuation-order-in-skagit-flood-plain/",
+      "source": "The Seattle Times"
     },
     {
-      "title": "Russia-Ukraine Live: Zelensky Holds Urgent Calls as Trump Cranks Pressure - Newsweek",
-      "url": "https://www.newsweek.com/russia-ukraine-war-live-updates-news-trump-putin-zelensky-nato-11192009",
-      "source": "Newsweek"
+      "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official - Ars Technica",
+      "url": "https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/",
+      "source": "Ars Technica"
     },
     {
-      "title": "Charlie Kirk murder suspect Tyler Robinson to make 1st in-person court appearance - ABC News",
-      "url": "https://abcnews.go.com/US/charlie-kirk-murder-suspect-tyler-robinson-court-appearance/story?id\\\\u003d128293883",
-      "source": "ABC News"
-    },
-    {
-      "title": "‘A gentleman’s C’: Some conservative economists quibble with Trump’s ‘A+++++’ grade of economy - Politico",
-      "url": "https://www.politico.com/news/2025/12/11/trump-grades-his-economy-an-a-some-conservative-economists-disagree-00685815",
-      "source": "Politico"
-    },
-    {
-      "title": "Exclusive | Trove of Critical Minerals Uncovered in the Utah Desert - The Wall Street Journal",
-      "url": "https://www.wsj.com/articles/trove-of-critical-minerals-uncovered-in-the-utah-desert-9bc509f9",
+      "title": "Disney to Invest $1 Billion in OpenAI and License Characters for Use in ChatGPT, Sora - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/disney-to-invest-1-billion-in-openai-license-characters-for-use-in-chatgpt-sora-3a4916e2",
       "source": "The Wall Street Journal"
     }
   ]
