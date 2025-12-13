@@ -1,20 +1,30 @@
 {
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "headlines": [
     {
-      "title": "Live: Historic flooding forces road closures, evacuations - The Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/weather/wa-floods-road-closures-and-evacuation-order-in-skagit-flood-plain/",
-      "source": "The Seattle Times"
+      "title": "Magnitude 6.7 earthquake hits Japan’s northeast, tsunami warning issued - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued",
+      "source": "Al Jazeera English"
     },
     {
-      "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official - Ars Technica",
-      "url": "https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/",
+      "title": "South Carolina grapples with measles outbreak - NewsNation",
+      "url": "https://www.newsnationnow.com/health/south-carolina-measles-outbreak-schools-cdc/",
+      "source": "Newsnationnow.com"
+    },
+    {
+      "title": "Six injured in Hayward explosion after construction crew strikes gas line - San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/bayarea/article/hayward-fire-21237315.php",
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "title": "Control: Resonant Announced by Remedy for 2026 Release | The Game Awards 2025 - IGN",
+      "url": "https://www.ign.com/articles/control-resonant-announced-by-remedy-for-2026-release-the-game-awards-2025",
+      "source": "IGN"
+    },
+    {
+      "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you - Ars Technica",
+      "url": "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/",
       "source": "Ars Technica"
-    },
-    {
-      "title": "Disney to Invest $1 Billion in OpenAI and License Characters for Use in ChatGPT, Sora - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/media/disney-to-invest-1-billion-in-openai-license-characters-for-use-in-chatgpt-sora-3a4916e2",
-      "source": "The Wall Street Journal"
     }
   ]
 }

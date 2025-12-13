@@ -1,22 +1,24 @@
 # Trending GitHub Repositories
-Fetched on 2025-12-12 (UTC)
+Fetched on 2025-12-13 (UTC)
 
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 12272 stars
-- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) ⭐ 1827 stars
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) ⭐ 1717 stars
-- [byJoey/ech-wk](https://github.com/byJoey/ech-wk) ⭐ 1103 stars
-- [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) ⭐ 955 stars
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 12667 stars
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) ⭐ 1846 stars
+- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) ⭐ 1738 stars
+- [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) ⭐ 979 stars
+- [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) ⭐ 911 stars
 
 # Top News Headlines
-Fetched on 2025-12-12 (UTC)
-- Live: Historic flooding forces road closures, evacuations - The Seattle Times — [read more](https://www.seattletimes.com/seattle-news/weather/wa-floods-road-closures-and-evacuation-order-in-skagit-flood-plain/)
-- Instead of fixing WoW’s new floating house exploit, Blizzard makes it official - Ars Technica — [read more](https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/)
-- Disney to Invest $1 Billion in OpenAI and License Characters for Use in ChatGPT, Sora - The Wall Street Journal — [read more](https://www.wsj.com/business/media/disney-to-invest-1-billion-in-openai-license-characters-for-use-in-chatgpt-sora-3a4916e2)
+Fetched on 2025-12-13 (UTC)
+- Magnitude 6.7 earthquake hits Japan’s northeast, tsunami warning issued - Al Jazeera — [read more](https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued)
+- South Carolina grapples with measles outbreak - NewsNation — [read more](https://www.newsnationnow.com/health/south-carolina-measles-outbreak-schools-cdc/)
+- Six injured in Hayward explosion after construction crew strikes gas line - San Francisco Chronicle — [read more](https://www.sfchronicle.com/bayarea/article/hayward-fire-21237315.php)
+- Control: Resonant Announced by Remedy for 2026 Release | The Game Awards 2025 - IGN — [read more](https://www.ign.com/articles/control-resonant-announced-by-remedy-for-2026-release-the-game-awards-2025)
+- Jonathan Blow has spent the past decade designing 1,400 puzzles for you - Ars Technica — [read more](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/)
 
 # Top Tech News
-Fetched on 2025-12-12 (UTC)
-- Instead of fixing WoW’s new floating house exploit, Blizzard makes it official - Ars Technica — [read more](https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/)
-- Amazon Prime Video pulls AI-powered recaps after Fallout flub - The Verge — [read more](https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap)
-- The Game Awards 2025: How To Watch, Start Times, And What To Expect - GameSpot — [read more](https://www.gamespot.com/articles/the-game-awards-2025-how-to-watch-start-times-and-what-to-expect/1100-6536768/)
-- ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026 - The Verge — [read more](https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026)
-- The Best And Worst Moments In Game Awards History - Kotaku — [read more](https://kotaku.com/game-awards-oscars-flute-kojima-ninja-muppets-drdisrespect-2000652237)
+Fetched on 2025-12-13 (UTC)
+- Mega Man Returns In 2027 With A Brand-New Entry For Switch And Switch 2 - Nintendo Life — [read more](https://www.nintendolife.com/news/2025/12/mega-man-returns-in-2027-with-a-brand-new-entry-for-switch-and-switch-2)
+- Announcing Total War: Warhammer 40,000! - Warhammer Community — [read more](https://www.warhammer-community.com/articles/im0uezy0/announcing-total-war-warhammer-40000)
+- Forest 3 Confirmed by Endnight as Sons of the Forest Follow-Up With First Trailer Trailer | The Game Awards 2025 - IGN — [read more](https://www.ign.com/articles/forest-3-confirmed-by-endnight-as-sons-of-the-forest-follow-up-with-first-trailer-trailer-the-game-awards-2025)
+- Get Ready to Ride the Light: Diablo 4's Next Expansion Adds Paladin Class, Revamps the Endgame - CNET — [read more](https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/)
+- Orbitals announced exclusively for Nintendo Switch 2 - Nintendo Everything — [read more](https://nintendoeverything.com/orbitals-announced-exclusively-for-nintendo-switch-2/)
